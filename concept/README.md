@@ -50,6 +50,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
+<img width="501" height="332" alt="graphique_gameplay1" src="https://github.com/user-attachments/assets/7fd3cc2e-d9a6-41a4-8577-b5082e1361f8" />
 
 ### La progression
 
