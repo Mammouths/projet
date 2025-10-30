@@ -52,8 +52,7 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 -->
 
 ### La progression
-![](<img width="501" height="332" alt="graphique_gameplay1" src="https://github.com/user-attachments/assets/cc7c495a-ae92-4508-b165-7e16ed7b7df9" />
-)
+
 <!--  sur le temps et la progression -->
 
 ### L'aspect collectif
