@@ -46,7 +46,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 * Le jeu affiche l'écran de fin avec un tableau des scores
 
 ### L'espace
-[] (graphique_espace.jpg)
+![](graphique_espace.jpg)
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
