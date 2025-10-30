@@ -1,4 +1,4 @@
-# Titre du projet
+# Tic Tac Boom!
 
 <!-- Bannderole / Bande-annonce -->
 ![]( https://placehold.co/600x400?text=banderole-bande-annonce)
