@@ -32,6 +32,19 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+* L'interacteur arrive dans l'espace de jeu
+* L'interacteur choisi sa manette (manette faite avec un arduino / joystick / key unit) (une des 6 manettes présentes) (toutes avec une couleur différente)
+* L'interacteur se connecte au jeu en appuyant sur le bouton d'intéraction (key unit)
+* Quand les interacteurs sont tous connectés, ils appuient longtemps sur la touche d'interation pour se mettre en mode prêt
+* Le jeu démarre un peu après que tout le monde soit prêt
+* Le jeu montre le titre du premier Mini-Jeu et un compte à rebours s'enclanche
+* Le premier jeu démarre
+* Des instructions simples sont affichées à l'écran
+* Les joueurs jouent au jeu (un des différents jeux sélectionné aléatoirement)
+* Les jeux vont de plus en plus vite
+* Les interactuers finissent par perdre leur vies
+* Le jeu affiche l'écran de fin avec un tableau des scores
+
 ### L'espace
 
 <!-- 
