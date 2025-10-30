@@ -2,7 +2,7 @@
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](Alexandre Gendron/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](Rafael Angon Dubé/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](Mikael Arseneau/)
-* [![Prénom Nom]( https://placehold.co/600x400?text=membre+v)](Mathieu Willett/)
+* [![Alexandre Gendron]( ./Alexandre_Gendron/alex1.JPG)](Alexandre_Gendron/)
+* [![Rafael Angon Dubé]( ./Rafael_Angon_Dube/raf1.JPG)](Rafael_Angon_Dube/)
+* [![Mikael Arseneau]( ./Mikael_Arseneau/mik1.JPG)](Mikael_Arseneau/)
+* [![Mathieu Willett]( ./Mathieu_Willett/math1.JPG)](Mathieu_Willett/)
