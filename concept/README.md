@@ -50,11 +50,14 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
-<img width="501" height="332" alt="graphique_gameplay1" src="https://github.com/user-attachments/assets/7fd3cc2e-d9a6-41a4-8577-b5082e1361f8" />
+![](graphique_gameplay1.png)
 
 ### La progression
 
 <!--  sur le temps et la progression -->
+
+* Au début les jeux sont relativement lent
+* Au fil du temps, ils vont de plus en plus vite
 
 ### L'aspect collectif
 
@@ -67,6 +70,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
+
+L'aspect collectif, est représenté, car les interacteurs devront unir leurs forces pour venir à bout des différents mini-jeux qui leur seront présenté.
+
 ### L'aspect social
 
 <!-- 
@@ -78,7 +84,13 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
+Les interacteurs prendront par eux même des rôles sociaux ("leader") et vont agir de façon similaire à une mini société pour avoir une meilleur chance de gagner les mini-jeux.
+
 ## Inspirations
+
+#### WarioWare
+
+#### Buster Jam
 
 ### Inspirations visuelles et sonores
 
