@@ -1,6 +1,6 @@
 # Mathieu Willett
 
-![]( math1.JPG)
+![]( mathieu_photo.webp)
 
 
  <!--

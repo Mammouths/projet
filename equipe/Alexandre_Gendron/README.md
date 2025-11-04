@@ -1,6 +1,6 @@
 # Alexandre Gendron
 
-![]( alex1.JPG)
+![]( alex1.PNG)
 
 
  <!--

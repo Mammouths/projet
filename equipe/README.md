@@ -2,7 +2,7 @@
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* [![Alexandre Gendron]( ./Alexandre_Gendron/alex1.JPG)](Alexandre_Gendron/)
-* [![Rafael Angon Dubé]( ./Rafael_Dube/raf1.JPG)](Rafael_Dube/)
-* [![Mikael Arseneau]( ./Mikael_Arseneau/mik1.JPG)](Mikael_Arseneau/)
-* [![Mathieu Willett]( ./Mathieu_Willett/math1.JPG)](Mathieu_Willett/)
+* [![Alexandre Gendron]( ./alex_vignette.webp)](Alexandre_Gendron/)
+* [![Rafael Angon Dubé]( ./rafael_vignette.webp)](Rafael_Dube/)
+* [![Mikael Arseneau]( ./mikael_vignette.webp)](Mikael_Arseneau/)
+* [![Mathieu Willett]( ./mathieu_vignette.webp)](Mathieu_Willett/)
