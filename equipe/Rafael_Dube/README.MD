@@ -1,6 +1,6 @@
 # Rafael Angon Dubé
 
-![]( raf1.JPG)
+![]( raphael_photo.webp)
 
 
  <!--
