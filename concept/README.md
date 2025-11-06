@@ -17,7 +17,7 @@
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
-<!-- Méthode 3 (vidéo local) -->
+<!-- Méthode 3 (vidéo locale) -->
 <!-- 
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
@@ -32,32 +32,31 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-* L'interacteur arrive dans l'espace de jeu
-* L'interacteur choisi sa manette (manette faite avec un arduino / joystick / key unit) (une des 6 manettes présentes) (toutes avec une couleur différente)
-* L'interacteur se connecte au jeu en appuyant sur le bouton d'intéraction (key unit)
-* Quand les interacteurs sont tous connectés, ils appuient longtemps sur la touche d'interation pour se mettre en mode prêt
-* Le jeu démarre un peu après que tout le monde soit prêt
-* Le jeu montre le titre du premier Mini-Jeu et un compte à rebours s'enclanche
-* Le premier jeu démarre
-* Des instructions simples sont affichées à l'écran
-* Les joueurs jouent au jeu (un des différents jeux sélectionné aléatoirement)
-* Les jeux vont de plus en plus vite
-* Les interactuers finissent par perdre leur vies
-* Le jeu affiche l'écran de fin avec un tableau des scores
+* L'interacteur entre dans le studio
+* L'interacteur se déplace près de l'installation et constate la *boule d'énergie* qui le représente
+* L'interacteur s'approche de l'installation et constate que la *boule d'énergie* devient de plus en plus grande
+* L'interacteur touche la toile et sa *boule d'énergie* disparait et il commence à répendre de la couleur la ou il entre en contact avec la toile (Le décompte commence)
+* D'autres interacteurs se joignent à l'installation
+* Les interacteurs répandent tous de la couleur et tentent d'occuper le plus d'espace possible (la couleur des lumières change selon la couleur dominante de la toile)
+* Le temps donné est terminé quand les lumières se ferment complètement
+* Tout tombe au noir
+* Tout se ré-illumine et une projection de la toile finale est montrée et la couleur des lumières montre qui a gagné.
+* L'installation retombe en mode veille et recommence à projeter les *boules d'énergie*
 
 ### L'espace
-![](graphique_espace.jpg)
+
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
-![](graphique_gameplay1.png)
+
+Toile, espace de jeu
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-* Au début les jeux sont relativement lent
-* Au fil du temps, ils vont de plus en plus vite
+Plus le temps avance, plus la toile se remplit et plus les interacteurs prennent de la place.
+Les lumières dessendent = timer
 
 ### L'aspect collectif
 
@@ -69,6 +68,8 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
+
+Tout le monde ensemble veut remplir la toile.
 
 
 L'aspect collectif, est représenté, car les interacteurs devront unir leurs forces pour venir à bout des différents mini-jeux qui leur seront présenté.
@@ -84,13 +85,15 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-Les interacteurs prendront par eux même des rôles sociaux ("leader") et vont agir de façon similaire à une mini société pour avoir une meilleur chance de gagner les mini-jeux.
+Aspect de compétition ?
+Espace personnel ? 
+Propriété ?
 
 ## Inspirations
 
-#### WarioWare
+### TETRA
 
-#### Buster Jam
+### SPLATOON
 
 ### Inspirations visuelles et sonores
 
