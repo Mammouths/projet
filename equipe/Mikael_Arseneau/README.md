@@ -1,6 +1,6 @@
 # Mikael Arseneau
 
-![]( mikael_photo.webp)
+![]( mikael_vignette.webp)
 
 
  <!--
