@@ -33,15 +33,9 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 -->
 
 * L'interacteur entre dans le studio
-* L'interacteur se déplace près de l'installation et constate la *boule d'énergie* qui le représente
-* L'interacteur s'approche de l'installation et constate que la *boule d'énergie* devient de plus en plus grande
-* L'interacteur touche la toile et sa *boule d'énergie* disparait et il commence à répendre de la couleur la ou il entre en contact avec la toile (Le décompte commence)
-* D'autres interacteurs se joignent à l'installation
-* Les interacteurs répandent tous de la couleur et tentent d'occuper le plus d'espace possible (la couleur des lumières change selon la couleur dominante de la toile)
-* Le temps donné est terminé quand les lumières se ferment complètement
-* Tout tombe au noir
-* Tout se ré-illumine et une projection de la toile finale est montrée et la couleur des lumières montre qui a gagné.
-* L'installation retombe en mode veille et recommence à projeter les *boules d'énergie*
+* L'interacteur passe devant la kinect
+* L'interacteur se fait scanner le visage
+* L'interacteur s'approche et touche le mur
 
 ### L'espace
 
