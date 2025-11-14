@@ -46,7 +46,7 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 Toile, espace de jeu
 
 ### La progression
-
+tous au long de l'expérience la personne va faire pousser des végétation avec son visages et les visages de tous les autres personnes qui sont venus.
 <!--  sur le temps et la progression -->
 
 Plus le temps avance, plus la toile se remplit et plus les interacteurs prennent de la place.
@@ -63,7 +63,6 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-Tout le monde ensemble veut remplir la toile.
 
 
 L'aspect collectif, est représenté, car les interacteurs devront unir leurs forces pour venir à bout des différents mini-jeux qui leur seront présenté.
