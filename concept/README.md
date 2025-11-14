@@ -43,7 +43,7 @@ l'intératcteur entre dans
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
-Toile, espace de jeu
+l'espace réel du projet est un des murs du studio. l'espace vir
 
 ### La progression
 tous au long de l'expérience la personne va faire pousser des végétation avec son visages et les visages de tous les autres personnes qui sont venus.
@@ -51,7 +51,7 @@ tous au long de l'expérience la personne va faire pousser des végétation avec
 
 
 ### L'aspect collectif
-
+les gens crée un un environnement tous ensemble qui va rire tous le monde.
 <!-- 
 comment votre idée de projet correspond au thème du COLLECTIF 
 Plus il y a de personnes qui peuvent interagir simultanément est un critère important ! 
