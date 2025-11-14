@@ -49,8 +49,6 @@ Toile, espace de jeu
 tous au long de l'expérience la personne va faire pousser des végétation avec son visages et les visages de tous les autres personnes qui sont venus.
 <!--  sur le temps et la progression -->
 
-Plus le temps avance, plus la toile se remplit et plus les interacteurs prennent de la place.
-Les lumières dessendent = timer
 
 ### L'aspect collectif
 
