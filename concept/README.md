@@ -69,11 +69,11 @@ Tout le monde ensemble veut remplir la toile.
 L'aspect collectif, est représenté, car les interacteurs devront unir leurs forces pour venir à bout des différents mini-jeux qui leur seront présenté.
 
 ### L'aspect social
-
+Notre projet est social car il met en avant les visages de toutes les personnes qui sont venues essayer l’Arbre en Face, en les intégrant aux arbres, buissons et autres éléments naturels. Cette mise en valeur transforme la nature en un espace vivant de rencontre et de mémoire collective, créant ainsi un lien entre les participants et renforçant la reconnaissance au sein de la communauté.
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL:
 
-Notre projet est social car il met en avant les visages de toutes les personnes qui sont venues essayer l’Arbre en Face, en les intégrant aux arbres, buissons et autres éléments naturels. Cette mise en valeur transforme la nature en un espace vivant de rencontre et de mémoire collective, créant ainsi un lien entre les participants et renforçant la reconnaissance au sein de la communauté.
+
 
 Le terme « social » désigne ce qui concerne la vie en société, c’est-à-dire les relations entre les individus au sein d’un groupe organisé, ainsi que les structures, normes et institutions qui en découlent.
  Il peut s’appliquer à des aspects variés, comme la vie sociale, les groupes sociaux, les classes sociales, les rapports de production, ou encore les politiques visant à améliorer les conditions de vie des individus.
