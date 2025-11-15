@@ -1,4 +1,4 @@
-# Concept
+ # Concept
 
 ## Le pitch initial
 
@@ -29,13 +29,13 @@
 <!-- 
 Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
-l'intératcteur entre dans 
+ 
 -->
 
 * L'interacteur entre dans le studio
-* L'interacteur passe devant la kinect
+* L'interacteur ce place dans le carré par terre
 * L'interacteur se fait scanner le visage
-* L'interacteur s'approche et touche le mur
+* L'interacteur bouge les bras pour faire l'expérience multimédia
 
 ### L'espace
 
@@ -43,15 +43,16 @@ l'intératcteur entre dans
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
-l'espace réel du projet est un des murs du studio. l'espace vir
+L’espace réel du projet correspond à l’un des murs du studio, qui sert de surface principale de projection et d’interaction. Au sol, un carré délimité indique à l’interacteur où se placer pour être correctement détecté par la caméra Kinect et plein d'autres choses.
+L’espace virtuel représente un environnement inspiré de l’extérieur : un ciel, du gazon et des nuages. Il prolonge l’espace réel en transformant le mur du studio en une fenêtre immersive vers un paysage extérieur.
 
 ### La progression
-tous au long de l'expérience la personne va faire pousser des végétation avec son visages et les visages de tous les autres personnes qui sont venus.
+Tout au long de l’expérience, la personne fait pousser de la végétation à partir de son visage et de ceux des personnes passées avant elle. L’installation évolue donc peu à peu avec chaque nouvel interacteur.
 <!--  sur le temps et la progression -->
 
 
 ### L'aspect collectif
-les gens crée un un environnement tous ensemble qui va rire tous le monde.
+Les interacteurs créent ensemble un même environnement qui se construit grâce aux visages et aux actions de chacun. Chaque personne ajoute quelque chose de nouveau, ce qui fait évoluer l’installation pour tout le monde. L’œuvre devient ainsi un projet collectif, où la contribution de chaque individu nourrit un résultat commun.
 <!-- 
 comment votre idée de projet correspond au thème du COLLECTIF 
 Plus il y a de personnes qui peuvent interagir simultanément est un critère important ! 
@@ -63,10 +64,10 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 
 
 
-L'aspect collectif, est représenté, car les interacteurs devront unir leurs forces pour venir à bout des différents mini-jeux qui leur seront présenté.
+
 
 ### L'aspect social
-Notre projet est social car il met en avant les visages de toutes les personnes qui sont venues essayer l’Arbre en Face, en les intégrant aux arbres, buissons et autres éléments naturels. Cette mise en valeur transforme la nature en un espace vivant de rencontre et de mémoire collective, créant ainsi un lien entre les participants et renforçant la reconnaissance au sein de la communauté.
+Notre projet est social parce qu’il met en valeur les visages de toutes les personnes qui viennent essayer L’Arbre en Face. Leurs visages sont intégrés aux arbres, aux buissons et aux autres éléments naturels, ce qui crée un paysage un peu décalé où l’on peut croiser, par exemple, un ami transformé en fleur ou un inconnu poussé sur une branche. Cette transformation surprenante fait souvent rire les participants et crée une ambiance légère et amusante.
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL:
 
