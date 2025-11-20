@@ -1,8 +1,12 @@
 # Arbre-en-face
 
 <!-- Bannderole / Bande-annonce -->
-![](../video/mikael_arseneau-INTERFLUX.mp4)
-
+<iframe width="560" height="315"
+  url="./video/mikael_arseneau-INTERFLUX.mp4"
+  title="YouTube video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 ## Description
 
 Une installation interactive qui permet aux intéracteurs de faire*apparaitre des graines en forme de visages. Celles-ci tombent dans le sol et y sont plantées.
