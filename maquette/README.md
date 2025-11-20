@@ -53,8 +53,14 @@
 
 ## 3D
 
-![Vue de face](https://github.com/user-attachments/assets/56dc1a7a-17b9-4a2e-9427-1ac0f3a25c73)
-![Vue de derrière](https://github.com/user-attachments/assets/5a5e69f1-e229-4f35-ba78-887e7bc78909)
+![Vue de face 3D](https://github.com/user-attachments/assets/56dc1a7a-17b9-4a2e-9427-1ac0f3a25c73)
+![Vue de derrière 3D](https://github.com/user-attachments/assets/5a5e69f1-e229-4f35-ba78-887e7bc78909)
+
+## 2D
+
+![Vue de face 2D](https://github.com/user-attachments/assets/029ac8cf-3082-4d32-bcd2-b20e046927d5)
+![Vue de derrière 2D](https://github.com/user-attachments/assets/25fe0711-11f6-439b-8133-2d0dd0c8f5fe)
+
 
 # Budget Estimé: 
 
