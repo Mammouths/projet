@@ -70,7 +70,7 @@
 - Max8
 - Unity
 - Davinci
-- QLC+
+- Hyper HDR
 
 # Synoptique: ...
 
