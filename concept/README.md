@@ -90,6 +90,7 @@ Propriété ?
 ###
 
 ### Inspirations visuelles et sonores
+[Exemple d'ambiance](https://cmontmorency365-my.sharepoint.com/:u:/g/personal/2175441_cmontmorency_qc_ca/EZvoqzDaVMFOvyVNnY9_3RgBdWWC34BvI68cY3XLiQT3pg?e=tguKzM)
 
 [SFX 1](./gendron_alexandre_sonorites_rendu1_582-431MO.wav)
 [SFX 2](./bruit%20arrosage.mp3)
@@ -97,6 +98,7 @@ Propriété ?
 [SFX 4](./Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3)
 [SFX 5](./Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3)
 [SFX 6](./Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3)
+
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -118,14 +120,16 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 -->
 
 ### Inspirations interactives
-#### Sketch Aquarium
+#### [Sketch Aquarium](https://www.teamlab.art/w/aquarium/)
 ![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)<br>
-fsfes
-- 
+##### Lorsqu'un intéracteur intéragit avec l'oeuvre, le suivant aura un resultat différent 
 
-#### Zoom Pavillion
-![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)
--
+
+#### [Zoom Pavillion](https://www.lozano-hemmer.com/zoom_pavilion.php)
+![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)<br>
+##### Il suffit de se placer devant l’œuvre pour que le résultat change, sans rien toucher
+
+
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
 ## Scénarimage
