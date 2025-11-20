@@ -1,6 +1,6 @@
-# Scénarisation: ...
+# Scénarisation: 
 
-# Équipements: ...
+# Équipements: 
 
 | Équipement                  | Quantité |
 | --------------------------- | :------: |
@@ -30,7 +30,7 @@
 | Sac de sable                |    4     |
 | Bois                        |    -     |
 
-# Logiciels: ...
+# Logiciels: 
 
 - Touch designer
 - Reaper
@@ -41,13 +41,13 @@
 # Synoptique: ...
 ![Synoptique](https://github.com/user-attachments/assets/b8510cba-cdbe-4364-be41-10b1d93caa0f)
 
-# Plan Implantation 2D / 3D: ...
+# Plan Implantation 2D / 3D: 
 
 ## 3D
 
 ![Vue de face](https://github.com/user-attachments/assets/56dc1a7a-17b9-4a2e-9427-1ac0f3a25c73)
 ![Vue de derrière](https://github.com/user-attachments/assets/5a5e69f1-e229-4f35-ba78-887e7bc78909)
 
-# Budget Estimé: ...
+# Budget Estimé: 
 
 Nous estimons environ 450$ pour la construction de la mise en place et pour l'esthétisme du projet.
