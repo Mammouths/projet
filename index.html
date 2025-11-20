@@ -102,7 +102,7 @@
             // File extensions that should open in new tab
             unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.gdscript', '.pd', '.zip', '.toe', '.tox'],
 
-            // Add line numbers automatically via plugin hook
+                       // Add line numbers automatically via plugin hook
             plugins: [function (hook) {
                 hook.doneEach(function () {
                     const pres = document.querySelectorAll('pre[data-lang]');
