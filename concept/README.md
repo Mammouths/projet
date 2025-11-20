@@ -6,7 +6,7 @@
 
 <!-- Méthode 1 -->
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=DYjqKejctek"
+  src="./video/mikael_arseneau-INTERFLUX.mp4"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
