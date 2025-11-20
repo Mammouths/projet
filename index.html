@@ -8,7 +8,7 @@
         content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
     <meta name="description"
         content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
-    <title>Mammouths</title>
+    <title>Arbre en Face</title>
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
@@ -56,9 +56,6 @@
     <div id="app"></div>
 
     <script>
-
-
-
         window.$docsify = {
             name: 'Mammouths',
             // Replace with your repository URL, e.g. 'https://github.com/username/repo'
@@ -107,21 +104,7 @@
             unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.gdscript', '.pd', '.zip', '.toe', '.tox'],
 
             // Add line numbers automatically via plugin hook
-            // plugins: [function (hook) {
-            //     hook.doneEach(function () {
-            //         const pres = document.querySelectorAll('pre[data-lang]');
-            //         pres.forEach(pre => {
-            //             if (!pre.classList.contains('line-numbers')) pre.classList.add('line-numbers');
-            //         });
-            //         if (window.Prism && window.Prism.highlightAll) {
-            //             window.Prism.highlightAll();
-            //         }
-            //         import('./docsify-wavesurfer-plugin.js').then(module => {
-            //             module.initWaveSurfer();
-            //         }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
-            //     });
-            // }],
-             plugins: [function (hook) {
+            plugins: [function (hook) {
                 hook.doneEach(function () {
                     const pres = document.querySelectorAll('pre[data-lang]');
                     pres.forEach(pre => {
