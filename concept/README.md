@@ -118,12 +118,12 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 #### [Sketch Aquarium](https://www.teamlab.art/w/aquarium/)
 ![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)<br>
 ##### Lorsqu'un intéracteur intéragit avec l'oeuvre, le suivant aura un resultat différent 
-- 
+
 
 #### [Zoom Pavillion](https://www.lozano-hemmer.com/zoom_pavilion.php)
 ![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)<br>
 
--
+
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
 ## Scénarimage
