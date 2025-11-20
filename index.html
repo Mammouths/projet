@@ -107,11 +107,26 @@
             unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.gdscript', '.pd', '.zip', '.toe', '.tox'],
 
             // Add line numbers automatically via plugin hook
-            plugins: [function (hook) {
+            // plugins: [function (hook) {
+            //     hook.doneEach(function () {
+            //         const pres = document.querySelectorAll('pre[data-lang]');
+            //         pres.forEach(pre => {
+            //             if (!pre.classList.contains('line-numbers')) pre.classList.add('line-numbers');
+            //         });
+            //         if (window.Prism && window.Prism.highlightAll) {
+            //             window.Prism.highlightAll();
+            //         }
+            //         import('./docsify-wavesurfer-plugin.js').then(module => {
+            //             module.initWaveSurfer();
+            //         }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
+            //     });
+            // }],
+             plugins: [function (hook) {
                 hook.doneEach(function () {
                     const pres = document.querySelectorAll('pre[data-lang]');
                     pres.forEach(pre => {
-                        if (!pre.classList.contains('line-numbers')) pre.classList.add('line-numbers');
+                        if (!pre.classList.contains('line-numbers')) pre.classList.add(
+                            'line-numbers');
                     });
                     if (window.Prism && window.Prism.highlightAll) {
                         window.Prism.highlightAll();
