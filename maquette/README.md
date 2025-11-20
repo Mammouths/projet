@@ -59,7 +59,7 @@
 | Cable XLR                   |      3       |
 | Cable USB                   |      4       |
 | Cable Display Port          |      2       |
-| Sac de sable                |      4       |
+| Sac de sable                |      12~       |
 | Bois                        |      -       |
 
 # Logiciels:
