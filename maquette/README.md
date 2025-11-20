@@ -46,7 +46,7 @@
 | Projecteur                  |     1-2      |
 | Toile en spendax            |      1       |
 | Pince pour la toile         |      40      |
-| Trépied                     |      2       |
+| Trépied                     |      4       |
 | bc204                       |      1       |
 | Baton LED                   |      10      |
 | Multiprise électrique       |      4       |
