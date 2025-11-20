@@ -88,7 +88,9 @@ Propriété ?
 #### Sketch Aquarium
 ![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)
 
-### Zoom Pavillion
+#### Zoom Pavillion
+![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)
+
 ###
 
 ### Inspirations visuelles et sonores
