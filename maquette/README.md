@@ -2,17 +2,33 @@
 
 # Équipements: ...
 
-| Équipement          |    Quantité     |
-| ------------------- | :-------------: |
-| Ordinateur          |        1        |
-| Haut-parleur        |        2        |
-| Kinect              |        1        |
-| Lidar               |       1-2       |
-| Projecteur          |       1-2       |
-| Toile en spendax    |        1        |
-| Pince pour la toile |       40        |
-| Trépied             |        2        |
-| Bois                | grosse quantité |
+| Équipement                  | Quantité |
+| --------------------------- | :------: |
+| Ordinateur de l'école       |    1     |
+| Moniteur                    |    2     |
+| Clavier                     |    1     |
+| Souris                      |    1     |
+| Haut-parleur                |    2     |
+| Kinect 2.0                  |    1     |
+| Lidar                       |   1-2    |
+| Projecteur                  |   1-2    |
+| Toile en spendax            |    1     |
+| Pince pour la toile         |    40    |
+| Trépied                     |    2     |
+| bc204                       |    1     |
+| Baton LED                   |    10    |
+| Multiprise électrique       |    4     |
+| Rallonge électrique         |    6     |
+| Rouleau de velcro pour fils |    4     |
+| Cable Ethernet              |    6     |
+| Transmetteur Cat6           |    1     |
+| Recepteur Cat6              |    1     |
+| Cable HDMI                  |    5     |
+| Cable XLR                   |    3     |
+| Cable USB                   |    4     |
+| Cable Display Port          |    2     |
+| Sac de sable                |    4     |
+| Bois                        |    -     |
 
 # Logiciels: ...
 
@@ -23,6 +39,8 @@
 - Unity
 
 # Synoptique: ...
+
+![Synoptique](/maquette/graphique_cable.webp)
 
 # Plan Implantation 2D / 3D: ...
 
