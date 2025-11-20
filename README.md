@@ -1,7 +1,7 @@
 # Arbre-en-face
 
 <!-- Bannderole / Bande-annonce -->
-![](./video/mikael_arseneau-INTERFLUX.mp4)
+![](../video/mikael_arseneau-INTERFLUX.mp4)
 
 ## Description
 
