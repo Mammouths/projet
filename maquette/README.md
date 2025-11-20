@@ -1,12 +1,12 @@
-# Scénarisation: 
+# Scénarisation:
 
 ## Scène 1
 
-| Verbe action |                Condition de déclenchement               | Effet visuel | Effet sonore |                Effet interactif                |
-|:------------:|:-------------------------------------------------------:|:------------:|:------------:|:----------------------------------------------:|
-| Entrer       | Le visiteur entre dans le  champ de vision de la kinect | aucun        | aucun        | activation du système de  détection de visages |
+| Verbe action |               Condition de déclenchement               | Effet visuel | Effet sonore |               Effet interactif                |
+| :----------: | :----------------------------------------------------: | :----------: | :----------: | :-------------------------------------------: |
+|    Entrer    | Le visiteur entre dans le champ de vision de la kinect |    aucun     |    aucun     | activation du système de détection de visages |
 
-# Équipements: 
+# Équipements:
 
 | **Équipement**              | **Quantité** |
 | --------------------------- | :----------: |
@@ -36,7 +36,7 @@
 | Sac de sable                |      4       |
 | Bois                        |      -       |
 
-# Logiciels: 
+# Logiciels:
 
 - Touch designer
 - Reaper
@@ -47,18 +47,19 @@
 - QLC+
 
 # Synoptique: ...
+
 ![Synoptique](https://github.com/user-attachments/assets/b8510cba-cdbe-4364-be41-10b1d93caa0f)
 
-# Plan Implantation 2D / 3D: 
+# Plan Implantation 2D / 3D:
 
 ## 3D
 
 ![Vue de face](https://github.com/user-attachments/assets/56dc1a7a-17b9-4a2e-9427-1ac0f3a25c73)
 ![Vue de derrière](https://github.com/user-attachments/assets/5a5e69f1-e229-4f35-ba78-887e7bc78909)
 
-# Budget Estimé: 
+# Budget Estimé:
 
-| _Équipement_         |  _Taux_   |
+| _Équipement_         |  _Coûts_  |
 | -------------------- | :-------: |
 | Pince pour la toile  |   60 $    |
 | la toile en splandex |   200 $   |
