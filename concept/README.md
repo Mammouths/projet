@@ -6,7 +6,7 @@
 
 <!-- Méthode 1 -->
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys"
+  src="https://youtu.be/DYjqKejctek"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
@@ -93,10 +93,9 @@ Propriété ?
 [SFX 1](sfx2.wav)
 [SFX 2](sfx1.mp3)
 [SFX 3](sfx3.mp3)
-[SFX 4](Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3)
-[SFX 5](Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3)
-[SFX 6](Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3)
-
+[SFX 4](<Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3>)
+[SFX 5](<Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3>)
+[SFX 6](<Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3>)
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -118,19 +117,23 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 -->
 
 ### Inspirations interactives
-#### [Sketch Aquarium](https://www.teamlab.art/w/aquarium/)
-![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)<br>
-##### Lorsqu'un intéracteur intéragit avec l'oeuvre, le suivant aura un resultat différent 
 
+#### [Sketch Aquarium](https://www.teamlab.art/w/aquarium/)
+
+![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)<br>
+
+##### Lorsqu'un intéracteur intéragit avec l'oeuvre, le suivant aura un resultat différent
 
 #### [Zoom Pavillion](https://www.lozano-hemmer.com/zoom_pavilion.php)
-![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)<br>
-##### Il suffit de se placer devant l’œuvre pour que le résultat change, sans rien toucher
 
+![33412783453_16a9442ae8](https://github.com/user-attachments/assets/eabe139f-557b-40a8-a6d3-6c74ecd89f0e)<br>
+
+##### Il suffit de se placer devant l’œuvre pour que le résultat change, sans rien toucher
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
 ## Scénarimage
+
 <img width="1667" height="2360" alt="image (3)" src="https://github.com/user-attachments/assets/ab5901cc-a7ee-4ff9-bad4-78a76e7642e1" />
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
