@@ -80,9 +80,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-Aspect de compétition ?
-Espace personnel ?
-Propriété ?
+
 
 ## Inspirations
 
