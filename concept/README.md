@@ -33,7 +33,7 @@ Qu'est-ce que fait l'interacteur?
 -->
 
 - L'interacteur entre dans le studio
-- L'interacteur ce place dans le carré par terre
+- L'interacteur ce place devant la toille
 - L'interacteur se fait scanner le visage
 - L'interacteur bouge les bras pour faire l'expérience multimédia
 
