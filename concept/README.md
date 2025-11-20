@@ -90,14 +90,13 @@ Propriété ?
 ###
 
 ### Inspirations visuelles et sonores
-[Exemple d'ambiance](https://cmontmorency365-my.sharepoint.com/:u:/g/personal/2175441_cmontmorency_qc_ca/EZvoqzDaVMFOvyVNnY9_3RgBdWWC34BvI68cY3XLiQT3pg?e=tguKzM)
 
-[SFX 1](./gendron_alexandre_sonorites_rendu1_582-431MO.wav)
-[SFX 2](./bruit%20arrosage.mp3)
-[SFX 3](./Field%20with%20Wind,%20Swallows,%20&%20Windchimes%20-%20Happy%20Summer%20moments%204K%20NO%20LOOP%20-%201HarryH%20(youtube).mp3)
-[SFX 4](./Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3)
-[SFX 5](./Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3)
-[SFX 6](./Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3)
+[SFX 1](sfx2.wav)
+[SFX 2](sfx1.mp3)
+[SFX Menu](sfx3.mp3)
+[SFX 4](Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3)
+[SFX 5](Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3)
+[SFX 6](Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3)
 
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->

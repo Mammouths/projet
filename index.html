@@ -6,39 +6,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-    <meta name="description" content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
+    <meta name="description"
+        content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
     <title>Mammouths</title>
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="">
     <meta property="og:title" content="Tic Tac Boom!">
-    <meta property="og:description" content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
+    <meta property="og:description"
+        content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
     <meta property="og:image" content="https://tim-montmorency.com/public/img/tim-og.jpg">
-  <meta property="og:image:width" content="1920" />
-  <meta property="og:image:height" content="1008" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1008" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="favicon/site.webmanifest">
 
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@^5.0.0-rc/dist/themes/core.min.css"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@^5.0.0-rc/dist/themes/core.min.css">
 
- 
+
     <!-- Put theme customization in customize.css, comment to remove -->
-   <link rel="stylesheet" href="customize.css" /> 
+    <link rel="stylesheet" href="customize.css" />
 
 
     <link rel="stylesheet" href="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.css">
     <!-- Prism theme (light). Swap with prism-okaidia.min.css or other for dark preference. -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism.min.css" /> -->
     <!-- Prism line numbers plugin CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.css" />
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.css" />
 
     <style>
         :root {
-            --theme-color: #ff5555; /*red */
+            --theme-color: #ff5555;
+            /*red */
 
             --content-max-width: 1200px;
         }
@@ -55,7 +59,7 @@
 
 
 
-    window.$docsify = {
+        window.$docsify = {
             name: 'Mammouths',
             // Replace with your repository URL, e.g. 'https://github.com/username/repo'
             // repo: 'https://github.com/tim-montmorency/582601-experience-modele',
@@ -74,10 +78,10 @@
             //     depth: 3,
             //     hideOtherSidebarContent: false,
             // },
-            
+
             // Navigation
             relativePath: true,
-            
+
             // Better navigation for tutorials
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md',
@@ -90,7 +94,7 @@
                 errorText: '⚠️',
                 successText: '✅ ',
             },
-            
+
             // Pagination for tutorial flow
             pagination: {
                 previousText: '',
@@ -98,11 +102,11 @@
                 crossChapter: true,
                 crossChapterText: true,
             },
-            
+
             // File extensions that should open in new tab
             unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.gdscript', '.pd', '.zip', '.toe', '.tox'],
 
-                       // Add line numbers automatically via plugin hook
+            // Add line numbers automatically via plugin hook
             plugins: [function (hook) {
                 hook.doneEach(function () {
                     const pres = document.querySelectorAll('pre[data-lang]');
@@ -113,7 +117,7 @@
                         window.Prism.highlightAll();
                     }
                     import('./docsify-wavesurfer-plugin.js').then(module => {
-                         module.initWaveSurfer();
+                        module.initWaveSurfer();
                     }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
                 });
             }],
@@ -131,9 +135,9 @@
         window.mermaid = mermaid;
     </script>
 
-        <!-- Lightbox plugin script -->
+    <!-- Lightbox plugin script -->
     <script src="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.js"></script>
-    
+
     <script src="https://gllmar.github.io/docsify-img-grid/docsify-img-grid.js"></script>
     <script src="https://gllmar.github.io/docsify-img-caption/docsify-img-caption.js"></script>
 
@@ -145,25 +149,25 @@
     <script src="https://gllmar.github.io/docsify-unhashtaglink/docsify-unhashtaglink.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
-        <script src="https://gllmar.github.io/docsify-v5-sidebar-collapse/docsify-v5-sidebar-collapse.js"></script>
-        <!-- Extra Prism languages AFTER Docsify (don't re-load core to avoid overrides) -->
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
+    <script src="https://gllmar.github.io/docsify-v5-sidebar-collapse/docsify-v5-sidebar-collapse.js"></script>
+    <!-- Extra Prism languages AFTER Docsify (don't re-load core to avoid overrides) -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
 
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-gdscript.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-gdscript.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-diff.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script>
-       
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
-      
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-diff.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-glsl.min.js"></script>
 
-        <!-- Line numbers plugin last -->
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.js"></script>
+    <!-- Line numbers plugin last -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.js"></script>
 
     <!-- Prism languages loaded individually above; to add more just insert another prism-<lang>.min.js script before docsify.min.js -->
 </body>
