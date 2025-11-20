@@ -2,7 +2,7 @@
 
 <!-- Bannderole / Bande-annonce -->
 <iframe width="560" height="315"
-  url="./video/mikael_arseneau-INTERFLUX.mp4"
+  src="./video/mikael_arseneau-INTERFLUX.mp4"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
