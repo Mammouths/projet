@@ -1,5 +1,11 @@
 # Scénarisation: 
 
+## Scène 1
+
+| Verbe action |                Condition de déclenchement               | Effet visuel | Effet sonore |                Effet interactif                |
+|:------------:|:-------------------------------------------------------:|:------------:|:------------:|:----------------------------------------------:|
+| Entrer       | Le visiteur entre dans le  champ de vision de la kinect | aucun        | aucun        | activation du système de  détection de visages |
+
 # Équipements: 
 
 | Équipement                  | Quantité |
