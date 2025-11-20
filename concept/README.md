@@ -116,7 +116,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ### Inspirations interactives
 #### Sketch Aquarium
-![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)
+![Sketch Aquarium](https://github.com/user-attachments/assets/ac5b1dba-ddc7-44f0-b120-4085a305a892)<br>
 fsfes
 - 
 
