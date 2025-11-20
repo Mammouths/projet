@@ -59,7 +59,7 @@
 
 ## 2D
 
-![Vue de face 2D](https://github.com/user-attachments/assets/8e0bffdb-e410-4b74-8e4d-be0b053c43a6)
+![Vue de face 2D](https://github.com/user-attachments/assets/a38288bd-df49-4a2c-a91d-1658fbaf32a2)
 ![Vue de derrière 2D](https://github.com/user-attachments/assets/3f160456-4831-4b8b-aab7-4b0406dab82d)
 
 
