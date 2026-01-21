@@ -1,6 +1,6 @@
-# Rafael Angon Dubé
+# Mikael Arseneau
 
-![]( rafael_vignette.webp)
+![]( mikael_vignette.webp)
 
 
  <!--
@@ -11,5 +11,4 @@
     - Explication détaillée des tâches accomplies
     - Documentation multimédia des tâches accomplies
  -->
-
 
