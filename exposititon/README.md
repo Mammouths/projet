@@ -1,4 +1,4 @@
-# Mikael Arseneau
+# Exposition
 
 ![](https://placehold.co/600x400?text=membre+v)
 
