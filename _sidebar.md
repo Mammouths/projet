@@ -4,5 +4,5 @@
 * [Scénario](/scenario/)
 * [Technique](/technique/)
 * [Dossier de presse](/presse/)
-* [Exposition](/bob/)
+* [Exposition](/exposition/)
 * [test](/test/)
