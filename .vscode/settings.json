@@ -1,4 +1,5 @@
 {
     "liveServer.settings.port": 5500,
-    "ltex.language": "fr"
+    "ltex.language": "fr",
+    "mocha.subdirectory": "..\\..\\..\\..\\..\\c:\\Users\\2186577\\Documents\\GitHub\\projet\\exposititon"
 }
