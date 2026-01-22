@@ -1,4 +1,4 @@
-# Exposition
+# exposition
 
 Cette section documente l'exposition publique du projet.
 
