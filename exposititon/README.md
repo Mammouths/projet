@@ -18,7 +18,7 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 
 Cette section décrit les étapes nécessaires pour ouvrir l’installation chaque matin.
 Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et fidèle au projet, quel que soit le responsable de permanence.
-
+s
 <!-- 
 Chaque composante de l’installation est détaillée ci-dessous avec :
 - une description,
