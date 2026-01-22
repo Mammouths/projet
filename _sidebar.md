@@ -4,4 +4,4 @@
 * [Scénario](/scenario/)
 * [Technique](/technique/)
 * [Dossier de presse](/presse/)
-* [exposition](/Exposition/)
+* [exposition](/exposition/)
