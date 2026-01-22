@@ -100,7 +100,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-# allo
+ allo
 #### Mardi
 
 #### Mercredi
