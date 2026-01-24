@@ -37,6 +37,11 @@ Qu'est-ce que fait l'interacteur?
 - L'interacteur se fait scanner le visage
 - L'interacteur bouge les bras pour faire l'expérience multimédia
 
+ ### La progression
+
+Tout au long de l’expérience, la personne fait pousser de la végétation à partir de son visage et de ceux des personnes passées avant elle. L’installation évolue donc peu à peu avec chaque nouvel interacteur.
+
+<!--  sur le temps et la progression -->
 ### L'espace
 
 <!--
@@ -45,12 +50,6 @@ description de l'espace réel et virtuel du projet et comment l'espace réel est
 
 L’espace réel du projet correspond à l’un des murs du studio, qui sert de surface principale de projection et d’interaction. Au sol, un carré délimité indique à l’interacteur où se placer pour être correctement détecté par la caméra Kinect et plein d'autres choses.
 L’espace virtuel représente un environnement inspiré de l’extérieur : un ciel, du gazon et des nuages. Il prolonge l’espace réel en transformant le mur du studio en une fenêtre immersive vers un paysage extérieur.
-
-### La progression
-
-Tout au long de l’expérience, la personne fait pousser de la végétation à partir de son visage et de ceux des personnes passées avant elle. L’installation évolue donc peu à peu avec chaque nouvel interacteur.
-
-<!--  sur le temps et la progression -->
 
 ### L'aspect collectif
 
