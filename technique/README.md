@@ -56,7 +56,8 @@ Plans d'implantation 2D et 3D
 ## Budget
 | _Équipement_         |  _Coûts_  |
 | -------------------- | :-------: |
-| Pince pour la toile  |   60 $    |
-| la toile en splandex |   200 $   |
-| bois                 |   150 $   |
-| **Total**            | **410 $** |
+| Pince pour la toile  |   40 $    |
+| la toile en splandex |   90 $   |
+| Bois                 |   150 $   |
+| Peinture et vernis                 |   90 $   |
+| **Total**            | **370 $** |
