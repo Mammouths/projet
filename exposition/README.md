@@ -1,195 +1,36 @@
 # Exposition
 
-![](https://placehold.co/600x400?text=membre+v)
+Cette section documente l'exposition publique du projet.
 
-## Planification
+## Permanence 
 
-Cette section, complétée lors de la première semaine, présente les tâches individuelles **hebdomadaires** prévues.
+Ce tableau indique les responsables quotidiens de l’exposition, désignés par chaque équipe pour assurer la permanence pendant la semaine.
 
-<!--
-- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches individuelles hebdomadaires prévues.
-- Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
-- Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
-- Critères :
-    - Intention et concept clairs
-    - Description approfondie de la conception sonore et visuelle
-    - Planification détaillée du contenu multimédia à intégrer
-    - Planification technique rigoureuse
--->
+| Jour       | Responsable |
+|------------|-------------|
+| Lundi      |    Prénom   |
+| Lundi      |    Alex   |
+| Mardi      |    Prénom   |
+| Mercredi   |    Prénom   |
+| Jeudi      |    Prénom   |
+| Vendredi   |    Prénom   |
 
-### Semaine 1
+## Procédure d’ouveture quotidienne
 
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 2
+Cette section décrit les étapes nécessaires pour ouvrir l’installation chaque matin.
+Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et fidèle au projet, quel que soit le responsable de permanence.
 
 <!-- 
-- Tâche
-- Tâche
+Chaque composante de l’installation est détaillée ci-dessous avec :
+- une description,
+- les étapes d'ouverture
+- des liens utiles,
+- des photos de référence.
 -->
 
-### Semaine 3
+## Documentation vidéo finale
 
+<!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
+-->
 <!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 4
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 5
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 6
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 6.5
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 7
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-### Semaine 8
-
-<!-- 
-- Tâche
-- Tâche
--->
-
-
-## Journal de bord
-
-Cette section, complétée **quotidiennement** pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
-
-<!--
-- Une entrée par jour sur 8 semaines (8 semaines à partir de la semaine 2).
-   - Un total d'au moins 40 entrées uniques!
-- Chaque jour :
-    - Documentstion visuelle et/ou sonore du travail effectué
-    - Lien vers les billets GitHub résolus
-- Démarche rigoureuse de validation de la qualité
-- Démonstration d'autonomie.
-- Exécution technique précise et complète.
-- Évaluation réfléchie de la contribution individuelle au travail d’équipe.
--->
-
-### Semaine 2
-
-#### Lundi
- allo
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 3
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 4
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 5
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 6
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 6.5
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 7
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-
-### Semaine 8
-
-#### Lundi
-
-#### Mardi
-
-#### Mercredi
-
-#### Jeudi
-
-#### Vendredi
-                                                   
+[![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
