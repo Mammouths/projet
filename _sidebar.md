@@ -5,4 +5,3 @@
 * [Technique](/technique/)
 * [Dossier de presse](/presse/)
 * [Exposition](/exposition/)
-* [test](/test/)
