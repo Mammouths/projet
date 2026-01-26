@@ -8,11 +8,11 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 
 | Jour       | Responsable |
 |------------|-------------|
-| Lundi      |    Alex   |
-| Mardi      |    Prénom   |
-| Mercredi   |    Prénom   |
-| Jeudi      |    Prénom   |
-| Vendredi   |    Prénom   |
+| Lundi      |    Alexandre   |
+| Mardi      |    Mikael  |
+| Mercredi   |    Rafael  |
+| Jeudi      |    Mathieu  |
+| Vendredi   |    Matis
 
 ## Procédure d’ouveture quotidienne
 
