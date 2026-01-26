@@ -133,7 +133,7 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ## Scénarimage
 
-![Média](https://github.com/user-attachments/assets/039c9442-503a-417a-bfcc-a249e23cbdda)
+![Scénarimage](https://github.com/user-attachments/assets/039c9442-503a-417a-bfcc-a249e23cbdda)
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
