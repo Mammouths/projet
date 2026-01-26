@@ -19,6 +19,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
+- Création et modification du GitHub
+- Création du dossier de touchDesigner
 <!-- 
 - Tâche
 - Tâche
@@ -26,6 +28,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 
+- Commencer la structure en bois du projet
+- Coder l'aspect technique du projet
 <!-- 
 - Tâche
 - Tâche
@@ -33,6 +37,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
+- Finaliser la structure
+- Installation de la toile
+- Calibration du lidar avec toile et le projet
 <!-- 
 - Tâche
 - Tâche
@@ -40,12 +47,14 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 4
 
+- Corriger les bugs lier a la calibration du lidar
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 5
+- Optimisation du code et correction de problèmes
 
 <!-- 
 - Tâche
@@ -53,21 +62,21 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 
 ### Semaine 6
-
+- Optimisation du code et correction de problèmes
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 6.5
-
+- Optimisation du code et correction de problèmes
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 7
-
+- Optimisation du code et correction de problèmes
 <!-- 
 - Tâche
 - Tâche
@@ -75,6 +84,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 8
 
+- Présentation du projet
 <!-- 
 - Tâche
 - Tâche
