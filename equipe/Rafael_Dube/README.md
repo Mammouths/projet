@@ -1,7 +1,7 @@
 # Rafael Angon Dubé
 
 ![](https://placehold.co/600x400?text=membre+v)
-
+![](rafael_vignette.webp)
 ## Planification
 
 Cette section, complétée lors de la première semaine, présente les tâches individuelles **hebdomadaires** prévues.
