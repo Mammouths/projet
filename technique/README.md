@@ -32,10 +32,9 @@
 - Touch designer
 - Reaper
 - Maya
-- Max8
-- Unity
+- PureData
+- VsCode
 - Davinci
-- Hyper HDR
 
 ## Synoptique
 ![Synoptique](https://github.com/user-attachments/assets/b8510cba-cdbe-4364-be41-10b1d93caa0f)
