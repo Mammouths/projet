@@ -16,80 +16,49 @@ Cette section, complétée lors de la première semaine, présente les tâches i
     - Planification technique rigoureuse
 -->
 
-### Semaine 1
- travailler sur la page github création  et magasiner pour le projet.
-<!-- 
+## 📅 Planification du projet
 
--->
+### Semaine 1
+- Travailler sur la création de la page GitHub  
+- Magasiner et rechercher le matériel nécessaire au projet  
 
 ### Semaine 2
-- commencer la construction de la structure du projet
-- faire de la documentation github et vidéo de l'évolution de projet
-- trouver les idée de sons et inspiration pour
-- commencer à prendre des vidéos et photo
-<!-- 
-- Tâche
-- Tâche
--->
+- Commencer la construction de la structure du projet  
+- Rédiger la documentation sur GitHub et filmer l’évolution du projet  
+- Trouver des idées de sons et des inspirations  
+- Commencer la prise de photos et de vidéos  
 
 ### Semaine 3
-finalisser la structure du projet
-commencer à enregistré les sons pour les arabes,le soleil, de l'eau etc.
-continuer la documentation photos et vidéos
-<!-- 
-- Tâche
-- Tâche
--->
+- Finaliser la structure du projet  
+- Commencer l’enregistrement et la production des sons (arbres, soleil, eau, etc.)  
+- Continuer la documentation photo et vidéo  
 
 ### Semaine 4
-faire de la modification des sons sur reaper
-continuer la documentation vidéo et photos
-<!-- 
-- Tâche
-- Tâche
--->
+- Modifier et ajuster les sons dans Reaper  
+- Continuer la documentation photo et vidéo du projet  
 
 ### Semaine 5
-faire le montage de la bande annonces 
-continuer la documentation vidéo et photo
-<!-- 
-- Tâche
-- Tâche
--->
+- Faire le montage de la bande-annonce  
+- Continuer la documentation photo et vidéo  
 
 ### Semaine 6
-testé et mettre le son dans le projet
-Trouver comment vous aller présenter le cartels
-· Trouver comment imprimer les cartels
-· Assembler le cartel de votre équipe
-
-· Éclairage du cartel
-<!-- 
-- Tâche
-- Tâche
--->
+- Tester et intégrer les sons dans le projet  
+- Déterminer la manière de présenter les cartels  
+- Trouver une méthode pour imprimer les cartels  
+- Assembler le cartel de l’équipe  
+- Installer l’éclairage du cartel  
 
 ### Semaine 6.5
-Rédiger les informations à mettre sur les cartels:
-tourné la vidéo de présentation du projet
-<!-- 
-- Tâche
-- Tâche
--->
+- Rédiger les informations à afficher sur les cartels  
+- Tourner la vidéo de présentation du projet  
 
 ### Semaine 7
-faire le montage de la vidéo de présentation
-<!-- 
-- Tâche
-- Tâche
--->
+- Faire le montage de la vidéo de présentation  
 
 ### Semaine 8
-pratiqué pour la présentation final
-<!-- 
-- Tâche
-- Tâche
--->
+- Pratiquer pour la présentation finale  
+- Vérifier que tout fonctionne correctement  
+
 
 
 ## Journal de bord
