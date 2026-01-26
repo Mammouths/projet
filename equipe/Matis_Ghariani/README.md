@@ -44,6 +44,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- Logo équipe.
 
 ### Semaine 4
 
