@@ -42,6 +42,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Commencer la structure
 - Commencer les visuels des plantes (En apprendre plus sur les L-systems et comment faire de belles plantes)
 - Changer le storyboard selon les indications des professeurs
+- Commencer à penser au logo
 
 ### Semaine 3
 
@@ -54,6 +55,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Continuer les visuels des plantes
 - Commencer textures
 - Se préparer pour les portes ouvertes, finir la démo
+- Faire le logo
 
 
 ### Semaine 4
@@ -68,6 +70,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Continuer les textures et effets (eau)
 - Commener à mettre les images de visages sur les objets 3D
 - Commencer le comité de design
+- Finaliser logo
 
 ### Semaine 5
 
