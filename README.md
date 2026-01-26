@@ -1,8 +1,7 @@
 # Arbre-en-face
 
-<!-- Bannderole / Bande-annonce -->
-![Arbre-en-face](https://github.com/user-attachments/assets/5ee940c2-1b28-4073-a397-6c3f1ef6b364)
 
+![Arbre-en-face](https://github.com/user-attachments/assets/21137f7f-5c3f-4c5f-a5c5-66b2c10af21c)
 
 ## Description
 
