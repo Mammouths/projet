@@ -1,7 +1,6 @@
 # Rafael Angon Dubé
 
-![](https://placehold.co/600x400?text=membre+v)
-
+![](rafael_vignette.webp)
 ## Planification
 
 Cette section, complétée lors de la première semaine, présente les tâches individuelles **hebdomadaires** prévues.
@@ -18,35 +17,40 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 
 ### Semaine 1
- travailler sur la page github et magasiner pour le projet.
+ travailler sur la page github création  et magasiner pour le projet.
 <!-- 
-- travailler sur la page github et magasiner pour le projet.
-- Tâche
+
 -->
 
 ### Semaine 2
-
+- commencer la construction de la structure du projet
+- faire de la documentation github et vidéo de l'évolution de projet
+- trouver les idée de sons et inspiration pour
+- commencer à prendre des vidéos et photo
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 3
-
+finalisser la structure du projet
+commencer à enregistré les sons pour les arabes,le soleil, de l'eau etc.
+continuer la documentation photo et vidéo
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 4
-
+faire de la modification des sons sur reaper
+continuer 
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 5
-
+faire le montage de la bande annonces 
 <!-- 
 - Tâche
 - Tâche
