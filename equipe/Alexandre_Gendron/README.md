@@ -1,6 +1,6 @@
 # Alexandre Gendron
 
-![](https://placehold.co/600x400?text=membre+v)
+![](alex_vignette.webp)
 
 ## Planification
 
@@ -24,12 +24,24 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
+- Travailler sur ma page d'équipe
+- Répartition des tâches
+- Travailler sur le plan des visuels
+- Magasinage bois et toile de spandex
+
+   
+
 ### Semaine 2
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Completer ma page d'équipe
+- Commencer la structure
+- Commencer les visuels des plantes (En apprendre plus sur les L-systems et comment faire de belles plantes)
+- Changer le storyboard selon les indications des professeurs
 
 ### Semaine 3
 
@@ -38,12 +50,24 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
+- Finaliser la structure
+- Continuer les visuels des plantes
+- Commencer textures
+- Se préparer pour les portes ouvertes, finir la démo
+
+
 ### Semaine 4
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Finaliser les visuels de plantes
+- Commencer le système d'apparition des plantes
+- Continuer les textures et effets (eau)
+- Commener à mettre les images de visages sur les objets 3D
+- Commencer le comité de design
 
 ### Semaine 5
 
@@ -52,12 +76,25 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
+- Travailler sur la bande annonce
+- Travailler sur le dossier de presse
+- préparation pour les évaluations et présentations de la semaine 6 (avoir une version fonctionelle et présentable)
+- Finaliser les textures, effets et système d'apparition
+- Continuer le comité de design
+
+
 ### Semaine 6
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Faire les présentations
+- Améliorer les textures et effets
+- Continuer le comité de design
+
+
 
 ### Semaine 6.5
 
@@ -66,6 +103,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
+- Retouches et améliorations des visuels
+- Résoudre les problèmes
+- Continuer le comité de design
+
 ### Semaine 7
 
 <!-- 
@@ -73,12 +114,20 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
+- Retouches et améliorations des visuels
+- Résoudre les problèmes
+- Finaliser le comité de design
+
+
 ### Semaine 8
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Corriger les bugs en live
+- Faire la présentation
 
 
 ## Journal de bord

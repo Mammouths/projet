@@ -23,6 +23,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- Travailler sur la page github.
 
 ### Semaine 2
 
@@ -30,6 +31,12 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- Trouver des inspirations pour l'ambiance (son).
+- Faire le background de la toile.
+- Changer le sénario selon les indications des professeurs.
+- Documentation du projet (photos, etc...)
+- Construire structure?
+- Commité design.
 
 ### Semaine 3
 
