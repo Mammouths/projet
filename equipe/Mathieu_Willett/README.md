@@ -1,4 +1,4 @@
-# Mathieu Willet
+# Mathieu Willett
 
 ![](mathieu_vignette.webp)
 
