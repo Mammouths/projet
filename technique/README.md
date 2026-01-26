@@ -8,7 +8,7 @@
 | Clavier                     |      1       |
 | Souris                      |      1       |
 | Haut-parleur                |      2       |
-| Kinect 2.0                  |      1       |
+| Camera pour ordinateur                |      1       |
 | Lidar                       |     1-2      |
 | Projecteur                  |     1-2      |
 | Toile en spendax            |      1       |
