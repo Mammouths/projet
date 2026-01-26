@@ -1,6 +1,6 @@
 # Matis Ghariani
 
-![](https://placehold.co/600x400?text=membre+v)
+![](matis_vignette.webp)
 
 ## Planification
 
