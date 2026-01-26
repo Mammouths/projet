@@ -32,10 +32,12 @@ Qu'est-ce que fait l'interacteur?
 
 -->
 
-- L'interacteur entre dans le studio
-- L'interacteur ce place devant la toille
-- L'interacteur se fait scanner le visage
-- L'interacteur bouge les bras pour faire l'expérience multimédia
+- L'intéracteur entre dans le studio
+- Prise de photo a déterminé
+- L'intéracteur se fait scanner le visage
+- L'intéracteur touche la toille
+- l'intéractteur fais pousser un arbre si il touche au bon endroit
+  
 
  ### La progression
 
