@@ -1,6 +1,6 @@
 # Mikael Arseneau
 
-![](https://placehold.co/600x400?text=membre+v)
+![](alex_vignette.webp)
 
 ## Planification
 
