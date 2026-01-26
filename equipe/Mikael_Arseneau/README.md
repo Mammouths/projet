@@ -1,6 +1,6 @@
 # Mikael Arseneau
 
-![](alex_vignette.webp)
+![](mikael_vignette.webp)
 
 ## Planification
 
