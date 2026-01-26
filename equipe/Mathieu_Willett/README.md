@@ -79,7 +79,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5
 
-- 
+- Travailler sur la vidéo finale
+- Continuer à améliorer le projet
 <!-- 
 - Tâche
 - Tâche
@@ -87,6 +88,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 7
 
+- Remplir la section exposition
+- Résoudre les problèmes
+- Prier pour que rien explose
 <!-- 
 - Tâche
 - Tâche
@@ -94,6 +98,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 8
 
+- Présenter l'installation
+- Finir la vidéo finale
+- Compléter le site web
 <!-- 
 - Tâche
 - Tâche
