@@ -20,7 +20,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 1
 
 <!-- 
-- Tâche
+- travailler sur la page github et magasiner pour le projet.
 - Tâche
 -->
 
