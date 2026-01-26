@@ -1,6 +1,5 @@
 # Rafael Angon Dubé
 
-![](https://placehold.co/600x400?text=membre+v)
 ![](rafael_vignette.webp)
 ## Planification
 
