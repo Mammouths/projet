@@ -1,6 +1,6 @@
 # Mathieu Willet
 
-![](https://placehold.co/600x400?text=membre+v)
+![](mathieu_vignette.webp)
 
 ## Planification
 
@@ -19,13 +19,19 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Travailler sur ma page dans équipe
+- Faire le plan du cadre de bois
+- Calculer les coûts approximatifs du bois
+- Chercher pour une toile en spandex
 
 ### Semaine 2
 
+- Compléter ma page dans équipe
+- Commander la toile ou l'acheter en magasin dépendant des options
+- Peut-être acheter du bois
+- Expérimenter avec le lidar pour avoir les bons paramètres
+- Commencer à construire la structure?
+- Faire la liste de matériel nécessaire aux TTP
 <!-- 
 - Tâche
 - Tâche
@@ -33,6 +39,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
+- Finir la structure
+- Installer la toile
+- Préparer la démo (démo complétée à 90% en date du 26 janvier) avec le lidar pour les portes ouvertes
+- Peut-être commencer à travailler sur le face tracking
 <!-- 
 - Tâche
 - Tâche
@@ -40,6 +50,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 4
 
+- Travailler sur le face tracking et paramétrer l'appareil photo
+- Se questionner sur la moralité du face tracking
 <!-- 
 - Tâche
 - Tâche
@@ -47,6 +59,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 
+- Résoudre certains problèmes potentiels avec le face tracking et le lidar
+- Travailler sur la bande-annonce
+- Travailler sur le dossier de presse
+- Se préparer pour la présentation de la semaine 6
 <!-- 
 - Tâche
 - Tâche
@@ -54,6 +70,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6
 
+- Faire la présentation
+- Faire les possibles améliorations sur le projet
 <!-- 
 - Tâche
 - Tâche
@@ -61,6 +79,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5
 
+- 
 <!-- 
 - Tâche
 - Tâche
