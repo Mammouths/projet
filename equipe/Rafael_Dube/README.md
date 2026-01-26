@@ -53,7 +53,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tourner la vidéo de présentation du projet  
 
 ### Semaine 7
-- Faire le montage de la vidéo de présentation  
+- Faire le montage de la vidéo de présentation
+-  Vérifier que tout fonctionne correctement 
 
 ### Semaine 8
 - Pratiquer pour la présentation finale  
