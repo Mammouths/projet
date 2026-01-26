@@ -8,7 +8,6 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 
 | Jour       | Responsable |
 |------------|-------------|
-| Lundi      |    Prénom   |
 | Lundi      |    Alex   |
 | Mardi      |    Prénom   |
 | Mercredi   |    Prénom   |
