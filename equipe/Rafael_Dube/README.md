@@ -35,7 +35,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 3
 finalisser la structure du projet
 commencer à enregistré les sons pour les arabes,le soleil, de l'eau etc.
-continuer la documentation photo et vidéo
+continuer la documentation photos et vidéos
 <!-- 
 - Tâche
 - Tâche
@@ -43,7 +43,7 @@ continuer la documentation photo et vidéo
 
 ### Semaine 4
 faire de la modification des sons sur reaper
-continuer 
+continuer la documentation vidéo et photos
 <!-- 
 - Tâche
 - Tâche
@@ -51,34 +51,41 @@ continuer
 
 ### Semaine 5
 faire le montage de la bande annonces 
+continuer la documentation vidéo et photo
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 6
+testé et mettre le son dans le projet
+Trouver comment vous aller présenter le cartels
+· Trouver comment imprimer les cartels
+· Assembler le cartel de votre équipe
 
+· Éclairage du cartel
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 6.5
-
+Rédiger les informations à mettre sur les cartels:
+tourné la vidéo de présentation du projet
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 7
-
+faire le montage de la vidéo de présentation
 <!-- 
 - Tâche
 - Tâche
 -->
 
 ### Semaine 8
-
+pratiqué pour la présentation final
 <!-- 
 - Tâche
 - Tâche
