@@ -40,6 +40,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Finaliser la structure
 - Installation de la toile
 - Calibration du lidar avec toile et le projet
+- Creation du site web de l'exposition 
 <!-- 
 - Tâche
 - Tâche
@@ -48,6 +49,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 4
 
 - Corriger les bugs lier a la calibration du lidar
+- Modifications du site web de l'exposition 
 <!-- 
 - Tâche
 - Tâche
@@ -55,7 +57,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 - Optimisation du code et correction de problèmes
-
+- Modifications du site web de l'exposition 
 <!-- 
 - Tâche
 - Tâche
