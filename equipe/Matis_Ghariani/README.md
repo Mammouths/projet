@@ -47,7 +47,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Logo équipe.
 - construction du cadre. 
 - se preparer pour les portes ouvertes.
-- faire l'ambiance sonore. 
+- faire l'ambiance sonore.
+- enregistrer les sons choisies.
 - documentaion du projet
 - comité de design. 
 
@@ -70,6 +71,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 - documentaion du projet
 - comité de design.
+- faire le montage sonore de la bande annonce. 
 
 ### Semaine 6
 
