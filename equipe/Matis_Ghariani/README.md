@@ -35,7 +35,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Faire le background de la toile.
 - Changer le sénario selon les indications des professeurs.
 - Documentation du projet (photos, etc...)
-- Construire structure?
 - Commité design.
 
 ### Semaine 3
@@ -47,8 +46,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Logo équipe.
 - construction du cadre. 
 - se preparer pour les portes ouvertes.
-- faire l'ambiance sonore.
-- enregistrer les sons choisies.
+- Composer les ambiances sonores. 
+- Enregistrer les sons. 
 - documentaion du projet
 - comité de design. 
 
@@ -58,10 +57,12 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
-- enregistrer les sons choisies. 
-- mixer les sons. 
+- faire le soleil. 
+- faire les effets visuelle du soleil.
+- Mixer et addapter les sons enregistrer.
 - doxumentation du projet.
 - comité de design
+- construction de la structure. 
 
 ### Semaine 5
 
@@ -71,6 +72,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 - documentaion du projet
 - comité de design.
+- Addapter le son par rapport a l'avis des profs.
+- Finaliser tout les sons et ambiances.
 - faire le montage sonore de la bande annonce. 
 
 ### Semaine 6
@@ -79,6 +82,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+ 
 - documentaion du projet
 - comité de design.
 
