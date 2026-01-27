@@ -19,19 +19,12 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
 - Travailler sur la page github.
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
-- Trouver des inspirations pour l'ambiance (son).
+- Redéfinir l'identitée du projet.
+- Trouver des inspirations pour l'ambiance (sons).
 - Faire le background de la toile.
 - Changer le sénario selon les indications des professeurs.
 - Documentation du projet (photos, etc...)
@@ -39,80 +32,53 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
-- Logo équipe.
-- construction du cadre. 
-- se preparer pour les portes ouvertes.
-- Composer les ambiances sonores. 
-- documentaion du projet
-- comité de design. 
+- Design du logo d'équipe.
+- Se preparer pour les portes ouvertes.
+- Construction du cadre.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 4
 
-<!-- 
-- Tâche
-- Tâche
--->
 - faire le soleil.
-- Enregistrer les sons.
-- doxumentation du projet.
-- comité de design
-- construction de la structure. 
+- Mixage et addaptation des sons enregistrer.
+- Composer l'ambiance sonore et le reste des sons.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 5
 
-<!-- 
-- Tâche
-- Tâche
--->
-- documentaion du projet
-- comité de design.
-- faire les effets visuelle du soleil.
-- Mixer et addapter les sons enregistrer.
-- Finaliser tout les sons et ambiances.
-- faire le montage sonore de la bande annonce. 
+- faire les effets visuels du soleil.
+- Addapter les sons par rapport a l'avis des professeurs.
+- faire le montage sonore de la bande annonce.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
-- Addapter le son par rapport a l'avis des profs.
-- documentaion du projet
-- comité de design.
+- Mixage et addaptation des sons enregistrer.
+- Composer l'ambiance sonore et le reste des sons.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 6.5
 
-<!-- 
-- Tâche
-- Tâche
--->
-- documentaion du projet
-- comité de design.
+- Mixage et addaptation des sons enregistrer.
+- Composer l'ambiance sonore et le reste des sons.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 7
 
-<!-- 
-- Tâche
-- Tâche
--->
-- documentaion du projet
-- comité de design.
+- Finaliser tous les sons et les ambiances.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ### Semaine 8
 
-<!-- 
-- Tâche
-- Tâche
--->
-- correction des bugs. 
-- documentaion du projet. 
-- comité de design.
-
+- correction des bugs.
+- Documentation du projet (photos, etc...)
+- Commité design.
 
 ## Journal de bord
 
@@ -225,4 +191,3 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 #### Vendredi
-                                                   
