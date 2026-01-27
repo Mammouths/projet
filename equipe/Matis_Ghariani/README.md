@@ -45,6 +45,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 - Logo équipe.
+- construction du cadre. 
+- se preparer pour les portes ouvertes.
+- faire l'ambiance sonore. 
+- documentaion du projet
+- comité de design. 
 
 ### Semaine 4
 
@@ -52,6 +57,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- enregistrer les sons choisies. 
+- mixer les sons. 
+- doxumentation du projet.
+- comité de design
 
 ### Semaine 5
 
@@ -59,6 +68,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- documentaion du projet
+- comité de design.
 
 ### Semaine 6
 
@@ -66,6 +77,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- documentaion du projet
+- comité de design.
 
 ### Semaine 6.5
 
@@ -73,6 +86,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- documentaion du projet
+- comité de design.
 
 ### Semaine 7
 
@@ -80,6 +95,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- documentaion du projet
+- comité de design.
 
 ### Semaine 8
 
@@ -87,6 +104,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
+- documentaion du projet
+- comité de design.
 
 
 ## Journal de bord
