@@ -47,7 +47,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - construction du cadre. 
 - se preparer pour les portes ouvertes.
 - Composer les ambiances sonores. 
-- Enregistrer les sons. 
 - documentaion du projet
 - comité de design. 
 
@@ -57,9 +56,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
-- faire le soleil. 
-- faire les effets visuelle du soleil.
-- Mixer et addapter les sons enregistrer.
+- faire le soleil.
+- Enregistrer les sons.
 - doxumentation du projet.
 - comité de design
 - construction de la structure. 
@@ -72,7 +70,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 -->
 - documentaion du projet
 - comité de design.
-- Addapter le son par rapport a l'avis des profs.
+- faire les effets visuelle du soleil.
+- Mixer et addapter les sons enregistrer.
 - Finaliser tout les sons et ambiances.
 - faire le montage sonore de la bande annonce. 
 
@@ -82,7 +81,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
- 
+- Addapter le son par rapport a l'avis des profs.
 - documentaion du projet
 - comité de design.
 
@@ -110,7 +109,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 - Tâche
 -->
-- documentaion du projet
+- correction des bugs. 
+- documentaion du projet. 
 - comité de design.
 
 
