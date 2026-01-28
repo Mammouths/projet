@@ -34,7 +34,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Design du logo d'équipe.
 - Se preparer pour les portes ouvertes.
-- Construction du cadre.
+- Commencer le mixage et addaptation des sons enregistrer.
 - Documentation du projet (photos, etc...)
 - Commité design.
 
@@ -48,7 +48,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 
-- faire les effets visuels du soleil.
+- faire les effets visuels du soleil (animation).
 - Addapter les sons par rapport a l'avis des professeurs.
 - faire le montage sonore de la bande annonce.
 - Documentation du projet (photos, etc...)
@@ -100,7 +100,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+- Répartition des tâches.
+- Plannification de la session.
+
 #### Mardi
+
+- Installation pour test de projection.
+- Redéfinition finale de l'estetique sonore et visuelle du projet.
+- Moodboard finale du projet.
 
 #### Mercredi
 
