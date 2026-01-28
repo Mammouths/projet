@@ -53,6 +53,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tourner la vidéo de présentation du projet  
 
 ### Semaine 7
+
 - Faire le montage de la vidéo de présentation
 -  Vérifier que tout fonctionne correctement 
 
@@ -81,6 +82,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+allo
 
 #### Mardi
 
