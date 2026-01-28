@@ -126,8 +126,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
- allo
+- Avancement du Github
+- Recevoir les données du Lidar dans TouchDesigner avec OSC
+
 #### Mardi
+- Separer les données reçus en X et Y
 
 #### Mercredi
 
