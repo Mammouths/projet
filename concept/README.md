@@ -85,7 +85,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 ## Inspirations
 
-<img alt="Moodboard" src="concept/moodboard_arbre_en_face.png" />
+<img alt="Moodboard" src="concept/mbord.png" />
 
 ### Inspirations visuelles et sonores
 
