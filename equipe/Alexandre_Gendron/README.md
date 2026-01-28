@@ -53,7 +53,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Finaliser la structure
 - Continuer les visuels des plantes
-- Commencer textures
 - Se préparer pour les portes ouvertes, finir la démo
 - Faire le logo
 
@@ -65,9 +64,14 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Tâche
 -->
 
-- Finaliser les visuels de plantes
+- Continuer les visuels de plantes
 - Commencer le système d'apparition des plantes
-- Continuer les textures et effets (eau)
+- Commencer les textures
+  * écorce
+  * feuilles
+  * visages
+  * gazon
+  * eau
 - Commener à mettre les images de visages sur les objets 3D
 - Commencer le comité de design
 - Finaliser logo
@@ -153,7 +157,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+* Répartition des tâches
+* Remplir ma page d'équipe dans le git hub
+
 #### Mardi
+
+* Test de projection
+* Choix final d'esthétique
+* Meilleure répartition des tâches
 
 #### Mercredi
 
