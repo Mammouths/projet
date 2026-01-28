@@ -25,6 +25,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Redéfinir l'identitée du projet.
 - Trouver des inspirations pour l'ambiance (sons).
+- Enregistrement de sons
 - Faire le background de la toile.
 - Changer le sénario selon les indications des professeurs.
 - Documentation du projet (photos, etc...)
@@ -34,7 +35,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Design du logo d'équipe.
 - Se preparer pour les portes ouvertes.
-- Commencer le mixage et addaptation des sons enregistrer.
+- Commencer le mixage et l'addaptation des sons enregistrer.
 - Documentation du projet (photos, etc...)
 - Commité design.
 
@@ -110,6 +111,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Moodboard finale du projet.
 
 #### Mercredi
+
+- Installation pour test de projection
+- Documentation (photos)
+- Début de l'enregistrement des sons
+  - Eau qui coule
+  - Bruitages humains
 
 #### Jeudi
 
