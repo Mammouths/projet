@@ -82,10 +82,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-allo
+j'ai fait des test d'installation avec la toille de projection pour voir si la projection fonctionne bien.
 
 #### Mardi
-
+- création de la liste de son a faire et enregistrer avec le sounddevise.
+- premiere journée d'enregistrement audio les son enregistré aujourd'hui son:
+- également pris de photos du projet
+- préparation de la caméra pour filmer
 #### Mercredi
 
 #### Jeudi
