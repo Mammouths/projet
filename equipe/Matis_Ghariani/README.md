@@ -25,7 +25,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Redéfinir l'identitée du projet.
 - Trouver des inspirations pour l'ambiance (sons).
-- Enregistrement de sons
+- Enregistrement de sons.
 - Faire le background de la toile.
 - Changer le sénario selon les indications des professeurs.
 - Documentation du projet (photos, etc...)
