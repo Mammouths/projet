@@ -28,8 +28,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 
-- Commencer la structure en bois du projet
-- Coder l'aspect technique du projet
+- Recevoir les données du lidar et les transmettres a touchDesigner par OSC
+- Séparer les données en X et Y dans un tableau
+- Calibration du lidar avec toile et le projet
+- Commencer le système d'innodation (détection du nombre de touché)
+- Terminer le GitHub
 <!-- 
 - Tâche
 - Tâche
@@ -37,10 +40,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-- Finaliser la structure
-- Installation de la toile
+- Déterminer l'emplacements des arbres dans le projet pour faciliter l'intéraction
 - Calibration du lidar avec toile et le projet
-- Creation du site web de l'exposition 
+- Creation du site web de l'exposition
+- Incorporer le système d'innodation
+- Commencement du systeme du soleil
+- Terminer le système d'innodation
+- Avoir mis les textures sur les arbres
 <!-- 
 - Tâche
 - Tâche
@@ -49,7 +55,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 4
 
 - Corriger les bugs lier a la calibration du lidar
-- Modifications du site web de l'exposition 
+- Modifications du site web de l'exposition
+- Terminer le système du soleil au complet
+- Essayer plein d'intéractions pour trouver des problèmes
 <!-- 
 - Tâche
 - Tâche
@@ -57,7 +65,9 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 5
 - Optimisation du code et correction de problèmes
-- Modifications du site web de l'exposition 
+- Modifications du site web de l'exposition
+- Optimiser des aniamitons du soleil pour la rendre fluide
+- Essayer plein d'intéractions pour trouver des problèmes
 <!-- 
 - Tâche
 - Tâche
@@ -65,6 +75,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6
 - Optimisation du code et correction de problèmes
+- Optimiser des aniamitons du soleil pour la rendre fluide
+- Essayer plein d'intéractions pour trouver des problèmes
 <!-- 
 - Tâche
 - Tâche
@@ -72,6 +84,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5
 - Optimisation du code et correction de problèmes
+- Essayer plein d'intéractions pour trouver des problèmes
 <!-- 
 - Tâche
 - Tâche
@@ -79,6 +92,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 7
 - Optimisation du code et correction de problèmes
+- Essayer plein d'intéractions pour trouver des problèmes
 <!-- 
 - Tâche
 - Tâche
