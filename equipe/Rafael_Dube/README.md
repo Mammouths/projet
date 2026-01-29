@@ -93,7 +93,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Préparation de la caméra pour filmer.
 - Installation et test de la toile et de la projection.
 #### Jeudi
-
+- test du projet sur la toille 
+- création de la parti conception sonore dans le site web
+- achat de nouveau chose pour aider à faire les sons manquant(ballon de fête)
+- enregistremment des derniès sont restant: Oiseaux, criquet, plante gradir (baloune), plant meurt (crit)
+- ajout des nouveau croquis et texte sur le site 
+  
 #### Vendredi
 
 ### Semaine 3
