@@ -48,6 +48,10 @@
 
 ![Vue de face 2D](https://github.com/user-attachments/assets/a38288bd-df49-4a2c-a91d-1658fbaf32a2)
 ![Vue de derrière 2D](https://github.com/user-attachments/assets/3f160456-4831-4b8b-aab7-4b0406dab82d)
+![Coté 1](https://github.com/user-attachments/assets/d37598e9-0d3c-40cc-b352-6d570b16034b)
+![Devant 1](https://github.com/user-attachments/assets/93a6af59-603e-4a42-bebe-e2f4915bcdab)
+
+
 <!--
 Plans d'implantation 2D et 3D
 -->
