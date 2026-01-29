@@ -91,7 +91,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Préparation de la caméra pour filmer.
 - Installation et test de la toile et de la projection.
 #### Mercredi
-
+- Création de la liste des sons à faire et enregistrement avec le dispositif sonore.
+- Première journée d’enregistrement audio : les sons enregistrés aujourd’hui sont : l'eau, les plantes qui bois et cris de colère du soleil 
+- Prise de photos du projet.
+- Préparation de la caméra pour filmer.
+- Installation et test de la toile et de la projection.
 #### Jeudi
 
 #### Vendredi
