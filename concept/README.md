@@ -80,8 +80,24 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
-
-
+### conception sonore
+# émotion
+- enjoué
+- optimiste
+# timbre
+- brillant
+# structure
+- répétitif
+- instable
+# référence
+- cartoonesque
+- naturaliste
+- simple
+ ## Intention
+ - Provoquer le rire dès le toucher de la toile
+ - Susciter l’envie de participer à l’œuvre
+- Utiliser le son comme récompense à l’action de toucher
+ 
 
 ## Inspirations
 
@@ -95,6 +111,9 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 [SFX 4](<Quaking%20Aspens%20One%20of%20my%20Favorite%20Sounds%20-%20madretz%20(youtube).mp3>)
 [SFX 5](<Wild%20Life%20In%20The%20Forest%20Sounds%20-%20Natural%20Sounds%20Selections%20(youtube).mp3>)
 [SFX 6](<Wind%20blowing%20tree%20leaves,%20SOUND%204k%20uhd%20-%20randomgab%20(youtube).mp3>)
+[SFX 7](https://www.youtube.com/watch?v=UVEGnWdiPrI)
+
+
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
