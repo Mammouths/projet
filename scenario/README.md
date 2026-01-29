@@ -8,7 +8,7 @@ Cette section présente le scénario de l'interactivité du projet.
 | :----------: | :----------------------------------------------------: | :----------: | :----------: | :-------------------------------------------: |
 |    Appuyer    | Le visiteur se positionne devant le photobooth et appuis sur le bouton du photobooth pour se prendre en photo |    Il voit le flash de l'appareil ainsi que sa photo.    |    Bruit d'appareil photo exagerer    | L'écran du photobooth lui propose de garder la photo ou de la recommencer. |
 
-## Scène 2  (Processus normale)
+## Scène 2
 
 | Verbe action |            Condition de déclenchement            |                                             Effet visuel                                            |                                                        Effet sonore                                                       |                                                                Effet interactif                                                                |
 |:------------:|:------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
