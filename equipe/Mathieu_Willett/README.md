@@ -27,11 +27,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 2
 
 - Compléter ma page dans équipe
-- Commander la toile ou l'acheter en magasin dépendant des options
-- Peut-être acheter du bois
-- Expérimenter avec le lidar pour avoir les bons paramètres
-- Commencer à construire la structure?
+- Commander la toile
+- Faire le plan et calculer le prix du cadre en aluminium
+- Expérimenter avec le lidar pour avoir les bons paramètres de distance pour la toile temporaire
 - Faire la liste de matériel nécessaire aux TTP
+- Faire une v1 pour le face tracking qui fonctionne pour 1 visage à la fois
 <!-- 
 - Tâche
 - Tâche
@@ -39,10 +39,10 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-- Finir la structure
-- Installer la toile
-- Préparer la démo (démo complétée à 90% en date du 26 janvier) avec le lidar pour les portes ouvertes
-- Peut-être commencer à travailler sur le face tracking
+- Amener l'aluminium à l'école
+- Installer la toile (peut-être)
+- Préparer la démo
+- Commencer à faire une v2 pour le face tracking pour avoir 2 visages à la fois
 <!-- 
 - Tâche
 - Tâche
@@ -50,8 +50,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 4
 
-- Travailler sur le face tracking et paramétrer l'appareil photo
-- Se questionner sur la moralité du face tracking
+- Construire le cadre en aluminium lorsqu'on aura reçu toutes les pièces
+- Faire en sorte que le face tracking fonctionne avec au moins 3 visages en même temps
 <!-- 
 - Tâche
 - Tâche
@@ -126,14 +126,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+26 janvier: Je suis venu à l'école pour faire la planification dans le GitHub et pour résoudre certains erreurs dans le site.
 
 #### Mardi
+27 janvier: En matinée, on a fait notre pitch avec les révisions faites la semaine dernière (soleil + inondation). En après-midi, on a fait une v1 de la structure avec le frame pour fond vert et une toile que Antoine nous a donné. On a fait un test avec le projecteur pour voir s'il était capable de projeter au travers de la toile.
 
 #### Mercredi
+28 janvier: On a défait la v1 et on a construit la structure v2 sur le mur de fond du studio. J'ai installé le lidar et le Raspberry Pi avec des "raidins" sur la structure. J'ai fait le plan pour le métal et j'ai acheté la quantité nécessaire d'aluminium pour le cadre ainsi que la toile.
 
 #### Jeudi
+29 janvier: Je suis allé chez Guillaume avec Jade pour aller chercher des extrusions d'aluminium ainsi que des télévisions cathodiques pour son projet à elle. J'ai ensuite fait un prototype de face tracking avec un Sony 6500 comme caméra.
 
 #### Vendredi
+30 janvier: Mik et moi avons fait un système pour que l'appareil photo voit les gens dans le portique du studio. Il détecte seulement les visages si ceux-ci sont dans le portique.
 
 ### Semaine 3
 
