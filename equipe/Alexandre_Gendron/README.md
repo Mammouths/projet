@@ -168,7 +168,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+* Setup deuxième toile
+* Recherche de L-system pour le projet
+
 #### Jeudi
+
+* Recherche de L-systems
+* Création de plantes personnalisées temporaires pour tests de performances
+* Ajout du facteur aléatoire dans la création de plantes pour un aspect plus naturel
+* Création de fleurs pour les plantes
+* Recherche commenent séparer les différentes parties des plantes pour leur mettre des textures uniques
 
 #### Vendredi
 
