@@ -104,7 +104,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
-
+- essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs
+- création des sons 
 #### Mardi
 
 #### Mercredi
