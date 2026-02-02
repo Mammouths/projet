@@ -120,7 +120,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
+- Suite de l'enregistrement des sons
+  - Oiseaux, criquets
+  - Balloune
+  - Crits
+- Modification complet du scénario
+- Documentation (vidéo)
+
 #### Vendredi
+
+- Background de la toile
 
 ### Semaine 3
 
