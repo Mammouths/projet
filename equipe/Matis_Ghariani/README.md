@@ -123,7 +123,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Suite de l'enregistrement des sons
   - Oiseaux, criquets
   - Balloune
-  - Crits
+  - Cris
 - Modification complet du scénario
 - Documentation (vidéo)
 
