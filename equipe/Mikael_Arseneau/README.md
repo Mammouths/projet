@@ -131,12 +131,24 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 - Separer les données reçus en X et Y
+- Mis les différenets L-systems dans touchDesigner
+- Faire une connnexion dans le code entre les données du lidar et les positions des arbres
 
 #### Mercredi
+- Création du système d'innodation lors du six conatct sur la toile
+- Création de l'animation du soleil
+- Faire en sorte que le soleil tue les arbres selon la position
 
 #### Jeudi
+- Faire en sorte que le soleil tue les arbres selon la position
+- Création de l'animation du l'innodation
+- Amélioration de l'animation du soleil
+- Améliorer la détection du lidar sur les arbres
 
 #### Vendredi
+- Importation des nouveaux arbres dans TouchDesigner
+- Création du système de capture de photo des intéracteurs
+- 
 
 ### Semaine 3
 
