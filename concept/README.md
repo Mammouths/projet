@@ -88,7 +88,8 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 - brillant
 ##### structure
 - répétitif
-- instable
+- granuleux
+- humain
 ##### référence
 - cartoonesque
 - naturaliste
