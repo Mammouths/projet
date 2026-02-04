@@ -143,8 +143,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
+2 février: Je n'ai pas travaillé sur le projet.
 
 #### Mardi
+3 février: J'ai reçu les coins ajustables et les extrusions d'aluminium pour la structure et j'ai voulu faire des filets dans les extrusions d'aluminium, mais j'ai brisé la mèche dans l'extrusion. Je suis allé voir au Rona+, au Canadian Tire et au Home Depot et ils n'en vendent pas. J'ai ensuite installé les haut parleurs et la carte de son pour le projet.
 
 #### Mercredi
 
