@@ -137,6 +137,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+- Ajustement sonore
+- Mixage et créations des sons
+  - Eau
+  - Étirement
+  - Plante qui boit
+
 #### Mercredi
 
 #### Jeudi
