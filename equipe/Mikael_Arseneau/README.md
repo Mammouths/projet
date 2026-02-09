@@ -148,19 +148,26 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 - Importation des nouveaux arbres dans TouchDesigner
 - Création du système de capture de photo des intéracteurs
-- 
+
 
 ### Semaine 3
 
 #### Lundi
+- Implémenter tous les L-systems dans un render
+- Rajouter le background dans touchdesigner
 
 #### Mardi
-
+- Implémenter les photos recue et les mettres comme texture sur les arbres/fleurs
+- Amélioarion du soleil pour rendre plus fluide
 #### Mercredi
-
+- Rendre le code plus optimiser en enlevant les partie unitile
+- tester toutes les intéractions pour la journée des portes ouvertes
 #### Jeudi
+- Faire en sorte que les faces change au contact du soleil
+- Trouver les comportements des intéracteurs sur la toile
 
 #### Vendredi
+- journée de congé
 
 ### Semaine 4
 
