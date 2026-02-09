@@ -107,10 +107,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs
 - création des sons 
 #### Mardi
-
+- intégration du son dans le projet
+- installation des haut parleur
+- testé le projet
 #### Mercredi
+- commencer du tournage pour la bande annonce
+- testé le projet
 
 #### Jeudi
+préparation pour les porte ouverts
 
 #### Vendredi
 
