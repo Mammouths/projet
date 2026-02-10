@@ -138,14 +138,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Ajustement sonore
-- Mixage et créations des sons
+- Mixage des sons
   - Eau
   - Étirement
   - Plante qui boit
 
 #### Mercredi
 
-- Ajustement et mixages des sons
+- Mixage des sons
+  - Cris
+  - Bruit de réussite
+- Ajustement des sons
 - Preparation pour les portes ouvertes
 
 #### Jeudi
