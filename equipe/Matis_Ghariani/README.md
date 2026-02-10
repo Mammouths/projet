@@ -33,7 +33,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-- Design du logo d'équipe.
+- Design du logo.
 - Se preparer pour les portes ouvertes.
 - Commencer le mixage et l'addaptation des sons enregistrer.
 - Documentation du projet (photos, etc...)
@@ -145,9 +145,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Ajustement et mixages des sons
+- Preparation pour les portes ouvertes
+
 #### Jeudi
 
+- Observation lors des portes ouvertes
+- Documentation du projet (videos)
+
 #### Vendredi
+
+- Design du logo de l'exposition
 
 ### Semaine 4
 
