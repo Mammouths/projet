@@ -137,7 +137,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Ajustement sonore
+- Ajustement des sons
 - Mixage des sons
   - Eau
   - Étirement
