@@ -181,21 +181,39 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
+* Ajout du facteur aléatoire dans la création de plantes pour un aspect plus naturel
+* Séparation des différents éléments des plantes
+
 ### Semaine 3
 
 #### Lundi
 
+* Repos
+
 #### Mardi
+
+* Amélioration des plantes
+* Tests de performances
 
 #### Mercredi
 
+* Application des premières textures
+* Préparation pour les portes ouvertes
+
 #### Jeudi
 
+* Préparation des portes ouvertes
+* Portes ouvertes
+
 #### Vendredi
+
+* Travail sur le logo de l'expo
 
 ### Semaine 4
 
 #### Lundi
+
+* Travail sur le logo de l'expo
 
 #### Mardi
 
