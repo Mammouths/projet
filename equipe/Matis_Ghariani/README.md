@@ -166,7 +166,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+- Design du soleil
+
 #### Mercredi
+
+- Design du soleil
+- Redesign du background
 
 #### Jeudi
 
