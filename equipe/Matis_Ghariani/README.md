@@ -164,6 +164,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+- Design du logo de l'exposition
+
 #### Mardi
 
 - Design du soleil
