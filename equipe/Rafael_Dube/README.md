@@ -118,15 +118,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 préparation pour les porte ouverts
 
 #### Vendredi
-
+journée congés 
 ### Semaine 4
 
 #### Lundi
-
+commencer à faire faire le tris des vidéo découpement etc
+correction de mon journal de bord 
 #### Mardi
-
+continuer a toucher au montage video 
+test du projet
 #### Mercredi
-
+- installation de la nouvelle toille refait tous l'emplacement du projet.
+- refaire l'osc avec reaper
 #### Jeudi
 
 #### Vendredi
