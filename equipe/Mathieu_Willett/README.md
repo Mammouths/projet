@@ -149,20 +149,27 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 3 février: J'ai reçu les coins ajustables et les extrusions d'aluminium pour la structure et j'ai voulu faire des filets dans les extrusions d'aluminium, mais j'ai brisé la mèche dans l'extrusion. Je suis allé voir au Rona+, au Canadian Tire et au Home Depot et ils n'en vendent pas. J'ai ensuite installé les haut parleurs et la carte de son pour le projet.
 
 #### Mercredi
+4 février: J'ai installé les extensions de métal pour les extrusions d'aluminium. J'ai coupé certaines extrusions pour avoir certaines mesures spécifiques. J'ai ensuite mis l'effet d'eau au toucher de la toile.
 
 #### Jeudi
+5 février: Portes ouvertes. J'ai ramassé le studio et j'ai participé aux portes ouvertes.
 
 #### Vendredi
+6 février: Je n'ai pas travaillé sur le projet.
 
 ### Semaine 4
 
 #### Lundi
+9 février: Je n'ai pas travaillé sur le projet.
 
 #### Mardi
+10 février: J'ai assemblé le restant de la structure avec les coins à 90 degrés.
 
 #### Mercredi
+11 février: J'ai sablé les attaches pour la toile. On a installé la toile. On a défait la v2 de la structure et on a installé la structure finale.
 
 #### Jeudi
+12 février: J'ai arrangé la calibration du lidar et j'ai travaillé sur une version du face tracking pour capter les visages plus sombres et les rendre plus lumineux.
 
 #### Vendredi
 
