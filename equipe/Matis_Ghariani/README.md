@@ -42,6 +42,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 4
 
 - faire le soleil.
+- Animation du background
 - Mixage et addaptation des sons enregistrer.
 - Composer l'ambiance sonore et le reste des sons.
 - Documentation du projet (photos, etc...)
