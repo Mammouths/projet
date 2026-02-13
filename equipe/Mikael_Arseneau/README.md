@@ -172,8 +172,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
+- Journée de congé 
 
 #### Mardi
+- Creation du frame pour tenir la toile
+
 
 #### Mercredi
 
