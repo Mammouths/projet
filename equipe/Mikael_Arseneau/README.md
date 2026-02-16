@@ -176,13 +176,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 - Creation du frame pour tenir la toile
+- Commencement du désensabalage du l'ancienne toile
 
 
 #### Mercredi
-
+- Installer la nouvelle toile sur le frame
+- Refait le cable managenement
 #### Jeudi
-
+- Changer les coordonées du lidar pour la nouvelle toile
+- Reserrage de la nouvelle toile sur le frame
 #### Vendredi
+- Journée de congée
 
 ### Semaine 5
 
