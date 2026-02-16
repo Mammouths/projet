@@ -172,6 +172,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 12 février: J'ai arrangé la calibration du lidar et j'ai travaillé sur une version du face tracking pour capter les visages plus sombres et les rendre plus lumineux.
 
 #### Vendredi
+13 février: Je n'ai pas travaillé sur le projet.
 
 ### Semaine 5
 
