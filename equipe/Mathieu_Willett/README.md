@@ -182,6 +182,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 11 février: J'ai sablé les attaches pour la toile. On a installé la toile. On a défait la v2 de la structure et on a installé la structure finale.
 
+![Attache pour la toile](https://github.com/user-attachments/assets/0b6d37dc-2010-4695-bcb2-69de0e2f7ac0)
+
 #### Jeudi
 12 février: J'ai arrangé la calibration du lidar et j'ai travaillé sur une version du face tracking pour capter les visages plus sombres et les rendre plus lumineux.
 
