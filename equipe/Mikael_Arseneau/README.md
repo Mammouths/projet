@@ -198,6 +198,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 -<img width="708" height="232" alt="{165A2618-CDE4-4636-B938-A7ED7862A787}" src="https://github.com/user-attachments/assets/2743b314-156c-4ece-8e05-290f622e1f4e" />
 
 - Faire en sorte que le projet ouvre lors de l'ouverture de Windows
+- Faire en sorte que le porjecteur ouvre lors de l'oiuverture du projet touchdesigner
 #### Mercredi
 
 #### Jeudi
