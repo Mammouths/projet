@@ -31,7 +31,7 @@ Ainsi, l’œuvre met en tension équilibre et excès, solidarité et responsabi
 Sur des petites montagnes très ensoleillées poussaient des plantes et des arbres. Ils grandissaient grâce au toucher et au maintien. Quand une main restait posée sur eux, ils devenaient plus grands. Une fois arrivés à leur pleine taille, des visages humains apparaissaient au centre des fleurs, et les fruits des arbres montraient aussi des visages, comme s’ils prenaient vie. Mais lorsque les rayons du soleil passaient sur les fleurs et les arbres, les plantes mouraient aussitôt en poussant des cris, et le cycle recommence.
 
 ## Fonctionnalités
-
+Une caméra prend en photo les gens et envoie les images dans un dossier qui les conserve pendant un certain temps. Une grande toile affiche le décor. Un capteur est installé en haut de la toile et détecte les mouvements des mains des gens pour faire grandir les plantes. Tout est intégré dans un logiciel qui permet de réaliser toutes ces actions et qui peut également lancer un autre logiciel pour connecter l’ensemble, donnant ainsi vie au projet.
 
 
 ## Bande-annonce
@@ -50,6 +50,8 @@ Sur des petites montagnes très ensoleillées poussaient des plantes et des arbr
 
 ## Images
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/70d4c511-8073-4304-8c83-ccf1a64e951c" />
+<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/b4d0b6d6-c996-4ed9-91c9-8abf5dd1c96a" />
+<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/630d1677-163b-44c9-b2e7-790ce47274ff" />
 
 
 ## Logo & Icône
@@ -62,6 +64,8 @@ Sur des petites montagnes très ensoleillées poussaient des plantes et des arbr
  -->
 
 ## À propos de l'équipe de création
+
+
 - Alexande Gendron:
 - Mathieu Willett:
 - Mikael Arseneau:
