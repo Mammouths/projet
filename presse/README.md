@@ -49,7 +49,11 @@ Sur des petites montagnes très ensoleillées poussaient des plantes et des arbr
 -->
 
 ## Images
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/70d4c511-8073-4304-8c83-ccf1a64e951c" />
 
+
+## Logo & Icône
+<img width="125" height="80" alt="image" src="https://github.com/user-attachments/assets/6c7738a4-679d-4ff1-a515-31bb02d8cfc7" />
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
 ## Logo & Icône
@@ -58,14 +62,15 @@ Sur des petites montagnes très ensoleillées poussaient des plantes et des arbr
  -->
 
 ## À propos de l'équipe de création
-Alexande Gendron:
-Mathieu Willett:
-Mikael Arseneau:
-Rafael Angon Dubé:
-Matis Ghariani:
+- Alexande Gendron:
+- Mathieu Willett:
+- Mikael Arseneau:
+- Rafael Angon Dubé:
+- Matis Ghariani:
 
 ## Crédits
-
+  - collègue Montmorency 
+  - technique d'intégration multimédia
 
 ## Contact
 
