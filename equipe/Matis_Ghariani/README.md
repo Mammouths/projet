@@ -181,11 +181,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
+- Animation du background
+
 #### Vendredi
 
 ### Semaine 5
 
 #### Lundi
+
+- Enregistrement des sons
 
 #### Mardi
 
