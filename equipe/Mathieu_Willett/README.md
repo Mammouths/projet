@@ -126,7 +126,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-26 janvier: Je suis venu à l'école pour faire la planification dans le GitHub et pour résoudre certains erreurs dans le site.
+26 janvier: Je suis venu à l'école pour faire la planification dans le GitHub et pour résoudre certaines erreurs dans le site.
+
+![Travail sur GitHub](https://github.com/user-attachments/assets/9753948a-065b-4e0a-b7d6-ba52e85177b2)
+
 
 #### Mardi
 27 janvier: En matinée, on a fait notre pitch avec les révisions faites la semaine dernière (soleil + inondation). En après-midi, on a fait une v1 de la structure avec le frame pour fond vert et une toile que Antoine nous a donné. On a fait un test avec le projecteur pour voir s'il était capable de projeter au travers de la toile.
@@ -134,11 +137,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 28 janvier: On a défait la v1 et on a construit la structure v2 sur le mur de fond du studio. J'ai installé le lidar et le Raspberry Pi avec des "raidins" sur la structure. J'ai fait le plan pour le métal et j'ai acheté la quantité nécessaire d'aluminium pour le cadre ainsi que la toile.
 
+![La deuxième version de la structure](https://github.com/user-attachments/assets/8af35fa8-178c-40f1-909e-1d72ebd9d239)
+
 #### Jeudi
 29 janvier: Je suis allé chez Guillaume avec Jade pour aller chercher des extrusions d'aluminium ainsi que des télévisions cathodiques pour son projet à elle. J'ai ensuite fait un prototype de face tracking avec un Sony 6500 comme caméra.
 
 #### Vendredi
 30 janvier: Mik et moi avons fait un système pour que l'appareil photo voit les gens dans le portique du studio. Il détecte seulement les visages si ceux-ci sont dans le portique.
+
+![Prototypes d'arbres](https://github.com/user-attachments/assets/06682884-7fd6-4fa3-ac21-305f472dd25e)
+
 
 ### Semaine 3
 
