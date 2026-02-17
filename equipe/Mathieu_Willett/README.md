@@ -156,8 +156,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 3 février: J'ai reçu les coins ajustables et les extrusions d'aluminium pour la structure et j'ai voulu faire des filets dans les extrusions d'aluminium, mais j'ai brisé la mèche dans l'extrusion. Je suis allé voir au Rona+, au Canadian Tire et au Home Depot et ils n'en vendent pas. J'ai ensuite installé les haut parleurs et la carte de son pour le projet.
 
+![Installation des hauts-parleurs](https://github.com/user-attachments/assets/09c40c09-45d2-4be4-ac9a-c6122be39fea)
+
+
 #### Mercredi
 4 février: J'ai installé les extensions de métal pour les extrusions d'aluminium. J'ai coupé certaines extrusions pour avoir certaines mesures spécifiques. J'ai ensuite mis l'effet d'eau au toucher de la toile.
+
+![Travail sur GitHub via le Raspberry Pi](https://github.com/user-attachments/assets/07574300-8fb5-409e-88cc-e03d954fcb96)
+
 
 #### Jeudi
 5 février: Portes ouvertes. J'ai ramassé le studio et j'ai participé aux portes ouvertes.
