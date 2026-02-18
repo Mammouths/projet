@@ -156,7 +156,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-
+![eb25435e-92c4-429a-9d46-864aa0b7e3d7](https://github.com/user-attachments/assets/ec2bc3a6-8823-47b2-8e6c-7ff21460856d)
 * Répartition des tâches
 * Remplir ma page d'équipe dans le git hub
 
@@ -217,17 +217,33 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+* Travail sur les fleurs
+* Monter la structure
+
 #### Mercredi
+
+* Travail sur les fleurs
+* Montage de la toile et calibration
 
 #### Jeudi
 
+* "Streamliner" le processus d'export et d'utilisation des fleurs
+
 #### Vendredi
+
+* Pas de travail
 
 ### Semaine 5
 
 #### Lundi
 
+* "Streamliner" le processus d'export et d'utilisation des fleurs
+* Travail avec le nouveau système d'export et implémentation du système dans le projet
+
 #### Mardi
+
+* Recherche pour bannière
+* Travail avec le nouveau système d'export et implémentation du système dans le projet
 
 #### Mercredi
 
