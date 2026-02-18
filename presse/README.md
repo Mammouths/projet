@@ -55,6 +55,7 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 
 
 ## Logo & Icône
+Icône
 <img width="125" height="80" alt="image" src="https://github.com/user-attachments/assets/6c7738a4-679d-4ff1-a515-31bb02d8cfc7" />
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
@@ -64,18 +65,17 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
  -->
 
 ## À propos de l'équipe de création
+Une équipe de finissants en technique d’intégration multimédia a déterminé, au cours de ses recherches pour son projet, que son objectif principal serait de faire rire les participants et de les amuser grâce à une expérience interactive. Chaque membre de l’équipe a dû apprendre de nouvelles technologies ou approfondir celles qu’il connaissait déjà afin de contribuer pleinement au projet.
 
 
-- Alexande Gendron:
-- Mathieu Willett:
-- Mikael Arseneau:
-- Rafael Angon Dubé:
-- Matis Ghariani:
 
 ## Crédits
   - collègue Montmorency 
   - technique d'intégration multimédia
 
 ## Contact
-
-
+- Rafael :kostodube@gmail.com
+- Matis : matisghariani@icloud.com
+- Mathieu: ekiwillow@gmail.com
+- Alexandre:alexandregendron2004@gmail.com
+- Mikael :
