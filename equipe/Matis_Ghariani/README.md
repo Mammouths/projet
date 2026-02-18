@@ -193,6 +193,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+- Modélisation 3d du terrain (background)
+
 #### Mercredi
 
 #### Jeudi
