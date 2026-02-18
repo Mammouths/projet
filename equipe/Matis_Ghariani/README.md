@@ -104,12 +104,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Répartition des tâches.
 - Plannification de la session.
+![shared image](https://github.com/user-attachments/assets/57483497-f547-4352-b44c-e4ad016c7d2a)
 
 #### Mardi
 
 - Installation pour test de projection.
 - Redéfinition finale de l'estetique sonore et visuelle du projet.
 - Moodboard finale du projet.
+![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
 
 #### Mercredi
 
@@ -194,6 +196,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Modélisation 3d du terrain (background)
+<img width="1919" height="984" alt="Screenshot 2026-02-17 112820" src="https://github.com/user-attachments/assets/b6b7cf07-510c-47db-93d5-c5d124f4a52b" />
 
 #### Mercredi
 
