@@ -200,6 +200,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Design de la bannière (comité design)
+- Test de background sur Touchdesigner (terrain 3d)
+<img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
+
 #### Jeudi
 
 #### Vendredi
