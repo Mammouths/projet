@@ -206,6 +206,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
+- Design de la deuxième version du background
+- Design de la bannière (comité design)
+- Modélisation 3d
+  - Nuages
+  - Montagnes
+  - terrain
+
 #### Vendredi
 
 ### Semaine 6
