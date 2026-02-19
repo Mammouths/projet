@@ -51,7 +51,8 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 ## Images
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/70d4c511-8073-4304-8c83-ccf1a64e951c" />
 <img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/b4d0b6d6-c996-4ed9-91c9-8abf5dd1c96a" />
-<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/630d1677-163b-44c9-b2e7-790ce47274ff" />
+<img width="760" height="377" alt="image" src="https://github.com/user-attachments/assets/4da29295-970a-4a90-a03f-270ecb1e28c1" />
+
 
 
 ## Logo & Icône
@@ -78,4 +79,4 @@ Une équipe de finissants en technique d’intégration multimédia a détermin�
 - Matis : matisghariani@icloud.com
 - Mathieu: ekiwillow@gmail.com
 - Alexandre:alexandregendron2004@gmail.com
-- Mikael :
+- Mikael :mikael.arseneau@gmail.com
