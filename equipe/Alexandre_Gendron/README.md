@@ -243,11 +243,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 * Recherche pour bannière
-* Travail avec le nouveau système d'export et implémentation du système dans le projet
+* Travail avec le nouveau système d'export de plantes  et implémentation du système dans le projet
 
 #### Mercredi
 
+* Travail sur la bannière
+* Travail avec le nouveau système d'export de plantes  et implémentation du système dans le projet
+
 #### Jeudi
+
+* Renforcer la structure
+* Travail sure les plantes
+* Filmer la bande-annonce
 
 #### Vendredi
 
