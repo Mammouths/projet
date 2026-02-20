@@ -1,4 +1,4 @@
-# Mathieu Willett
+5# Mathieu Willett
 
 ![](mathieu_vignette.webp)
 
@@ -193,14 +193,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 5
 
 #### Lundi
+16 février: On a enlevé le faux mur du studio pour pousser le cadre plus proche du mur. Mikael et moi avons corrigé la projection pour que celle-ci prenne toute la grandeur de la toile. 
 
 #### Mardi
+17 février: On a rajouté d'autres attaches sur le cadre pour tenir la toile. J'ai installé un rideau noir en dessous de la projection pour cacher les fils et le projecteur. J'ai fait une amélioration au face tracking pour que si la photo prise est trop sombre, celle-ci est éclaircie.
 
 #### Mercredi
+18 février: J'ai attaché la caméra au support arrière du cadre avec un SmallRig pour ne pas avoir à utiliser un trépied. Je suis allé acheter 11 mètres de rideau noir au Fabricville avec Jade pour nos deux projets respectifs. On a coupé le tissu dans les mesures nécessaires à l'aide du niveau à laser. J'ai commencé un schéma plus détaillé du cadre pour la documentation.
 
 #### Jeudi
+19 février: J'ai installé les rideaux noirs sur les cotés du cadre avec des tringles à rideaux faites avec les extrusions d'aluminium restantes en les attachant au dessus du cadre avec les 2 coins à 90 degrés qu'il me restait. Malheureusement, le rideau étant lourd, les tringles penchait trop vers l'arrière et manquait de briser les coins. J'ai donc fait un système de support avec deux extrusions d'aluminium restantes que j'ai fileté et des SmallRig pour tenir les tringles avec la gravité. J'ai fini le schéma du cadre avec des liens pour chaque élément du cadre. De plus, j'ai aussi réajusté les paramètres de la caméra et du face tracking puisque nous avions bougé le cadre lundi. Nous avons aussi fait la bande-annonce en format "reels".
 
 #### Vendredi
+20 février: Je n'ai pas travaillé sur le projet
 
 ### Semaine 6
 
