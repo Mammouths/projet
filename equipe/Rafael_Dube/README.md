@@ -100,7 +100,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - ajout des nouveau croquis et texte sur le site 
   
 #### Vendredi
-
+- continuer la documentaion du projet
 ### Semaine 3
 
 #### Lundi
@@ -113,7 +113,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 - commencer du tournage pour la bande annonce
 - testé le projet
-
 #### Jeudi
 préparation pour les porte ouverts
 
@@ -131,21 +130,33 @@ test du projet
 - installation de la nouvelle toille refait tous l'emplacement du projet.
 - refaire l'osc avec reaper
 #### Jeudi
-
+- enregistrement de nouveau de cris
+  
 #### Vendredi
 
 ### Semaine 5
 
 #### Lundi
-
+- déplacer la strcuture du projet
+- prendre des photo
+- premier rencontre avec le comité 
 #### Mardi
-
+- trouner des nouvelle scene pour le trailer
+- continuer le montage
+- prendre des photos
+- tester le projet
 #### Mercredi
-
+- continuer le montage
+- commencer le document de presse
+- prendre des photos
+- tester le projet
 #### Jeudi
-
+- finir le trailer
+- prise de photo
+- changement de desicion de l'équipe pour le tailer style plus tik tok
+- tester le projet
 #### Vendredi
-
+- montage et sous-titre
 ### Semaine 6
 
 #### Lundi
