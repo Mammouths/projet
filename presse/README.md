@@ -36,9 +36,9 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
-<!-- 
-[![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
--->
+
+[![Bande annonce](https://github.com/user-attachments/assets/f04ae4c4-8380-443e-96e5-07a03093a6cd)](https://youtube.com/shorts/YrwHKUYIq4E?si=2Gu36Pl5szAKXFah)
+
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
  -->
@@ -47,9 +47,9 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 -->
 
 ## Images
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/70d4c511-8073-4304-8c83-ccf1a64e951c" />
-<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/b4d0b6d6-c996-4ed9-91c9-8abf5dd1c96a" />
-<img width="760" height="377" alt="image" src="https://github.com/user-attachments/assets/4da29295-970a-4a90-a03f-270ecb1e28c1" />
+![Premier jour de travail](https://github.com/user-attachments/assets/70d4c511-8073-4304-8c83-ccf1a64e951c)
+![Travail derrière la toile](https://github.com/user-attachments/assets/b4d0b6d6-c996-4ed9-91c9-8abf5dd1c96a)
+![Ébauche d'arbre](https://github.com/user-attachments/assets/4da29295-970a-4a90-a03f-270ecb1e28c1)
 
 
 
