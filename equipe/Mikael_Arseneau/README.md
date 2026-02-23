@@ -204,7 +204,7 @@ des arbres
 #### Mercredi
 
 - Installer la nouvelle toile sur le frame
-- ![Nouvelle toile)](https://github.com/user-attachments/assets/0826b97a-da84-4247-93b6-dee5bd8c2e8b)
+- ![Nouvelle toile](https://github.com/user-attachments/assets/0826b97a-da84-4247-93b6-dee5bd8c2e8b)
 - Refaire le cable managenement du projecteur
 - Refaire le cable managenement de l'ordinateur
 - Refaire le cable managenement de la caméra
