@@ -182,6 +182,8 @@ des arbres
 - Faire en sorte que les faces change au contact du soleil
 - Trouver les comportements des intéracteurs sur la toile
 - Avoir mis un tape noir sur les lumières des haut-parleurs derrières
+- ![Voir les intéractions](https://github.com/user-attachments/assets/59fba6d3-c4c4-4ef0-bf31-50b8d2651d18)
+
 
 #### Vendredi
 - journée de congé
@@ -208,8 +210,7 @@ des arbres
 - Refaire le cable managenement des haut-parleurs
 - ![cable manegement](https://github.com/user-attachments/assets/6236e8dc-87ed-4cdc-bf93-2819d9746eae)
 
-- Separer le to![Uploading cable.webp…]()
-uchDesigner de captures des intéracteur dans un nouveau fichier toe
+- Separer le touchDesigner de captures des intéracteur dans un nouveau fichier toe
 - ![fichier du projet](https://github.com/user-attachments/assets/9596775c-89fc-4a80-9b77-1f9aaa85cb8b)
 
 #### Jeudi
