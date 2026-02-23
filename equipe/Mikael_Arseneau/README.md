@@ -195,14 +195,21 @@ des arbres
 - Creation du frame pour tenir la toile
 - Commencement du désensabalage du l'ancienne toile
 - Commencement de mettre des pine rose pour tenir la toile
+- ![pine rose](https://github.com/user-attachments/assets/d1118bde-30e2-419b-b9d7-21b617a78184)
+
+
 
 #### Mercredi
 - Installer la nouvelle toile sur le frame
 - Refaire le cable managenement du projecteur
+
 - Refaire le cable managenement de l'ordinateur
 - Refaire le cable managenement de la caméra
-- Refaire le cable managenement des haut-parleurs 
-- Separer le touchDesigner de captures des intéracteur dans un nouveau fichier toe
+- Refaire le cable managenement des haut-parleurs
+- ![cable manegement](https://github.com/user-attachments/assets/6236e8dc-87ed-4cdc-bf93-2819d9746eae)
+
+- Separer le to![Uploading cable.webp…]()
+uchDesigner de captures des intéracteur dans un nouveau fichier toe
 - ![fichier du projet](https://github.com/user-attachments/assets/9596775c-89fc-4a80-9b77-1f9aaa85cb8b)
 
 #### Jeudi
@@ -218,6 +225,7 @@ des arbres
 - Enlever le faux murs qui était derrière la toile
 - Bouger l'emplacement de la toile
 - Replacer le projecteur pour projeter sur toute la toile
+- - ![projectuer](https://github.com/user-attachments/assets/45d33bc0-130b-4190-9d3c-1fffe07e274f)
 - Rendre le cable management plus beau en cachant les fils
 - Organisation du ficher TouchDesign
 - ![organisation du touchDesigner](https://github.com/user-attachments/assets/3aa40e8d-bbda-4e33-8986-5a8bd70d06ba)
