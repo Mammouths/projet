@@ -54,8 +54,13 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 
 
 ## Logo & Icône
-Icône
-<img width="125" height="80" alt="image" src="https://github.com/user-attachments/assets/6c7738a4-679d-4ff1-a515-31bb02d8cfc7" />
+### Logo
+![Logo](https://github.com/user-attachments/assets/3ea1b1ed-625f-46f0-8a3d-df28c5e98204)
+
+### Icône
+![](https://github.com/user-attachments/assets/1fdc2df7-72f5-4970-8237-55eb7f01b4a6)
+
+
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
 ## Logo & Icône
