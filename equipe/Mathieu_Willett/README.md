@@ -1,6 +1,4 @@
-5# Mathieu Willett
-
-![](mathieu_vignette.webp)
+    ![](mathieu_vignette.webp)
 
 ## Planification
 
