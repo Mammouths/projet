@@ -128,16 +128,23 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 - Avancement du Github
 - Recevoir les données du Lidar dans TouchDesigner avec OSC
+![oscin_lidar](https://github.com/user-attachments/assets/01e12618-973c-4460-95bf-c840c4ec778b)
 
 #### Mardi
 - Separer les données reçus en X et Y
+- ![separer-X_Y](https://github.com/user-attachments/assets/39cd6cd0-dcbf-42a2-98cc-680e4a79bb60)
+
 - Mis les différenets L-systems dans touchDesigner
-- Faire une connnexion dans le code entre les données du lidar et les positions des arbres
+- Faire une connnexion dans le code entre les données du lidar et les positions 
+des arbres
 - Mis une position a chaque arbre selon leurs emplacment sur la toile
+- ![position des arbres](https://github.com/user-attachments/assets/7536ca5b-cf84-474d-a6a9-2c99d3a62c85)
 - Détecter si la donnée du lidar (donnée X) reçu est en colision avec la position d'un arbre  
 
 #### Mercredi
 - Création du système d'innodation lors de six conatct sur la toile
+- ![soleil qui tue les arbres](https://github.com/user-attachments/assets/0f6f2633-af8d-4cd4-97ef-64220239ac18)
+
 - Création de l'animation du soleil
 - Faire en sorte que le soleil tue les arbres selon la position
 
@@ -146,10 +153,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Création de l'animation du l'innodation
 - Amélioration de l'animation du soleil
 - Améliorer la détection du lidar sur les arbres
+- ![animation du soleil](https://github.com/user-attachments/assets/b0c27e63-4070-4c27-a2db-cd9ef0ff7137)
+
 
 #### Vendredi
 - Importation des nouveaux arbres dans TouchDesigner
 - Création du système de capture de photo des intéracteurs qui sauvegardent les photos dans un dossier
+- ![code qui prend des photos](https://github.com/user-attachments/assets/1cda17e9-bfc8-43f7-a197-570b9ec9e3ee)
+- ![galerie de photo](https://github.com/user-attachments/assets/1710c7d3-4d27-4048-a458-84a3bd1ac588)
 
 
 ### Semaine 3
@@ -188,7 +199,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Refaire le cable managenement du projecteur
 - Refaire le cable managenement de l'ordinateur
 - Refaire le cable managenement de la caméra
-- - Refaire le cable managenement des haut-parleurs 
+- Refaire le cable managenement des haut-parleurs 
 - Separer le touchDesigner de captures des intéracteur dans un nouveau fichier toe
 #### Jeudi
 - Changer les coordonées du lidar pour la nouvelle toile
@@ -209,9 +220,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 -<img width="708" height="232" alt="{165A2618-CDE4-4636-B938-A7ED7862A787}" src="https://github.com/user-attachments/assets/2743b314-156c-4ece-8e05-290f622e1f4e" />
 - Ajouter le nouveau système des arbres qui permet de les déplacement plus facilement et de pouvoir changer ses données rapidement
 - Faire en sorte que le projet ouvre lors de l'ouverture de Windows
-- Faire en sorte que le porjecteur ouvre lors de l'oiuverture du projet touchdesigner
+- Faire en sorte que le porjecteur ouvre lors de l'ouverture du projet touchdesigner
 - Amélioration du système de capture des intéracteurs en ajoutant plus de luminosité si la photo est trop foncé
 - Ajouter un système de calibration qui suit en direct les mouvement des intéracteurs sur la toile
+- ![ouverture du projecteur](https://github.com/user-attachments/assets/01609980-cb95-4cac-b6d6-226ac3ffcd19)
+
 #### Mercredi
 - Ajout de l'arbre numéro 2 dans le touchDesigner(le sapin)
 - Modification des lumières pour les différents render des arbres dans touchDesigner
