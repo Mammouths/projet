@@ -1,4 +1,4 @@
-# Mikael Arseneau
+ # Mikael Arseneau
 
 ![](mikael_vignette.webp)
 
@@ -172,6 +172,8 @@ des arbres
 
 #### Mardi
 - Implémenter les photos recue et les mettres comme texture sur les arbres/fleurs
+- ![texture des faces](https://github.com/user-attachments/assets/5909ac9a-2e87-4c61-8f95-69ce5fba0927)
+
 - Amélioarion du soleil pour rendre plus fluide
 #### Mercredi
 - Rendre le code plus optimiser en enlevant les partie unitile
@@ -201,6 +203,8 @@ des arbres
 - Refaire le cable managenement de la caméra
 - Refaire le cable managenement des haut-parleurs 
 - Separer le touchDesigner de captures des intéracteur dans un nouveau fichier toe
+- ![fichier du projet](https://github.com/user-attachments/assets/9596775c-89fc-4a80-9b77-1f9aaa85cb8b)
+
 #### Jeudi
 - Changer les coordonées du lidar pour la nouvelle toile
 - Reserrage de la nouvelle toile sur le frame
@@ -215,15 +219,20 @@ des arbres
 - Bouger l'emplacement de la toile
 - Replacer le projecteur pour projeter sur toute la toile
 - Rendre le cable management plus beau en cachant les fils
+- Organisation du ficher TouchDesign
+- ![organisation du touchDesigner](https://github.com/user-attachments/assets/3aa40e8d-bbda-4e33-8986-5a8bd70d06ba)
+
 
 #### Mardi
 -<img width="708" height="232" alt="{165A2618-CDE4-4636-B938-A7ED7862A787}" src="https://github.com/user-attachments/assets/2743b314-156c-4ece-8e05-290f622e1f4e" />
 - Ajouter le nouveau système des arbres qui permet de les déplacement plus facilement et de pouvoir changer ses données rapidement
+- ![Systême pour modifier les arbres](https://github.com/user-attachments/assets/eee94912-ef10-4956-9491-a347c1563582)
+
 - Faire en sorte que le projet ouvre lors de l'ouverture de Windows
-- Faire en sorte que le porjecteur ouvre lors de l'ouverture du projet touchdesigner
+- Faire en sorte que le projecteur ouvre lors de l'ouverture du projet touchdesigner
 - Amélioration du système de capture des intéracteurs en ajoutant plus de luminosité si la photo est trop foncé
 - Ajouter un système de calibration qui suit en direct les mouvement des intéracteurs sur la toile
-- ![ouverture du projecteur](https://github.com/user-attachments/assets/01609980-cb95-4cac-b6d6-226ac3ffcd19)
+- ![ouverture et fermeture du projecteur](https://github.com/user-attachments/assets/01609980-cb95-4cac-b6d6-226ac3ffcd19)
 
 #### Mercredi
 - Ajout de l'arbre numéro 2 dans le touchDesigner(le sapin)
