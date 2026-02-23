@@ -12,10 +12,10 @@ Du 16 au 20 mars 2026.
 Installation interactive
 
 **Site Web du projet :**  
-[tim-montmorency.com/momo_modele-site-projet-etudiant_25-26](https://tim-montmorency.com/momo_modele-site-projet-etudiant_25-26/#/)
+[Site d'Arbre en Face](https://mammouths.github.io/projet/#/)
 
 **Site Web de l'exposition collective :**  
-[6tim-montmorency.com/2026](https://tim-montmorency.com/2026/#/)
+[Site de Réseau Vivant](https://tim-montmorency.com/2026/#/)
 
 **Prix :**  
 Gratuit
@@ -71,12 +71,12 @@ Une équipe de finissants en technique d’intégration multimédia a détermin�
 
 
 ## Crédits
-  - collègue Montmorency 
-  - technique d'intégration multimédia
+- Collège Montmorency
+- Techniques d'intégration multimédia
 
 ## Contact
-- Rafael :kostodube@gmail.com
-- Matis : matisghariani@icloud.com
+- Rafael: kostodube@gmail.com
+- Matis: matisghariani@icloud.com
 - Mathieu: ekiwillow@gmail.com
-- Alexandre:alexandregendron2004@gmail.com
-- Mikael :mikael.arseneau@gmail.com
+- Alexandre: alexandregendron2004@gmail.com
+- Mikael: mikael.arseneau@gmail.com
