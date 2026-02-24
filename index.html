@@ -1,132 +1,171 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-    <meta name="description"
-        content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover"
+    />
+    <meta
+      name="description"
+      content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency"
+    />
     <title>Arbre en Face</title>
 
     <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta property="og:title" content="Tic Tac Boom!">
-    <meta property="og:description"
-        content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency">
-    <meta property="og:image" content="https://tim-montmorency.com/public/img/tim-og.jpg">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:title" content="Tic Tac Boom!" />
+    <meta
+      property="og:description"
+      content="Exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency"
+    />
+    <meta
+      property="og:image"
+      content="https://tim-montmorency.com/public/img/tim-og.jpg"
+    />
     <meta property="og:image:width" content="1920" />
     <meta property="og:image:height" content="1080" />
 
-    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/favicon/favicon-32x32.png"
+      sizes="32x32"
+    />
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
     <link rel="shortcut icon" href="/favicon/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon/apple-touch-icon.png"
+    />
     <link rel="manifest" href="/favicon/site.webmanifest" />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@^5.0.0-rc/dist/themes/core.min.css">
-
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify@^5.0.0-rc/dist/themes/core.min.css"
+    />
 
     <!-- Put theme customization in customize.css, comment to remove -->
     <link rel="stylesheet" href="customize.css" />
 
-
-    <link rel="stylesheet" href="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.css">
+    <link
+      rel="stylesheet"
+      href="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.css"
+    />
     <!-- Prism theme (light). Swap with prism-okaidia.min.css or other for dark preference. -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism.min.css" /> -->
     <!-- Prism line numbers plugin CSS -->
-    <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.css"
+    />
 
     <style>
-        :root {
-            --theme-color: #FFA6F8;
-            /*red */
+      :root {
+        --theme-color: #ffa6f8;
+        /*red */
 
-            --content-max-width: 1000px;
-            --content-max-height: 1000px;
-        }
+        --content-max-width: 1000px;
+        --content-max-height: 1000px;
+      }
 
-        .sidebar {
-            text-align: center;
-            background-color: #212121 !important;
-            font-size: 1vw;
-        }
+      .sidebar {
+        text-align: center;
+        background-color: #212121 !important;
+        font-size: 1vw;
+      }
     </style>
 </head>
 
 <body>
 
 
+  <body>
     <div id="app"></div>
 
     <script>
-        window.$docsify = {
-            name: 'Arbre en Face',
-            // Replace with your repository URL, e.g. 'https://github.com/username/repo'
-            // repo: 'https://github.com/tim-montmorency/582601-experience-modele',
-            logo: 'favicon/Groupe.png',
-            // Sidebar Configuration
-            auto2top: true,
-            loadSidebar: true,
-            maxLevel: 1,
-            // Set subMaxLevel to show nested navigation
-            subMaxLevel: 1,
+      window.$docsify = {
+        name: "Arbre en Face",
+        // Replace with your repository URL, e.g. 'https://github.com/username/repo'
+        // repo: 'https://github.com/tim-montmorency/582601-experience-modele',
+        logo: "favicon/Groupe.png",
+        // Sidebar Configuration
+        auto2top: true,
+        loadSidebar: true,
+        maxLevel: 1,
+        // Set subMaxLevel to show nested navigation
+        subMaxLevel: 1,
 
-            // search: {
-            //     placeholder: '    🔍',
-            //     noData: '     🤷‍♂️',
-            //     // Headline depth, 1 - 6
-            //     depth: 3,
-            //     hideOtherSidebarContent: false,
-            // },
+        // search: {
+        //     placeholder: '    🔍',
+        //     noData: '     🤷‍♂️',
+        //     // Headline depth, 1 - 6
+        //     depth: 3,
+        //     hideOtherSidebarContent: false,
+        // },
 
-            // Navigation
-            relativePath: true,
+        // Navigation
+        relativePath: true,
 
-            // Better navigation for tutorials
-            alias: {
-                '/.*/_sidebar.md': '/_sidebar.md',
-                '/.*/_navbar.md': '/_navbar.md',
-            },
+        // Better navigation for tutorials
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
+          "/.*/_navbar.md": "/_navbar.md",
+        },
 
-            // Copy Code Plugin Configuration    
-            copyCode: {
-                buttonText: '📝',
-                errorText: '⚠️',
-                successText: '✅ ',
-            },
+        // Copy Code Plugin Configuration
+        copyCode: {
+          buttonText: "📝",
+          errorText: "⚠️",
+          successText: "✅ ",
+        },
 
-            // Pagination for tutorial flow
-            pagination: {
-                previousText: '',
-                nextText: '',
-                crossChapter: true,
-                crossChapterText: true,
-            },
+        // Pagination for tutorial flow
+        pagination: {
+          previousText: "",
+          nextText: "",
+          crossChapter: true,
+          crossChapterText: true,
+        },
 
-            // File extensions that should open in new tab
-            unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.gdscript', '.pd', '.zip', '.toe', '.tox'],
+        // File extensions that should open in new tab
+        unhashtagLinkExtensions: [
+          ".pdf",
+          ".html",
+          ".docx",
+          ".gdscript",
+          ".pd",
+          ".zip",
+          ".toe",
+          ".tox",
+        ],
 
-            // Add line numbers automatically via plugin hook
-            plugins: [function (hook) {
-                hook.doneEach(function () {
-                    const pres = document.querySelectorAll('pre[data-lang]');
-                    pres.forEach(pre => {
-                        if (!pre.classList.contains('line-numbers')) pre.classList.add(
-                            'line-numbers');
-                    });
-                    if (window.Prism && window.Prism.highlightAll) {
-                        window.Prism.highlightAll();
-                    }
-                    import('./docsify-wavesurfer-plugin.js').then(module => {
-                        module.initWaveSurfer();
-                    }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
-                });
-            }],
-        };
+        // Add line numbers automatically via plugin hook
+        plugins: [
+          function (hook) {
+            hook.doneEach(function () {
+              const pres = document.querySelectorAll("pre[data-lang]");
+              pres.forEach((pre) => {
+                if (!pre.classList.contains("line-numbers"))
+                  pre.classList.add("line-numbers");
+              });
+              if (window.Prism && window.Prism.highlightAll) {
+                window.Prism.highlightAll();
+              }
+              import("./docsify-wavesurfer-plugin.js")
+                .then((module) => {
+                  module.initWaveSurfer();
+                })
+                .catch((err) =>
+                  console.error("Failed to load WaveSurfer plugin", err),
+                );
+            });
+          },
+        ],
+      };
     </script>
 
     <!-- Docsify core (load BEFORE extra Prism grammars; per docs grammars must come after docsify) -->
@@ -135,9 +174,9 @@
 
     <!-- Mermaid (single import) -->
     <script type="module">
-        import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-        mermaid.initialize({ startOnLoad: true, theme: "neutral" });
-        window.mermaid = mermaid;
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({ startOnLoad: true, theme: "neutral" });
+      window.mermaid = mermaid;
     </script>
 
     <!-- Lightbox plugin script -->
@@ -175,6 +214,5 @@
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/plugins/line-numbers/prism-line-numbers.min.js"></script>
 
     <!-- Prism languages loaded individually above; to add more just insert another prism-<lang>.min.js script before docsify.min.js -->
-</body>
-
+  </body>
 </html>
