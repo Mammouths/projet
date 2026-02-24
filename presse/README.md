@@ -22,7 +22,7 @@ Gratuit
 
 
 ## Description
-Arbre en Face est une installation interactive où l’humain et le végétal fusionnent : chaque centre de fleur des arbres arbore le visage des participant·e·s. Dans cet univers immersif, le public doit appuyer sur une toile afin de faire pousser les arbres et pour jouer avec ceux-ci. Ainsi, l’œuvre met en tension équilibre et excès, solidarité et responsabilité collective, où chaque geste humain influence directement la vitalité du monde végétal.
+Arbre en Face est une installation interactive où l’humain et le végétal fusionnent : chaque centre de fleur des arbres arbore le visage des participants. Dans cet univers immersif, le public doit appuyer sur une toile afin de faire pousser les arbres et pour jouer avec ceux-ci. Ainsi, l’œuvre met en tension équilibre et excès, solidarité et responsabilité collective, où chaque geste humain influence directement la vitalité du monde végétal.
 
 
 ## Histoire
@@ -71,11 +71,21 @@ Une caméra prend en photo les gens et envoie les images dans un dossier qui les
 ## À propos de l'équipe de création
 Une équipe de finissants en technique d’intégration multimédia a déterminé, au cours de ses recherches pour son projet, que son objectif principal serait de faire rire les participants et de les amuser grâce à une expérience interactive. Chaque membre de l’équipe a dû apprendre de nouvelles technologies ou approfondir celles qu’il connaissait déjà afin de contribuer pleinement au projet.
 
+- Alexandre Gendron: Programmeur L-System et design
+- Mathieu Willett: Intégrateur de la captation et construction
+- Matis Ghariani: Intégrateur sonore et design
+- Mikael Arseneau: Programmeur Touch Designer
+- Rafael Angon Dubé: Intégrateur sonore et monteur vidéo
+
 
 
 ## Crédits
 - Collège Montmorency
 - Techniques d'intégration multimédia
+- Guillaume Arsenault
+- Thomas Fredericks
+- William Racine
+- Antoine Allard
 
 ## Contact
 - Rafael: kostodube@gmail.com
