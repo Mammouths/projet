@@ -215,11 +215,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
+- Création et mixage de l'ambiance de base
+- Mixage de son
+  - Plante completé
+
 ### Semaine 6
 
 #### Lundi
 
+- Création et mixage de l'ambiance de base
+
 #### Mardi
+
+- Présentation de la maquette 2
 
 #### Mercredi
 
