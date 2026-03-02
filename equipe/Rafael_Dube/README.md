@@ -160,15 +160,15 @@ test du projet
 ### Semaine 6
 
 #### Lundi
-
+reunion avec le comminter 
 #### Mardi
-
+présentation du projet au éléve de premier année et écouter leurs commentaire
 #### Mercredi
-
+création du designe du cartel, j'ai créé plus model en tous 7 model on été crée
 #### Jeudi
-
+création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect il a fallut que je 
 #### Vendredi
-
+renconte de comiter pour savoir lequel des cartel allait choisir nous avons choisi le numéro 2
 ### Semaine 6.5
 
 #### Lundi
