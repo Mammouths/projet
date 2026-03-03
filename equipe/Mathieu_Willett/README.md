@@ -208,18 +208,24 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 6
 
 #### Lundi
+23 février: Nous sommes venu à l'école, mais il y a eu une panne du réseau, donc nous sommes parti.
 
 #### Mardi
+24 février: Nous avons présenté aux élèves de première année pendant le diner.
 
 #### Mercredi
+25 février: J'ai installé des cables ethernet, xlr et électrique dans le plancher en enlevant une dalle du studio. J'ai fait passer les cables par le placard du portique du studio pour ensuite les faire passer dans le plafond. J'ai installé des lumières comme dans le studio avec une autopole, mais le résultat n'était pas celui escompté, donc j'ai enlevé la pole et les lumières.
 
 #### Jeudi
+26 février: J'ai installé avec Alex un canon lumineux en haut de la porte du studio pour éclairer les visages plus efficacement.
 
 #### Vendredi
+27 février: Je n'ai pas travaillé sur le projet.
 
 ### Semaine 6.5
 
 #### Lundi
+2 mars: Je n'ai pas travaillé sur le projet.
 
 #### Mardi
 
