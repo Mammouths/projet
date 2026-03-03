@@ -262,17 +262,34 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+* Nous avons essayé de travailler mais la panne réseau nous a mis des bâtons dans les roues.
+
 #### Mardi
+
+* Présentation au cours de muséologie
 
 #### Mercredi
 
+* Travail sur la bannière
+* Travail sur le cablage
+
 #### Jeudi
 
+* Installation du cannon de lumière
+* Masquer les nouveaux arrière-plans
+* Implémentation du système permettant de faire pousser les plantes n'importe où
+
 #### Vendredi
+
+![b2e3ff57-3242-4c0a-bac5-e500dd548c42](https://github.com/user-attachments/assets/d6f15726-1ebd-49ec-8735-d624759ec309)
+* Travail sur le design (mettre au propre tous les médias)
 
 ### Semaine 6.5
 
 #### Lundi
+
+
+* Travail sur le design (mettre au propre tous les médias)
 
 #### Mardi
 
