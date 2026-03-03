@@ -231,7 +231,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Mixage des sons
+
 #### Jeudi
+
+- Retravalllé le background (export 2, masquer, colorisation)
 
 #### Vendredi
 
