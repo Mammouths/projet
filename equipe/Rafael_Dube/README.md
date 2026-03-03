@@ -90,7 +90,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Création de la liste des sons à faire et enregistrement avec le dispositif sonore.
 - Première journée d’enregistrement audio : les sons enregistrés aujourd’hui sont : l'eau, les plantes qui bois, qui ce noit et cris de colère du soleil 
 - Prise de photos du projet.
-- Préparation de la caméra pour filmer.
+  
 - Installation et test de la toile et de la projection.
 #### Jeudi
 - test du projet sur la toille 
@@ -131,9 +131,9 @@ test du projet
 - refaire l'osc avec reaper
 #### Jeudi
 - enregistrement de nouveau de cris
-  
+- prise de photo
 #### Vendredi
-
+- journée de congé
 ### Semaine 5
 
 #### Lundi
@@ -166,15 +166,16 @@ présentation du projet au éléve de premier année et écouter leurs commentai
 #### Mercredi
 création du designe du cartel, j'ai créé plus model en tous 7 model on été crée
 #### Jeudi
-création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect il a fallut que je 
+création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect.
 #### Vendredi
-renconte de comiter pour savoir lequel des cartel allait choisir nous avons choisi le numéro 2
+On a eu une rencontre du comité pour décider quel cartel choisir, et on a pris le numéro 2.
 ### Semaine 6.5
 
 #### Lundi
-
+ - journée de congé
 #### Mardi
-
+- correction des demande du prof sur le design du cartel 
+- prise de photo
 #### Mercredi
 
 #### Jeudi
