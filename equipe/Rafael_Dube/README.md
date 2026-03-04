@@ -82,6 +82,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+<img width="1920" height="981" alt="image" src="https://github.com/user-attachments/assets/034dd8bc-384b-4558-b131-e149b9d35387" />
+
 - instalation test pour la toile et la projection.
 
 #### Mardi
@@ -110,6 +112,8 @@ Prise de photos pour documenter l’avancement du projet.
 - création des sons et retouche sur Reaper (vent,oisseau,etc).
 - Prise de photos pour documenter l’avancement du projet.
 #### Mardi
+<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/fe5dde1e-f650-4def-88bf-4128e31aaea4" />
+
 - intégration des son dans touchdesigner dans des audio file in
 - Installation des haut-parleurs à l’arrière de la toile.
 - testé la réaction de la toile au touché.
@@ -119,6 +123,8 @@ Prise de photos pour documenter l’avancement du projet.
 - testé le projet
 - Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c7b353cf-0c0e-4435-9813-733e1e60adfe" />
+
 - journée des portes ouverte, présenté le programme au gens et notre projet.
 
 #### Vendredi
@@ -126,9 +132,12 @@ journée congés
 ### Semaine 4
 
 #### Lundi
+<img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/b4d0b123-addc-44c5-b4c3-5a023336ba37" />
+
  commencer à  faire le tris des vidéo découpement etc
  Prise de photos pour documenter l’avancement du projet.
 #### Mardi
+<img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/86c99a8a-959e-4ae8-909f-ae19489c4eb1" />
 continuer a toucher au montage video 
 test du projet
 #### Mercredi
@@ -147,34 +156,45 @@ test du projet
 -  Prise de photos pour documenter l’avancement du projet.
 - premier rencontre avec le comité 
 #### Mardi
+<img width="1908" height="1067" alt="image" src="https://github.com/user-attachments/assets/3d793440-c4a5-4835-958c-c5d2c267b512" />
+
 - trouner des nouvelle scene pour le trailer
 - continuer le montage
 - Prise de photos pour documenter l’avancement du projet.
 - tester le projet
 #### Mercredi
-- continuer le montage
-- commencer le document de presse
+<img width="1900" height="1078" alt="image" src="https://github.com/user-attachments/assets/6566a48c-c847-4d9c-83c8-a8dcba52fd46" />
+
+- continuer le montage du trailer
+- commencer le document de presse 
 -  Prise de photos pour documenter l’avancement du projet.
 - tester le projet
 -  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/b2c41e99-adb1-472c-90e3-7a8cc06c76d8" />
+
 - finir le trailer
 - Prise de photos pour documenter l’avancement du projet.
 - changement de desicion de l'équipe pour le tailer style plus tik tok
 - tester le projet
 #### Vendredi
+<img width="1907" height="1072" alt="image" src="https://github.com/user-attachments/assets/8c884997-a95d-4f3d-b84e-d34d59a3cdf6" />
+
 - montage et sous-titre
 ### Semaine 6
 
 #### Lundi
 reunion avec le comminter 
 #### Mardi
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac6fd544-10bd-4a26-b962-b642dac868f7" />
 présentation du projet au éléve de premier année et écouter leurs commentaire
  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
+<img width="292" height="828" alt="image" src="https://github.com/user-attachments/assets/c9927028-54cf-4d6d-840d-678b67cdb425" />
 création du designe du cartel, j'ai créé plus model en tous 7 model on été crée
 - Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
+<img width="800" height="406" alt="image" src="https://github.com/user-attachments/assets/e7a693b0-0a39-4762-b7c9-0863444b2a81" />
 création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect.
 - Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
@@ -187,6 +207,8 @@ On a eu une rencontre du comité pour décider quel cartel choisir, et on a pris
 - correction des demande du prof sur le design du cartel 
 -  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
+- enregistrer le son pour l'éclaire et le modifier sur Reaper
+- Prise de photos pour documenter l’avancement du projet.
 
 #### Jeudi
 
