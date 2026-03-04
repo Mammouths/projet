@@ -87,72 +87,79 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 - Installation et test de la toile et de la projection.
 #### Mercredi
-- Création de la liste des sons à faire et enregistrement avec le dispositif sonore.
-- Première journée d’enregistrement audio : les sons enregistrés aujourd’hui sont : l'eau, les plantes qui bois, qui ce noit et cris de colère du soleil 
-- Prise de photos du projet.
+- Création de la liste des sons à produire pour le projet : le bruit de l’eau, les plantes qui boivent, un son de noyade, un son de pousse d’arbre, des cris de plantes, des cris du soleil, un son d’ambiance avec criquets, oiseaux et vent, ainsi qu’un bruit du soleil.
+- Première journée d’enregistrement audio avec le dispositif sonore.
+Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil.
+- Prise de photos pour documenter l’avancement du projet.
+- Vérification supplémentaire de la toile et de la projection afin de s’assurer que tout fonctionne correctement.
   
-- Installation et test de la toile et de la projection.
 #### Jeudi
-- test du projet sur la toille 
-- création de la parti conception sonore dans le site web
-- achat de nouveau chose pour aider à faire les sons manquant(ballon de fête)
-- enregistremment des derniès sont restant: Oiseaux, criquet, plante gradir (baloune), plant meurt (crit)
-- ajout des nouveau croquis et texte sur le site 
-  
+Test du projet sur la toile, 
+Création de la partie conception sonore sur le site web.
+Achat de nouveaux éléments pour produire les sons manquants (ballon de fête) pour le sont de grandissement des plantes.
+Enregistrement des derniers sons restants : oiseaux, criquets, plante qui grandit (ballon) et plante qui meurt (cri).
+Ajout des nouveaux croquis et textes sur le site dans la section technique.
+Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
-- continuer la documentaion du projet
+- continuer la documentaion du projet dans le  sénario.
+  
 ### Semaine 3
 
 #### Lundi
 - essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs
-- création des sons 
+- création des sons et retouche sur Reaper (vent,oisseau,etc).
+- Prise de photos pour documenter l’avancement du projet.
 #### Mardi
-- intégration du son dans le projet
-- installation des haut parleur
-- testé le projet
+- intégration des son dans touchdesigner dans des audio file in
+- Installation des haut-parleurs à l’arrière de la toile.
+- testé la réaction de la toile au touché.
+- Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
-- commencer du tournage pour la bande annonce
+- Début du tournage pour la bande-annonce, en commençant à nous enregistrer pendant que nous travaillons.
 - testé le projet
+- Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
-préparation pour les porte ouverts
+- journée des portes ouverte, présenté le programme au gens et notre projet.
 
 #### Vendredi
 journée congés 
 ### Semaine 4
 
 #### Lundi
-commencer à faire faire le tris des vidéo découpement etc
-correction de mon journal de bord 
+ commencer à  faire le tris des vidéo découpement etc
+ Prise de photos pour documenter l’avancement du projet.
 #### Mardi
 continuer a toucher au montage video 
 test du projet
 #### Mercredi
 - installation de la nouvelle toille refait tous l'emplacement du projet.
 - refaire l'osc avec reaper
+-  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 - enregistrement de nouveau de cris
-- prise de photo
+- Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
 - journée de congé
 ### Semaine 5
 
 #### Lundi
 - déplacer la strcuture du projet
-- prendre des photo
+-  Prise de photos pour documenter l’avancement du projet.
 - premier rencontre avec le comité 
 #### Mardi
 - trouner des nouvelle scene pour le trailer
 - continuer le montage
-- prendre des photos
+- Prise de photos pour documenter l’avancement du projet.
 - tester le projet
 #### Mercredi
 - continuer le montage
 - commencer le document de presse
-- prendre des photos
+-  Prise de photos pour documenter l’avancement du projet.
 - tester le projet
+-  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 - finir le trailer
-- prise de photo
+- Prise de photos pour documenter l’avancement du projet.
 - changement de desicion de l'équipe pour le tailer style plus tik tok
 - tester le projet
 #### Vendredi
@@ -163,10 +170,13 @@ test du projet
 reunion avec le comminter 
 #### Mardi
 présentation du projet au éléve de premier année et écouter leurs commentaire
+ Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
 création du designe du cartel, j'ai créé plus model en tous 7 model on été crée
+- Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect.
+- Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
 On a eu une rencontre du comité pour décider quel cartel choisir, et on a pris le numéro 2.
 ### Semaine 6.5
@@ -175,7 +185,7 @@ On a eu une rencontre du comité pour décider quel cartel choisir, et on a pris
  - journée de congé
 #### Mardi
 - correction des demande du prof sur le design du cartel 
-- prise de photo
+-  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
 
 #### Jeudi
