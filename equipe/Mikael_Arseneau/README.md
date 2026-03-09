@@ -126,39 +126,27 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-- Avancement du Github
-- Recevoir les données du Lidar dans TouchDesigner avec OSC
+-Aujourd'hui, j'ai avancé sur le GitHub, tout en travaillant sur la réception des données Lidar dans TouchDesigner via OSC pour les intégrer et les traiter en temps réel.
 ![oscin_lidar](https://github.com/user-attachments/assets/01e12618-973c-4460-95bf-c840c4ec778b)
 
 #### Mardi
-- Separer les données reçus en X et Y
+- J'ai séparé les données reçues en 2 tableaux, un pour les données X et un autre pour les données Y. J'ai ensuite mis les différents L-systems dans TouchDesigner et attribué une position à chaque arbre selon leur emplacement sur la toile. J'ai aussi établi une connexion dans le code entre les données du Lidar et les positions des arbres, puis mis en place une détection de collision entre les données X du Lidar et la position de chaque arbre.
 - ![separer-X_Y](https://github.com/user-attachments/assets/39cd6cd0-dcbf-42a2-98cc-680e4a79bb60)
-
-- Mis les différenets L-systems dans touchDesigner
-- Faire une connnexion dans le code entre les données du lidar et les positions 
-des arbres
-- Mis une position a chaque arbre selon leurs emplacment sur la toile
 - ![position des arbres](https://github.com/user-attachments/assets/7536ca5b-cf84-474d-a6a9-2c99d3a62c85)
-- Détecter si la donnée du lidar (donnée X) reçu est en colision avec la position d'un arbre  
+
 
 #### Mercredi
-- Création du système d'innodation lors de six conatct sur la toile
+- J'ai créé un système d'inondation lors de six contacts sur la toile, ainsi qu'un soleil qui se déplace de droite à gauche et qui affiche un message dans la console si lorsqu'il partage le même X que l'un des arbres.
 - ![soleil qui tue les arbres](https://github.com/user-attachments/assets/0f6f2633-af8d-4cd4-97ef-64220239ac18)
 
-- Création de l'animation du soleil
-- Faire en sorte que le soleil tue les arbres selon la position
 
 #### Jeudi
-- Faire en sorte que le soleil tue les arbres selon la position
-- Création de l'animation du l'innodation
-- Amélioration de l'animation du soleil
-- Améliorer la détection du lidar sur les arbres
+-J'ai fait en sorte que le soleil tue les arbres selon leur position, créé l'animation de l'inondation, amélioré l'animation du soleil et amélioré la détection du Lidar sur les arbres.
 - ![animation du soleil](https://github.com/user-attachments/assets/b0c27e63-4070-4c27-a2db-cd9ef0ff7137)
 
 
 #### Vendredi
-- Importation des nouveaux arbres dans TouchDesigner
-- Création du système de capture de photo des intéracteurs qui sauvegardent les photos dans un dossier
+- J'ai importé les nouveaux L-systems(arbres) dans TouchDesigner et créé un système de capture de photo des interacteurs qui sauvegarde automatiquement les photos dans un dossier.
 - ![code qui prend des photos](https://github.com/user-attachments/assets/1cda17e9-bfc8-43f7-a197-570b9ec9e3ee)
 - ![galerie de photo](https://github.com/user-attachments/assets/1710c7d3-4d27-4048-a458-84a3bd1ac588)
 
@@ -166,22 +154,15 @@ des arbres
 ### Semaine 3
 
 #### Lundi
-- Implémenter tous les L-systems dans un render
-- Rajouter le background dans touchdesigner
-- Separer les différentes partie du background pour créer un paralax
+- J'ai implémenté tous les L-systems(arbres) dans un render, ajouté le background dans TouchDesigner et séparé les différentes parties du background pour créer un effet de parallaxe
 
 #### Mardi
-- Implémenter les photos recue et les mettres comme texture sur les arbres/fleurs
+- Implémenter les photos recue et les mettres comme texture sur les L-systems(arbres) et amélioration de l'animation du soleil pour rendre plus fluide
 - ![texture des faces](https://github.com/user-attachments/assets/5909ac9a-2e87-4c61-8f95-69ce5fba0927)
-
-- Amélioarion du soleil pour rendre plus fluide
 #### Mercredi
-- Rendre le code plus optimiser en enlevant les partie unitile
-- tester toutes les intéractions pour la journée des portes ouvertes
+- J'ai optimisé le code en supprimant les parties inutiles et testé toutes les interactions en vue de la journée des portes ouvertes.
 #### Jeudi
-- Faire en sorte que les faces change au contact du soleil
-- Trouver les comportements des intéracteurs sur la toile
-- Avoir mis un tape noir sur les lumières des haut-parleurs derrières
+- J'ai fait en sorte que les visages changent au contact du soleil, analysé les comportements des interacteurs sur la toile et mis du tape noir sur les lumières des haut-parleurs derrière.
 - ![Voir les intéractions](https://github.com/user-attachments/assets/59fba6d3-c4c4-4ef0-bf31-50b8d2651d18)
 
 
