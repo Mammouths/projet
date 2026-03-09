@@ -252,31 +252,34 @@ des arbres
 #### Jeudi
 
 #### Vendredi
+- journée de congé
 
 ### Semaine 6
 
 #### Lundi
+- jounée de congé
 
 #### Mardi
-
+- Préparation pour la journée pour la visite des étudiants
+- Faire sortir le son via osc
 #### Mercredi
-
+- Ajout d'un système pour affiche le tittre de l'oeuvre si aucun participant
 #### Jeudi
-
+- Faire en sorte que les arbres peuvent pousser n'imporent ou sur la toile
 #### Vendredi
-
+- jounée de congé
 ### Semaine 6.5
 
 #### Lundi
-
+- jounée de congé
 #### Mardi
-
+- resserage de la toile
 #### Mercredi
-
+- ajout d'un noise au contact de la toile pour la calibration
 #### Jeudi
-
+- jounée de congé
 #### Vendredi
-
+- jounée de congé
 ### Semaine 7
 
 #### Lundi
