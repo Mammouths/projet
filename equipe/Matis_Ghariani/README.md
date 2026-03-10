@@ -257,6 +257,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+- Modelisation du sol (terrain)
+- Design et mixage de sons
+   - Éclaire
+- Design affiche comité design
+
 #### Mercredi
 
 #### Jeudi
