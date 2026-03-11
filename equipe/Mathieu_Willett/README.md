@@ -228,20 +228,27 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 2 mars: Je n'ai pas travaillé sur le projet.
 
 #### Mardi
+3 mars: J'ai installé la lumière hélicoidale au plafond avec Alex pour éclairer les visages pour prendre de meilleures photos. 
 
 #### Mercredi
+4 mars: J'ai créé le fichier QLC+ pour gérer la lumière et j'ai commencé un script sur le raspberry pi du lidar pour allumer et éteindre la lumière au démarrage et à la fermeture respectivement de celui-ci. Malheureusement, nous avons remarqué que la lumière aveuglait les gens et que si nous baissions l'intensité de celle-ci, les photos seraient trop sombres. Alex et moi avons donc enlevé la lumière.
 
 #### Jeudi
+5 mars: Je n'ai pas travaillé sur le projet.
 
 #### Vendredi
+6 mars: Je n'ai pas travaillé sur le projet.
 
 ### Semaine 7
 
 #### Lundi
+9 mars: Je n'ai pas travaillé sur le projet.
 
 #### Mardi
+10 mars: Guillaume nous a suggéré d'utiliser les caméras de Quand les yeux se croisent pour prendre nos photos puisqu'ils ont déjà le bon éclairage pour filmer des visages. J'ai pris le feed vidéo de leurs caméras par NDI et j'ai mis installé notre système de face tracking dans cette image. J'ai aussi compléter mon script pour allumer et éteindre la lumière, mais cette fois-ci pour les lumières d'Émersia qui éclairent les visages des participants. Malheureusement, Félix a voulu simplifier comment ses lumières intéragissent avec les canaux de l'univers lumineux, donc nous avons du mettre la gestion de ces lumières avec le même QLC+ du reste du studio par ArtNet. J'ai donc fait un script qui envoie un message on/off par OSC au pi qui s'occupe des lumières du studio pour que ceux-ci s'allument avec le démarrage et la fermeture de mon raspberry pi. J'ai aussi coupé l'extra de métal sur le raidin qui tient le lidar en haut de la toile.
 
 #### Mercredi
+11 mars: Nous ne sommes pas venus à l'école à cause de la tempête de verglas.
 
 #### Jeudi
 
