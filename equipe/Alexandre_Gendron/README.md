@@ -293,17 +293,32 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
+* Installation lumière au plafond
+
 #### Mercredi
+
+* Installation lumière au plafond
+* Retirer la lumière
 
 #### Jeudi
 
+* Commencer affiche Réseau Vivant
+
 #### Vendredi
+
+* Continuer affiche
 
 ### Semaine 7
 
 #### Lundi
 
+* Continuer affiche
+
 #### Mardi
+
+* Optimisation du projet (séparation des arbres en différents projets Touchdesigner)
+* Optimisation arbres
+* Review des affiches
 
 #### Mercredi
 
