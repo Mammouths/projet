@@ -1,4 +1,4 @@
-    ![](mathieu_vignette.webp)
+![](mathieu_vignette.webp)
 
 ## Planification
 
