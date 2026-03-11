@@ -264,8 +264,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 7
 
 #### Lundi
+- journée de congé
 
 #### Mardi
+- J'ai séparé tous les arbres dans différents TouchDesigner. Ils se parlent entre eux avec des TouchIn/TouchOut et se transmettent le rendu de chacun avec des SpoutIn/SpoutOut. Les arbres sont séparés pour maximiser la performance du projet en utilisant plusieurs cœurs de l'ordinateur, ayant chacun son propre Touch. Par la suite, un TouchDesigner final prend chacun des rendus et les ajoute par-dessus le fond, pour ensuite être projeté sur la toile
 
 #### Mercredi
 
