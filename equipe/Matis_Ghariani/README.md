@@ -266,6 +266,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
+- Animation arc-en-ciel
+- Re-modélisation du terrain
+- Qualibration des caméras
+- Creation sonore
+   - arc-en-ciel
+
 #### Vendredi
 
 ### Semaine 8
