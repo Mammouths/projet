@@ -105,7 +105,7 @@ Ajout des nouveaux croquis et textes sur le site dans la section technique.
 Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
 - Continuer la documentation du projet dans le scénario en faisant des changements pour montrer comment les plantes grandissent. Le système d’inondation a été enlevé et maintenant, si le soleil touche  les plantes mourirs. 
-
+### Semaine 3
 #### Lundi
 - essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs avec osc out qui est ensuite relier a reaper 
 - création des sons et retouche sur Reaper (vent,oisseau,etc).
@@ -115,7 +115,7 @@ Prise de photos pour documenter l’avancement du projet.
 - Installation des haut-parleurs à l’arrière de la toile.
 - testé la réaction de la toile au touché.
 - Prise de photos pour documenter l’avancement du projet.
-<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/fe5dde1e-f650-4def-88bf-4128e31aaea4" />
+
 #### Mercredi
 - Début du tournage pour la bande-annonce, en commençant à nous enregistrer pendant que nous travaillons.
 - testé le projet
