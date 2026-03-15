@@ -90,7 +90,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Test d’installation pour la toile et la projection. La toile est installée et placée devant le projecteur. Tous les câbles sont branchés au projecteur. Un test de projection a été fait pour vérifier que l’image fonctionne bien et qu’elle est bien alignée sur la toile.
 
 #### Mercredi
-
+![Conception sonore](images/conception-sonore.png)
 - Création de la liste des sons à produire pour le projet : le bruit de l’eau, les plantes qui boivent, un son de noyade, un son de pousse d’arbre, des cris de plantes, des cris du soleil, un son d’ambiance avec criquets, oiseaux et vent, ainsi qu’un bruit du soleil.
 - Première journée d’enregistrement audio avec le dispositif sonore.
 Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil.
@@ -139,6 +139,7 @@ Continuer à travailler sur le montage vidéo : placer les vidéos en ordre, ajo
 Par exemple, pour le début de la bande-annonce : mettre un effet de flou et accélérer la vidéo des gens, puis faire apparaître le nom du projet.
 <img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/86c99a8a-959e-4ae8-909f-ae19489c4eb1" />
 #### Mercredi
+
 - installation de la nouvelle toille refait tous l'emplacement du projet.
 - refaire l'osc avec reaper avec l'osc et reaper trouver comment bien le faire gracee au note de cours
 -  Prise de photos pour documenter l’avancement du projet.
@@ -152,7 +153,9 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 ### Semaine 5
 
 #### Lundi
+![Quand on rebranchait tout](https://github.com/user-attachments/assets/681030e7-b6f0-4cd7-946e-89ea56b5846a)
 - déplacer la strcuture du projet, contre le mur a gauche et tous les autres chose cable projecteur haut- parleur
+- enlevé le faux  mur du studio pour mieux placer le cadre
 -  Prise de photos pour documenter l’avancement du projet.
 - premier rencontre avec le comité de Déambulation pour voir quelle tache nous devont faire j'ai choisi de faire le designe du cartel
 #### Mardi
