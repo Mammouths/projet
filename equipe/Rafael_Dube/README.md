@@ -99,7 +99,7 @@ Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noya
   
 #### Jeudi
 Test du projet sur la toile, 
-Création de la partie conception sonore sur le site web.
+Création de la partie conception sonore sur le site web pour montré l'émotion, le timbre,la structure,la référence et l'intention.
 Achat de nouveaux éléments pour produire les sons manquants (ballon de fête) pour le sont de grandissement des plantes.
 Enregistrement des derniers sons restants avec le  : oiseaux, criquets, plante qui grandit (ballon) et plante qui meurt (cri).
 Ajout des nouveaux croquis et textes sur le site dans la section technique.
@@ -109,7 +109,7 @@ Prise de photos pour documenter l’avancement du projet.
 ### Semaine 3
 #### Lundi
 - essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs avec osc out qui est ensuite relier a reaper 
-- création des sons et retouche sur Reaper (vent,oisseau,etc).
+- création des sons et retouche sur Reaper (vent,oiseau,etc) par exemple pour le son d'oiseau j'ai du siflé  .
 - Prise de photos pour documenter l’avancement du projet.
 #### Mardi
 - intégration des son dans touchdesigner dans des audio file in qui ensuite sort dans un audio device out pour que le projet puisse sotir pour la maquette 1
@@ -119,7 +119,7 @@ Prise de photos pour documenter l’avancement du projet.
 
 #### Mercredi
 - Début du tournage pour la bande-annonce, en commençant à nous enregistrer pendant que nous travaillons.
-- testé le projet
+- testé le projet pour la calibration en touchant la toile
 - Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 - journée des portes ouverte, présenté le programme au gens et notre projet.
@@ -130,22 +130,25 @@ journée congés
 ### Semaine 4
 
 #### Lundi
- commencer à  faire le tris des vidéo découpement etc sur davinci 
+ commencer à  faire le tris des vidéo et  découpement  sur davinci pour voir les quelles ont prends
  Prise de photos pour documenter l’avancement du projet.
  <img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/b4d0b123-addc-44c5-b4c3-5a023336ba37" />
 #### Mardi
+
+Continuer à travailler sur le montage vidéo : placer les vidéos en ordre, ajouter des effets et faire des transitions dans DaVinci Resolve.
+Par exemple, pour le début de la bande-annonce : mettre un effet de flou et accélérer la vidéo des gens, puis faire apparaître le nom du projet.
 <img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/86c99a8a-959e-4ae8-909f-ae19489c4eb1" />
-continuer a toucher au montage video placer en ordre les video mettre des effets, faire des trensition
-test du projet
 #### Mercredi
 - installation de la nouvelle toille refait tous l'emplacement du projet.
-- refaire l'osc avec reaper
+- refaire l'osc avec reaper avec l'osc et reaper trouver comment bien le faire gracee au note de cours
 -  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 - enregistrement de nouveau de cris pour quand les plantes meurt et quand les visages apparait 
 - Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
 - journée de congé
+
+
 ### Semaine 5
 
 #### Lundi
@@ -155,7 +158,7 @@ test du projet
 #### Mardi
 <img width="1908" height="1067" alt="image" src="https://github.com/user-attachments/assets/3d793440-c4a5-4835-958c-c5d2c267b512" />
 
-- trouner des nouvelle scene pour le trailer
+- trouver des nouvelle scene pour le trailer par exemple plus de scène ou ont vois des gens qui touche la toile de proche
 - continuer le montage
 - Prise de photos pour documenter l’avancement du projet.
 - tester le projet
