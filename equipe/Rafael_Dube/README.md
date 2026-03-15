@@ -90,7 +90,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Test d’installation pour la toile et la projection. La toile est installée et placée devant le projecteur. Tous les câbles sont branchés au projecteur. Un test de projection a été fait pour vérifier que l’image fonctionne bien et qu’elle est bien alignée sur la toile.
 
 #### Mercredi
-![Conception sonore](images/conception-sonore.png)
+
 - Création de la liste des sons à produire pour le projet : le bruit de l’eau, les plantes qui boivent, un son de noyade, un son de pousse d’arbre, des cris de plantes, des cris du soleil, un son d’ambiance avec criquets, oiseaux et vent, ainsi qu’un bruit du soleil.
 - Première journée d’enregistrement audio avec le dispositif sonore.
 Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil.
@@ -98,19 +98,23 @@ Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noya
 - Vérification supplémentaire de la toile et de la projection afin de s’assurer que tout fonctionne correctement.
   
 #### Jeudi
+
 Test du projet sur la toile, 
 Création de la partie conception sonore sur le site web pour montré l'émotion, le timbre,la structure,la référence et l'intention.
 Achat de nouveaux éléments pour produire les sons manquants (ballon de fête) pour le sont de grandissement des plantes.
 Enregistrement des derniers sons restants avec le  : oiseaux, criquets, plante qui grandit (ballon) et plante qui meurt (cri).
 Ajout des nouveaux croquis et textes sur le site dans la section technique.
 Prise de photos pour documenter l’avancement du projet.
+<img width="585" height="687" alt="Image" src="https://github.com/user-attachments/assets/91014133-35d4-4df4-addb-dfa7aad3148c" />
 #### Vendredi
-- Continuer la documentation du projet dans le scénario en faisant des changements pour montrer comment les plantes grandissent. Le système d’inondation a été enlevé et maintenant, si le soleil touche  les plantes mourirs. 
+- Continuer la documentation du projet dans le scénario en faisant des changements pour montrer comment les plantes grandissent. Le système d’inondation a été enlevé et maintenant, si le soleil touche  les plantes mourirs.
+  <img width="1064" height="677" alt="Image" src="https://github.com/user-attachments/assets/a732a217-aed2-4f83-b327-32f8867441a7" /> 
 ### Semaine 3
 #### Lundi
 - essayer de faire que touchdesigner peut lancer les son de reaper mais pas reussi il y a des bugs avec osc out qui est ensuite relier a reaper 
 - création des sons et retouche sur Reaper (vent,oiseau,etc) par exemple pour le son d'oiseau j'ai du siflé  .
 - Prise de photos pour documenter l’avancement du projet.
+  <img width="2548" height="1440" alt="Image" src="https://github.com/user-attachments/assets/d82148e5-cd3b-4f72-b940-c9f344381e97" />
 #### Mardi
 - intégration des son dans touchdesigner dans des audio file in qui ensuite sort dans un audio device out pour que le projet puisse sotir pour la maquette 1
 - Installation des haut-parleurs à l’arrière de la toile.
@@ -130,8 +134,7 @@ journée congés
 ### Semaine 4
 
 #### Lundi
- commencer à  faire le tris des vidéo et  découpement  sur davinci pour voir les quelles ont prends
- Prise de photos pour documenter l’avancement du projet.
+ commencer à  faire le tris des vidéo et  découpement  sur davinci pour voir les quelles ont prends pour la bande annonces
  <img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/b4d0b123-addc-44c5-b4c3-5a023336ba37" />
 #### Mardi
 
@@ -174,30 +177,31 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 - tester le projet
 -  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/b2c41e99-adb1-472c-90e3-7a8cc06c76d8" />
 - finir le trailer
 - Prise de photos pour documenter l’avancement du projet.
 - L’équipe a changé de décision pour que le trailer ait un style plus TikTok donc faire un nouveau trailer
-- tester le projet
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/b2c41e99-adb1-472c-90e3-7a8cc06c76d8" />
+  
 #### Vendredi
-<img width="1907" height="1072" alt="image" src="https://github.com/user-attachments/assets/8c884997-a95d-4f3d-b84e-d34d59a3cdf6" />
 - montage et sous-titre
+  <img width="1907" height="1072" alt="image" src="https://github.com/user-attachments/assets/8c884997-a95d-4f3d-b84e-d34d59a3cdf6" />
 ### Semaine 6
 
 #### Lundi
 reunion avec le comminter 
 #### Mardi
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac6fd544-10bd-4a26-b962-b642dac868f7" />
 présentation du projet au éléve de premier année et écouter leurs commentaire
  Prise de photos pour documenter l’avancement du projet.
+ <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac6fd544-10bd-4a26-b962-b642dac868f7" />
 #### Mercredi
-<img width="292" height="828" alt="image" src="https://github.com/user-attachments/assets/c9927028-54cf-4d6d-840d-678b67cdb425" />
+ <img width="292" height="828" alt="image" src="https://github.com/user-attachments/assets/c9927028-54cf-4d6d-840d-678b67cdb425" />
 création du designe du cartel, j'ai créé plus model en tous 7 model on été crée
 - Prise de photos pour documenter l’avancement du projet.
+
 #### Jeudi
-<img width="800" height="406" alt="image" src="https://github.com/user-attachments/assets/e7a693b0-0a39-4762-b7c9-0863444b2a81" />
 création des animations secrets qui sont cacher dans le projet arc-en-ciel,éclaire etc tous sur affet effect.
 - Prise de photos pour documenter l’avancement du projet.
+  <img width="800" height="406" alt="image" src="https://github.com/user-attachments/assets/e7a693b0-0a39-4762-b7c9-0863444b2a81" />
 #### Vendredi
 On a eu une rencontre du comité pour décider quel cartel choisir parmis tous les models de cartel que j'ai fait ont allaient choisir: ont a choisi le model 2
 ### Semaine 6.5
@@ -207,8 +211,10 @@ On a eu une rencontre du comité pour décider quel cartel choisir parmis tous l
 - correction des demande du prof sur le design du cartel qui sont de changer l'emplacement du code qr
 -  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
+<img width="2553" height="451" alt="Image" src="https://github.com/user-attachments/assets/e6bee345-1368-4057-8509-c7aff97d427b" />
 - enregistrer le son pour l'éclaire et le modifier sur Reaper
 - Prise de photos pour documenter l’avancement du projet.
+
 #### Jeudi
 journée de conger
 #### Vendredi
@@ -218,14 +224,18 @@ journée de conger
 #### Lundi
 journée de conger
 #### Mardi
+
 commencer le document de rédaction pour faire marcher le projet
-correction du cartel  pour ce qui est 
+correction du cartel  pour ce qui est de la marge, enlever la surprise des visages, faire que les logo ne touche pas le texte et changer les faute de francais.
+<img width="807" height="564" alt="Image" src="https://github.com/user-attachments/assets/3901d591-bacb-4939-90e9-91982d7493d1" />
 #### Mercredi
 jourmée de tempete
 #### Jeudi
-finir le documment de rédaction pour faire marcher le projet ajouter les photos 
+
+finir le documment de rédaction pour faire marcher le projet ajouter les photos pour mieux comprendre les étapes.
 mettre l'ordinateur dans la salle des matriste 
 tester le projet
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/09db438e-ac76-42ea-ab23-702e66d066ac" />
 #### Vendredi
 faire des test de claibrage pour les nuague sur la toile 
 voir si tous les membres de l'équipe est capable d'ouvire le projet
