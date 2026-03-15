@@ -90,6 +90,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Test d’installation pour la toile et la projection. La toile est installée et placée devant le projecteur. Tous les câbles sont branchés au projecteur. Un test de projection a été fait pour vérifier que l’image fonctionne bien et qu’elle est bien alignée sur la toile.
 
 #### Mercredi
+
 - Création de la liste des sons à produire pour le projet : le bruit de l’eau, les plantes qui boivent, un son de noyade, un son de pousse d’arbre, des cris de plantes, des cris du soleil, un son d’ambiance avec criquets, oiseaux et vent, ainsi qu’un bruit du soleil.
 - Première journée d’enregistrement audio avec le dispositif sonore.
 Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil.
@@ -121,17 +122,17 @@ Prise de photos pour documenter l’avancement du projet.
 - testé le projet
 - Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c7b353cf-0c0e-4435-9813-733e1e60adfe" />
 - journée des portes ouverte, présenté le programme au gens et notre projet.
-- prendre en note les actions des gens 
+- prendre en note les actions des gens
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c7b353cf-0c0e-4435-9813-733e1e60adfe" />
 #### Vendredi
 journée congés 
 ### Semaine 4
 
 #### Lundi
-<img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/b4d0b123-addc-44c5-b4c3-5a023336ba37" />
  commencer à  faire le tris des vidéo découpement etc sur davinci 
  Prise de photos pour documenter l’avancement du projet.
+ <img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/b4d0b123-addc-44c5-b4c3-5a023336ba37" />
 #### Mardi
 <img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/86c99a8a-959e-4ae8-909f-ae19489c4eb1" />
 continuer a toucher au montage video placer en ordre les video mettre des effets, faire des trensition
