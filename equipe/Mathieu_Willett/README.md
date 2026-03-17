@@ -128,12 +128,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 ![Travail sur GitHub](https://github.com/user-attachments/assets/9753948a-065b-4e0a-b7d6-ba52e85177b2)
 
-
 #### Mardi
 27 janvier: En matinée, on a fait notre pitch avec les révisions faites la semaine dernière (soleil + inondation). En après-midi, on a fait une v1 de la structure avec le frame pour fond vert et une toile que Antoine nous a donné. On a fait un test avec le projecteur pour voir s'il était capable de projeter au travers de la toile.
 
 ![Le projecteur](https://github.com/user-attachments/assets/04463ef2-e9ab-4ffa-91d8-a0e2d4180e97)
-
 
 #### Mercredi
 28 janvier: On a défait la v1 et on a construit la structure v2 sur le mur de fond du studio. J'ai installé le lidar et le Raspberry Pi avec des "raidins" sur la structure. J'ai fait le plan pour le métal et j'ai acheté la quantité nécessaire d'aluminium pour le cadre ainsi que la toile.
@@ -148,7 +146,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 ![Prototypes d'arbres](https://github.com/user-attachments/assets/06682884-7fd6-4fa3-ac21-305f472dd25e)
 
-
 ### Semaine 3
 
 #### Lundi
@@ -158,7 +155,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 3 février: J'ai reçu les coins ajustables et les extrusions d'aluminium pour la structure et j'ai voulu faire des filets dans les extrusions d'aluminium, mais j'ai brisé la mèche dans l'extrusion. Je suis allé voir au Rona+, au Canadian Tire et au Home Depot et ils n'en vendent pas. J'ai ensuite installé les haut parleurs et la carte de son pour le projet.
 
 ![Installation des hauts-parleurs](https://github.com/user-attachments/assets/09c40c09-45d2-4be4-ac9a-c6122be39fea)
-
 
 #### Mercredi
 4 février: J'ai installé les extensions de métal pour les extrusions d'aluminium. J'ai coupé certaines extrusions pour avoir certaines mesures spécifiques. J'ai ensuite mis l'effet d'eau au toucher de la toile.
@@ -180,6 +176,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 10 février: J'ai assemblé le restant de la structure avec les coins à 90 degrés.
+
+![Coins à 90 degrés](https://github.com/user-attachments/assets/d7c65f4c-879b-4aab-9d29-466d1fb39eea)
 
 #### Mercredi
 11 février: J'ai sablé les attaches pour la toile. On a installé la toile. On a défait la v2 de la structure et on a installé la structure finale.
@@ -230,6 +228,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 23 février: Nous sommes venu à l'école, mais il y a eu une panne du réseau, donc nous sommes parti.
 
+![Pas de réseau](https://github.com/user-attachments/assets/8ea1b2bc-b41b-4a41-858a-5561d123e042)
+
 #### Mardi
 24 février: Nous avons présenté aux élèves de première année pendant le diner.
 
@@ -260,6 +260,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 4 mars: J'ai créé le fichier QLC+ pour gérer la lumière et j'ai commencé un script sur le raspberry pi du lidar pour allumer et éteindre la lumière au démarrage et à la fermeture respectivement de celui-ci. Malheureusement, nous avons remarqué que la lumière aveuglait les gens et que si nous baissions l'intensité de celle-ci, les photos étaient trop sombres. Alex et moi avons donc enlevé la lumière.
 
+![Script d'ouverture](https://github.com/user-attachments/assets/75e5a05a-a303-46c2-b0fb-fbc2a99d9e5e)
+
+![Script de fermeture](https://github.com/user-attachments/assets/96c11312-189b-4195-ae9b-858252458132)
+
 #### Jeudi
 5 mars: Je n'ai pas travaillé sur le projet.
 
@@ -278,14 +282,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 11 mars: Nous ne sommes pas venus à l'école à cause de la tempête de verglas.
 
 #### Jeudi
+12 mars: J'ai installé des lentilles macro sur les caméras de Quand les yeux se croisent pour prendre des meilleures photos de proche. Nous avons aussi déplacé l'ordinateur dans la salle des matrices.
 
 #### Vendredi
+13 mars: Nous avons corrigé les sons, car l'OSC s'envoyait trop souvent, donc il faisait crasher Reaper. J'ai aussi réparé le traquage des yeux de Quand les yeux se croisent pour améliorer notre propre face tracking.
 
 ### Semaine 8
 
 #### Lundi
+16 mars: Présentation
 
 #### Mardi
+17 mars: Vernissage
 
 #### Mercredi
 
