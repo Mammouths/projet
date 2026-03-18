@@ -270,19 +270,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - J'ai séparé tous les arbres dans différents TouchDesigner. Ils se parlent entre eux avec des TouchIn/TouchOut et se transmettent le rendu de chacun avec des SpoutIn/SpoutOut. Les arbres sont séparés pour maximiser la performance du projet en utilisant plusieurs cœurs de l'ordinateur, ayant chacun son propre Touch. Par la suite, un TouchDesigner final prend chacun des rendus et les ajoute par-dessus le fond, pour ensuite être projeté sur la toile
 
 #### Mercredi
-
+- Transferer des données sur tous les touchs pour calibrer si un déplace le projecteur. 
 #### Jeudi
-
+- Ajout de nouveau nuage avec des visages et un arc-en-ciel. Faire en sorte chaque arbre fais sont son au bonne moment lors de la poussée 
 #### Vendredi
-
+- Ajout du son stéréo selon la postion de l'intéracteur pour la pousser et le son de joie des plantes. Recalibrage de la toile avec le contact
 ### Semaine 8
 
 #### Lundi
-
+- journée de présentation
 #### Mardi
-
+- journée de présentation
 #### Mercredi
-
+- journée de présentation
 #### Jeudi
 
 #### Vendredi
