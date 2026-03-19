@@ -43,11 +43,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - faire le soleil.
 - Animation du background
 - Mixage et addaptation des sons enregistrer.
-- Composer l'ambiance sonore et le reste des sons.
 - Commité design (Logo).
 
 ### Semaine 5
 
+- Composer l'ambiance sonore et le reste des sons.
 - faire les effets visuels du soleil (animation).
 - Addapter les sons par rapport a l'avis des professeurs.
 - faire le montage sonore de la bande annonce.
