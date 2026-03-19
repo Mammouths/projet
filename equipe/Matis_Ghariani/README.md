@@ -114,6 +114,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 ![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
 
+<img width="1040" height="732" alt="image" src="https://github.com/user-attachments/assets/3e699a6f-2e99-45ad-9f32-177f94a07af2" />
+
+
 #### Mercredi
 
 - Installation pour test de projection
@@ -137,7 +140,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
-- Background de la toile
+- Background de la toile (premier design)
 
 <img width="1911" height="918" alt="Screenshot 2026-03-19 143715" src="https://github.com/user-attachments/assets/aef6e88a-6983-4360-866d-0c8d61460f88" />
 
