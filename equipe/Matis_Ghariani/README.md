@@ -149,6 +149,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Étirement
   - Plante qui boit
 
+<img width="1489" height="913" alt="Screenshot 2026-03-19 145113" src="https://github.com/user-attachments/assets/cb1a1641-836f-46e6-aa75-014ea24d1f72" />
+
 #### Mercredi
 
 - Mixage des sons
