@@ -33,11 +33,11 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3
 
-- Design du logo.
 - Se preparer pour les portes ouvertes.
 - Commencer le mixage et l'addaptation des sons enregistrer.
 - Documentation du projet (photos, etc...)
 - Commité design.
+- Design du logo.
 
 ### Semaine 4
 
