@@ -41,17 +41,18 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 4
 
 - faire le soleil.
+- Redesign du background...
 - Animation du background
 - Mixage et addaptation des sons enregistrer.
 - Commité design (Logo).
 
 ### Semaine 5
 
-- Composer l'ambiance sonore et le reste des sons.
-- faire les effets visuels du soleil (animation).
-- Addapter les sons par rapport a l'avis des professeurs.
-- faire le montage sonore de la bande annonce.
+- Mixage et addaptation des sons enregistrer.
+- Créé l'ambiance sonore.
 - Commité design.
+- Redesign du background...
+- Faire le background (modelisation 3d)
 
 ### Semaine 6
 
@@ -59,6 +60,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Composer l'ambiance sonore et le reste des sons.
 - Documentation du projet (photos, etc...)
 - Commité design.
+- Modélisation 3d (background)
 
 ### Semaine 6.5
 
@@ -216,12 +218,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Modélisation 3d du terrain (background)
+
 <img width="1919" height="984" alt="Screenshot 2026-02-17 112820" src="https://github.com/user-attachments/assets/b6b7cf07-510c-47db-93d5-c5d124f4a52b" />
 
 #### Mercredi
 
 - Design de la bannière (comité design)
-- Test de background sur Touchdesigner (terrain 3d)
+- Test de background sur Touchdesigner (terrain 3d, layers, etc)
+
 <img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
 
 #### Jeudi
@@ -233,11 +237,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Montagnes
   - terrain
 
+<img width="1919" height="989" alt="Screenshot 2026-03-19 151032" src="https://github.com/user-attachments/assets/046c9ac0-c60a-48d2-a19b-b804b76567bb" />
+
 #### Vendredi
 
 - Création et mixage de l'ambiance de base
 - Mixage de son
   - Plante completé
+
+<img width="1919" height="1019" alt="Screenshot 2026-03-19 151321" src="https://github.com/user-attachments/assets/a3dfdcde-8768-4b5b-91ec-6754ce645e48" />
 
 ### Semaine 6
 
