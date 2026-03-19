@@ -101,6 +101,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Répartition des tâches.
 - Plannification de la session.
+
 ![shared image](https://github.com/user-attachments/assets/57483497-f547-4352-b44c-e4ad016c7d2a)
 
 #### Mardi
