@@ -117,6 +117,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Début de l'enregistrement des sons
   - Eau qui coule
   - Bruitages humains
+
 ![La deuxième version de la structure](https://github.com/user-attachments/assets/8af35fa8-178c-40f1-909e-1d72ebd9d239)
 
 #### Jeudi
