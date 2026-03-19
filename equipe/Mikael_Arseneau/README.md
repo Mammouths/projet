@@ -289,6 +289,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 - Ajout du son stéréo selon la postion de l'intéracteur pour la pousser et le son de joie des plantes. Recalibrage de la toile avec le contact
+- ![stereo](https://github.com/user-attachments/assets/0587b4d9-a699-4394-b73a-25442252f270)
+
 ### Semaine 8
 
 #### Lundi
