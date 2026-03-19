@@ -130,11 +130,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Cris
 - Modification complète du scénario
 - Documentation (vidéo)
+
 <img width="898" height="830" alt="Screenshot 2026-03-19 143308" src="https://github.com/user-attachments/assets/b411aaf2-5e66-493c-ba6e-d53470e7b9f5" />
 
 #### Vendredi
 
 - Background de la toile
+
 <img width="1911" height="918" alt="Screenshot 2026-03-19 143715" src="https://github.com/user-attachments/assets/aef6e88a-6983-4360-866d-0c8d61460f88" />
 
 ### Semaine 3
@@ -159,14 +161,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajustement des sons
 - Preparation pour les portes ouvertes
 
+<img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
+
 #### Jeudi
 
 - Observation lors des portes ouvertes
 - Documentation du projet (videos)
 
+![Notre équipe aux portes ouvertes](https://github.com/user-attachments/assets/42e375cf-ab41-4c61-99ec-0a99114e6bb9)
+
 #### Vendredi
 
 - Design du logo de l'exposition
+
+![Image (1)](https://github.com/user-attachments/assets/c98edb0f-fef1-461a-a7c8-f18c500d951d)
 
 ### Semaine 4
 
@@ -176,6 +184,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remixage des sons
    - Eau
    - Cris
+
+![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
 
 #### Mardi
 
