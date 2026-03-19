@@ -320,6 +320,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Correction des bugs sonores
 - Leveling du son
+- Création du background finale
+
+<img width="1919" height="916" alt="Screenshot 2026-03-19 161355" src="https://github.com/user-attachments/assets/b6015eab-4e2b-4a79-b35f-fa61569d131d" />
 
 ### Semaine 8
 
@@ -328,6 +331,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Prise de photos et vidéos pour la documentation finale (au vernissage)
+
+![9983FC81-5B02-403E-B737-F2C062478068](https://github.com/user-attachments/assets/3b341d85-c842-4f24-95a7-a8d81d59b553)
 
 #### Mercredi
 
