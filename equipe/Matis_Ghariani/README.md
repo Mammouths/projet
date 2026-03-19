@@ -201,13 +201,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 
 - Design du soleil
-- Redesign du background
+- Redesign du background (deuxième design)
 
 <img width="1892" height="915" alt="Screenshot 2026-02-18 121236" src="https://github.com/user-attachments/assets/0ea439fa-e337-4150-b894-0ac2162b50dc" />
 
 #### Jeudi
 
-- Animation du background
+- Animation du background (deuxième design)
 
 <img width="1848" height="800" alt="Screenshot 2026-02-18 121446" src="https://github.com/user-attachments/assets/34e1e0aa-18c6-4839-8d72-7dbeee6715cb" />
 
@@ -222,22 +222,21 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Modélisation 3d du terrain (background)
+- Modélisation 3d du background (troisième design)
 
 <img width="1919" height="984" alt="Screenshot 2026-02-17 112820" src="https://github.com/user-attachments/assets/b6b7cf07-510c-47db-93d5-c5d124f4a52b" />
 
 #### Mercredi
 
 - Design de la bannière (comité design)
-- Test de background sur Touchdesigner (terrain 3d, layers, etc)
+- Test de background sur Touchdesigner (terrain 3d, layers, etc) - (troisième design)
 
 <img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
 
 #### Jeudi
 
-- Design de la deuxième version du background
 - Design de la bannière (comité design)
-- Modélisation 3d
+- Modélisation 3d pour le background (troisième design)
   - Nuages
   - Montagnes
   - terrain
@@ -272,7 +271,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
-- Retravalllé le background (export 2, masquer, colorisation)
+- Retravalllé le background (export 2, masquer, colorisation) - (troisième design)
 
 <img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/5508b6fe-4ee1-4d68-8f13-319ad0d87be7" />
 
@@ -298,7 +297,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Modelisation du sol (terrain)
+- Modelisation du sol du background (troisième design)
 - Design et mixage de sons
    - Éclaire
 - Design affiche comité design
@@ -314,7 +313,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - Animation arc-en-ciel
-- Re-modélisation du terrain
+- Modelisation du terrain du background (troisième design)
 - Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
    - arc-en-ciel
