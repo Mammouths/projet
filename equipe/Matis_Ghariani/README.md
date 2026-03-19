@@ -273,7 +273,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
-- Création et mixage de l'ambiance de base
+- Finalisation de l'ambiance de base
 
 ### Semaine 6.5
 
@@ -298,17 +298,23 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
    - Éclaire
 - Design affiche comité design
 
+<img width="1918" height="1019" alt="Screenshot 2026-03-10 175520" src="https://github.com/user-attachments/assets/19d4607b-5442-4916-9b6a-b14cf7b2ad2a" />
+
 #### Mercredi
 
 - Animation arc-en-ciel
+
+<img width="1919" height="1019" alt="Capture d’écran 2026-03-12 143323" src="https://github.com/user-attachments/assets/b7b48e03-ee5d-4f00-ab4b-48b0bed9bbda" />
 
 #### Jeudi
 
 - Animation arc-en-ciel
 - Re-modélisation du terrain
-- Qualibration des caméras
-- Creation sonore
+- Qualibration des caméras chez quand les yeux se croise
+- Création sonore
    - arc-en-ciel
+
+<img width="1919" height="1017" alt="Screenshot 2026-03-19 155351" src="https://github.com/user-attachments/assets/070a3a05-dc36-408b-b9cd-696440bdd06f" />
 
 #### Vendredi
 
@@ -321,7 +327,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Prise de photo et videos pour la documentation finale (vernissage)
+- Prise de photos et vidéos pour la documentation finale (au vernissage)
 
 #### Mercredi
 
