@@ -303,12 +303,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Modelisation 3d du background (troisième design)
-   - Sol
 - Design et mixage de sons
    - Éclaire
 - Design affiche comité design
-
-<img width="1911" height="985" alt="Screenshot 2026-03-19 192140" src="https://github.com/user-attachments/assets/77de4c15-24fb-4243-9bd3-373592222090" />
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
 
@@ -360,7 +357,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Presentation du projet
 - Montage de la documentation finale
 
-<img width="1911" height="985" alt="image" src="https://github.com/user-attachments/assets/a814e199-dfbd-4d60-acd0-96a5c6526cb6" />
 
 #### Jeudi
 
