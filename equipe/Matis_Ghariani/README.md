@@ -30,6 +30,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Changer le sénario selon les indications des professeurs.
 - Documentation du projet (photos, etc...)
 - Commité design.
+- Installation du projet.
 
 ### Semaine 3
 
@@ -45,7 +46,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Animation du background
 - Mixage et addaptation des sons enregistrer.
 - Composer l'ambiance sonore et le reste des sons.
-- Documentation du projet (photos, etc...)
 - Commité design.
 
 ### Semaine 5
@@ -53,7 +53,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - faire les effets visuels du soleil (animation).
 - Addapter les sons par rapport a l'avis des professeurs.
 - faire le montage sonore de la bande annonce.
-- Documentation du projet (photos, etc...)
 - Commité design.
 
 ### Semaine 6
@@ -67,7 +66,6 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Mixage et addaptation des sons enregistrer.
 - Composer l'ambiance sonore et le reste des sons.
-- Documentation du projet (photos, etc...)
 - Commité design.
 
 ### Semaine 7
@@ -120,6 +118,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Début de l'enregistrement des sons
   - Eau qui coule
   - Bruitages humains
+![La deuxième version de la structure](https://github.com/user-attachments/assets/8af35fa8-178c-40f1-909e-1d72ebd9d239)
 
 #### Jeudi
 
@@ -127,12 +126,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Oiseaux, criquets
   - Balloune
   - Cris
-- Modification complet du scénario
+- Modification complète du scénario
 - Documentation (vidéo)
+<img width="898" height="830" alt="Screenshot 2026-03-19 143308" src="https://github.com/user-attachments/assets/b411aaf2-5e66-493c-ba6e-d53470e7b9f5" />
 
 #### Vendredi
 
 - Background de la toile
+<img width="1911" height="918" alt="Screenshot 2026-03-19 143715" src="https://github.com/user-attachments/assets/aef6e88a-6983-4360-866d-0c8d61460f88" />
 
 ### Semaine 3
 
