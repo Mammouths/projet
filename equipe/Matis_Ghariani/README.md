@@ -108,6 +108,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Installation pour test de projection.
 - Redéfinition de l'estetique sonore et visuelle du projet.
 - Moodboard du projet.
+
 ![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
 
 #### Mercredi
