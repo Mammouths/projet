@@ -1,4 +1,4 @@
-<img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/57ee3aa5-94e9-45c6-827b-82e33d498079" /># Matis Ghariani
+# Matis Ghariani
 
 ![](matis_vignette.webp)
 
