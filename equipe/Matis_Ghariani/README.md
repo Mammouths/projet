@@ -117,7 +117,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
-- Installation pour test de projection
+- Installation pour test de projection (suite)
 - Documentation (photos)
 - Début de l'enregistrement des sons
   - Eau qui coule
@@ -221,6 +221,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Modélisation 3d du background (troisième design)
+  - Terrain
 
 <img width="1919" height="984" alt="Screenshot 2026-02-17 112820" src="https://github.com/user-attachments/assets/b6b7cf07-510c-47db-93d5-c5d124f4a52b" />
 
@@ -234,10 +235,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - Design de la bannière (comité design)
-- Modélisation 3d pour le background (troisième design)
+- Modélisation 3d du background (troisième design)
   - Nuages
   - Montagnes
-  - terrain
+  - terrain 2
 
 <img width="1919" height="989" alt="Screenshot 2026-03-19 151032" src="https://github.com/user-attachments/assets/046c9ac0-c60a-48d2-a19b-b804b76567bb" />
 
@@ -295,7 +296,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Modelisation du sol du background (troisième design)
+- Modelisation 3d du background (troisième design)
+   - Sol
 - Design et mixage de sons
    - Éclaire
 - Design affiche comité design
@@ -312,6 +314,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Animation arc-en-ciel
 - Modelisation du terrain du background (troisième design)
+  - Sol 2
 - Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
    - arc-en-ciel
