@@ -325,6 +325,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Correction des bugs sonores
 - Leveling sonore du projet
+- Qualibration des caméras chez « Quand les yeux se croisent » (suite)
 - Création du background finale
 
 <img width="1919" height="916" alt="Screenshot 2026-03-19 161355" src="https://github.com/user-attachments/assets/b6015eab-4e2b-4a79-b35f-fa61569d131d" />
