@@ -23,14 +23,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 
-- Redéfinir l'identitée du projet.
-- Trouver des inspirations pour l'ambiance (sons).
-- Enregistrement de sons.
-- Faire le background de la toile.
-- Changer le sénario selon les indications des professeurs.
+- Redéfinir l'identitée du projet (scénario, etc)
+- Trouver des inspirations pour l'ambiance (sons)
+- Enregistrement de sons
+- Faire le background de la toile
 - Documentation du projet (photos, etc...)
-- Commité design.
-- Installation du projet.
+- Commité design
+- Installation du projet
 
 ### Semaine 3
 
@@ -107,8 +106,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Installation pour test de projection.
-- Redéfinition finale de l'estetique sonore et visuelle du projet.
-- Moodboard finale du projet.
+- Redéfinition de l'estetique sonore et visuelle du projet.
+- Moodboard du projet.
 ![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
 
 #### Mercredi
