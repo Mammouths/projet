@@ -126,7 +126,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
-- Suite de l'enregistrement des sons
+- Enregistrement des sons
   - Oiseaux, criquets
   - Balloune
   - Cris
@@ -215,6 +215,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 - Enregistrement des sons
+  - Sons joyeux
 
 #### Mardi
 
@@ -276,7 +277,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Finalisation de l'ambiance de base
 
-### Semaine 6.5
+### Semaine 6.5 (semaine de rattrapage)
 
 #### Lundi
 
@@ -311,7 +312,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Animation arc-en-ciel
 - Re-modélisation du terrain
-- Qualibration des caméras chez quand les yeux se croise
+- Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
    - arc-en-ciel
 
@@ -320,7 +321,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 
 - Correction des bugs sonores
-- Leveling du son
+- Leveling sonore du projet
 - Création du background finale
 
 <img width="1919" height="916" alt="Screenshot 2026-03-19 161355" src="https://github.com/user-attachments/assets/b6015eab-4e2b-4a79-b35f-fa61569d131d" />
@@ -329,16 +330,22 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+- Presentation du projet
+
 #### Mardi
 
-- Prise de photos et vidéos pour la documentation finale (au vernissage)
+- Presentation du projet
+- Prise de photos et de vidéos pour la documentation finale (vernissage)
 
 ![9983FC81-5B02-403E-B737-F2C062478068](https://github.com/user-attachments/assets/3b341d85-c842-4f24-95a7-a8d81d59b553)
 
 #### Mercredi
 
-- Montage pour la documentation finale
+- Presentation du projet
+- Montage de la documentation finale
 
 #### Jeudi
+
+- Presentation du projet
 
 #### Vendredi
