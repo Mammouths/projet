@@ -243,7 +243,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 - Préparation pour la journée pour la visite des étudiants
 - Faire sortir le son via osc
-#### Mercredi
+- [note_midi](https://github.com/user-attachments/assets/0de56a52-988f-4936-b31e-48a5102cf112)
+#### Mercredi!
+
 - Ajout d'un système pour affiche le tittre de l'oeuvre si aucun participant
 #### Jeudi
 - Faire en sorte que les arbres peuvent pousser n'imporent ou sur la toile
@@ -257,6 +259,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - resserage de la toile
 #### Mercredi
 - ajout d'un noise au contact de la toile pour la calibration
+- ![noise](https://github.com/user-attachments/assets/8386897a-3036-42f8-a2ba-c94b530d421b)
+
 #### Jeudi
 - jounée de congé
 #### Vendredi
@@ -268,9 +272,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 - J'ai séparé tous les arbres dans différents TouchDesigner. Ils se parlent entre eux avec des TouchIn/TouchOut et se transmettent le rendu de chacun avec des SpoutIn/SpoutOut. Les arbres sont séparés pour maximiser la performance du projet en utilisant plusieurs cœurs de l'ordinateur, ayant chacun son propre Touch. Par la suite, un TouchDesigner final prend chacun des rendus et les ajoute par-dessus le fond, pour ensuite être projeté sur la toile
+![out_finale](https://github.com/user-attachments/assets/dad417c1-7c37-4ede-829d-be68930e1480)
 
 #### Mercredi
-- Transferer des données sur tous les touchs pour calibrer si un déplace le projecteur. 
+- Transferer des données sur tous les touchs pour calibrer si un déplace le projecteur.
+- ![valeur_max](https://github.com/user-attachments/assets/c48cd636-1612-4751-aabb-36620bb2b05a)
+
 #### Jeudi
 - Ajout de nouveau nuage avec des visages et un arc-en-ciel. Faire en sorte chaque arbre fais sont son au bonne moment lors de la poussée 
 #### Vendredi
