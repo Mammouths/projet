@@ -112,8 +112,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Redéfinition de l'estetique sonore et visuelle du projet
 - Moodboard du projet
 
-![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
-
 <img width="1040" height="732" alt="image" src="https://github.com/user-attachments/assets/3e699a6f-2e99-45ad-9f32-177f94a07af2" />
 
 
