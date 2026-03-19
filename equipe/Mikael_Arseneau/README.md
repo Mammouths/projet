@@ -199,6 +199,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Changer les coordonées du lidar pour la nouvelle toile
 - Reserrage de la nouvelle toile sur le frame
 - Aller chercher l'adresse IP du projecteur pour l'ouvrir de l'ordinateur
+- ![projecteur](https://github.com/user-attachments/assets/c15e04ca-ccf4-4607-9bf6-9c9d336ae7bd)
+
 #### Vendredi
 - Journée de congée
 
@@ -246,9 +248,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - [note_midi](https://github.com/user-attachments/assets/0de56a52-988f-4936-b31e-48a5102cf112)
 #### Mercredi!
 
-- Ajout d'un système pour affiche le tittre de l'oeuvre si aucun participant
+- Ajout d'un système pour affiche le titre de l'oeuvre si aucun participant
 #### Jeudi
 - Faire en sorte que les arbres peuvent pousser n'imporent ou sur la toile
+- ![arbre_importe-ou](https://github.com/user-attachments/assets/ed5c27b9-553f-4f43-b6f7-d3178ac04ebe)
+
 #### Vendredi
 - jounée de congé
 ### Semaine 6.5
@@ -273,13 +277,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 - J'ai séparé tous les arbres dans différents TouchDesigner. Ils se parlent entre eux avec des TouchIn/TouchOut et se transmettent le rendu de chacun avec des SpoutIn/SpoutOut. Les arbres sont séparés pour maximiser la performance du projet en utilisant plusieurs cœurs de l'ordinateur, ayant chacun son propre Touch. Par la suite, un TouchDesigner final prend chacun des rendus et les ajoute par-dessus le fond, pour ensuite être projeté sur la toile
 ![out_finale](https://github.com/user-attachments/assets/dad417c1-7c37-4ede-829d-be68930e1480)
+![arbre_separe](https://github.com/user-attachments/assets/8491e8fe-d463-4a60-a09f-129756222e36)
 
 #### Mercredi
 - Transferer des données sur tous les touchs pour calibrer si un déplace le projecteur.
 - ![valeur_max](https://github.com/user-attachments/assets/c48cd636-1612-4751-aabb-36620bb2b05a)
 
 #### Jeudi
-- Ajout de nouveau nuage avec des visages et un arc-en-ciel. Faire en sorte chaque arbre fais sont son au bonne moment lors de la poussée 
+- Ajout de nouveau nuage avec des visages et un arc-en-ciel. Faire en sorte chaque arbre fais sont son au bonne moment lors de la poussée
+- ![son_arbre](https://github.com/user-attachments/assets/3fe3fb73-b07c-4a7f-99a0-2507a4f10d1f)
+
 #### Vendredi
 - Ajout du son stéréo selon la postion de l'intéracteur pour la pousser et le son de joie des plantes. Recalibrage de la toile avec le contact
 ### Semaine 8
@@ -288,9 +295,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - journée de présentation
 #### Mardi
 - journée de présentation
+- Vernissage
 #### Mercredi
 - journée de présentation
 #### Jeudi
-
+- Création de la vidéo de documentation
 #### Vendredi
                                                    
