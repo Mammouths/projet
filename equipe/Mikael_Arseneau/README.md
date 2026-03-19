@@ -245,10 +245,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 - Préparation pour la journée pour la visite des étudiants
 - Faire sortir le son via osc
-- [note_midi](https://github.com/user-attachments/assets/0de56a52-988f-4936-b31e-48a5102cf112)
-#### Mercredi!
+- ![note_midi-OSC](https://github.com/user-attachments/assets/2e93ad1a-63e8-40ef-8d0d-84d71b12aaba)
 
+#### Mercredi!
 - Ajout d'un système pour affiche le titre de l'oeuvre si aucun participant
+- ![titre](https://github.com/user-attachments/assets/3fe3fb73-b07c-4a7f-99a0-2507a4f10d1f)
 #### Jeudi
 - Faire en sorte que les arbres peuvent pousser n'imporent ou sur la toile
 - ![arbre_importe-ou](https://github.com/user-attachments/assets/ed5c27b9-553f-4f43-b6f7-d3178ac04ebe)
@@ -285,7 +286,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 - Ajout de nouveau nuage avec des visages et un arc-en-ciel. Faire en sorte chaque arbre fais sont son au bonne moment lors de la poussée
-- ![son_arbre](https://github.com/user-attachments/assets/3fe3fb73-b07c-4a7f-99a0-2507a4f10d1f)
+
 
 #### Vendredi
 - Ajout du son stéréo selon la postion de l'intéracteur pour la pousser et le son de joie des plantes. Recalibrage de la toile avec le contact
