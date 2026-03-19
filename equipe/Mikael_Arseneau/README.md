@@ -303,5 +303,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - journée de présentation
 #### Jeudi
 - Création de la vidéo de documentation
+- ![documentation](https://github.com/user-attachments/assets/bf787441-d18e-4709-bb86-2c267aae7d6b)
+  
 #### Vendredi
                                                    
