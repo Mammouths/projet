@@ -1,4 +1,4 @@
-# Matis Ghariani
+<img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/57ee3aa5-94e9-45c6-827b-82e33d498079" /># Matis Ghariani
 
 ![](matis_vignette.webp)
 
@@ -253,9 +253,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Création et mixage de l'ambiance de base
 
+<img width="1919" height="1019" alt="Screenshot 2026-03-19 152610" src="https://github.com/user-attachments/assets/bcbaaee1-47a0-4433-97fc-df3a77d716f1" />
+
 #### Mardi
 
-- Présentation de la maquette 2
+- Présentation de la maquette 2 aux étudiants
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac6fd544-10bd-4a26-b962-b642dac868f7" />
 
 #### Mercredi
 
@@ -265,7 +269,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Retravalllé le background (export 2, masquer, colorisation)
 
+<img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/5508b6fe-4ee1-4d68-8f13-319ad0d87be7" />
+
 #### Vendredi
+
+- Création et mixage de l'ambiance de base
 
 ### Semaine 6.5
 
