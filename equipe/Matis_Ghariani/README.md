@@ -50,17 +50,16 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 - Mixage et addaptation des sons enregistrer.
 - Créé l'ambiance sonore.
-- Commité design.
+- Commité design (bannère, etc)
 - Redesign du background...
 - Faire le background (modelisation 3d)
 
 ### Semaine 6
 
-- Mixage et addaptation des sons enregistrer.
-- Composer l'ambiance sonore et le reste des sons.
-- Documentation du projet (photos, etc...)
-- Commité design.
-- Modélisation 3d (background)
+- Mixage et addaptation des sons enregistrer
+- Composer l'ambiance sonore
+- Commité design
+- Faire le background
 
 ### Semaine 6.5
 
@@ -70,15 +69,17 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 7
 
-- Finaliser tous les sons et les ambiances.
-- Documentation du projet (photos, etc...)
+- Mixage et addaptation des sons enregistrer (finaliser)
+- Leveling des sons
+- Modélisation 3d (background)
+- Animation de l'arc-en-ciel
+- Correction de bugs et qualibrage du projet.
 - Commité design.
 
 ### Semaine 8
 
 - correction des bugs.
 - Documentation du projet (photos, etc...)
-- Commité design.
 
 ## Journal de bord
 
