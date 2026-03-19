@@ -101,16 +101,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- Répartition des tâches.
-- Plannification de la session.
+- Répartition des tâches
+- Plannification de la session
 
 ![shared image](https://github.com/user-attachments/assets/57483497-f547-4352-b44c-e4ad016c7d2a)
 
 #### Mardi
 
-- Installation pour test de projection.
-- Redéfinition de l'estetique sonore et visuelle du projet.
-- Moodboard du projet.
+- Installation pour test de projection
+- Redéfinition de l'estetique sonore et visuelle du projet
+- Moodboard du projet
 
 ![Média](https://github.com/user-attachments/assets/fbb924c7-46ab-4422-b42b-6fe3838cf622)
 
@@ -182,9 +182,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- Design du logo de l'exposition
+- Design du logo de l'exposition (suite)
 - Remixage des sons
-   - Eau
+   - Eau (nouveau son)
    - Cris
 
 ![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
