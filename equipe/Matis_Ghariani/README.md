@@ -302,6 +302,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
    - Éclaire
 - Design affiche comité design
 
+<img width="1911" height="985" alt="Screenshot 2026-03-19 192140" src="https://github.com/user-attachments/assets/77de4c15-24fb-4243-9bd3-373592222090" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
+
 <img width="1918" height="1019" alt="Screenshot 2026-03-10 175520" src="https://github.com/user-attachments/assets/19d4607b-5442-4916-9b6a-b14cf7b2ad2a" />
 
 #### Mercredi
