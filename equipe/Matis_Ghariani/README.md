@@ -264,6 +264,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Animation arc-en-ciel
+
 #### Jeudi
 
 - Animation arc-en-ciel
@@ -274,13 +276,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
+- Correction des bugs sonores
+- Leveling du son
+
 ### Semaine 8
 
 #### Lundi
 
 #### Mardi
 
+- Prise de photo et videos pour la documentation finale (vernissage)
+
 #### Mercredi
+
+- Montage pour la documentation finale
 
 #### Jeudi
 
