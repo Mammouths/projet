@@ -36,8 +36,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Se preparer pour les portes ouvertes.
 - Commencer le mixage et l'addaptation des sons enregistrer.
 - Documentation du projet (photos, etc...)
-- Commité design.
-- Design du logo.
+- Commité design (Logo).
 
 ### Semaine 4
 
@@ -45,7 +44,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Animation du background
 - Mixage et addaptation des sons enregistrer.
 - Composer l'ambiance sonore et le reste des sons.
-- Commité design.
+- Commité design (Logo).
 
 ### Semaine 5
 
@@ -191,14 +190,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Design du soleil
 
+<img width="1914" height="980" alt="Screenshot 2026-02-18 120336" src="https://github.com/user-attachments/assets/e69461b3-b7c1-44f9-b12e-1ada6f9fe36b" />
+
 #### Mercredi
 
 - Design du soleil
 - Redesign du background
 
+<img width="1892" height="915" alt="Screenshot 2026-02-18 121236" src="https://github.com/user-attachments/assets/0ea439fa-e337-4150-b894-0ac2162b50dc" />
+
 #### Jeudi
 
 - Animation du background
+
+<img width="1848" height="800" alt="Screenshot 2026-02-18 121446" src="https://github.com/user-attachments/assets/34e1e0aa-18c6-4839-8d72-7dbeee6715cb" />
 
 #### Vendredi
 
