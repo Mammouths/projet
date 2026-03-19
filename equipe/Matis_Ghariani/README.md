@@ -270,7 +270,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
-- Retravalllé le background (export 2, masquer, colorisation) - (troisième design)
+- Design du background (export 2, masquer, colorisation) - (troisième design)
 
 <img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/5508b6fe-4ee1-4d68-8f13-319ad0d87be7" />
 
@@ -326,7 +326,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Correction des bugs sonores
 - Leveling sonore du projet
 - Qualibration des caméras chez « Quand les yeux se croisent » (suite)
-- Création du background finale
+- Design du background finale
 
 <img width="1919" height="916" alt="Screenshot 2026-03-19 161355" src="https://github.com/user-attachments/assets/b6015eab-4e2b-4a79-b35f-fa61569d131d" />
 
