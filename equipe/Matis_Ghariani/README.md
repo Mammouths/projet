@@ -232,6 +232,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
 
+![C37F8C19-A2B3-4B53-808B-03CEAF1DE4B9](https://github.com/user-attachments/assets/54896481-1617-4e2d-8ec9-a1d147a86296)
+
 #### Jeudi
 
 - Design de la bannière (comité design)
@@ -241,6 +243,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - terrain 2
 
 <img width="1919" height="989" alt="Screenshot 2026-03-19 151032" src="https://github.com/user-attachments/assets/046c9ac0-c60a-48d2-a19b-b804b76567bb" />
+
+<img width="1919" height="1018" alt="Screenshot 2026-03-19 193645" src="https://github.com/user-attachments/assets/0b0bd3e6-ba78-444e-be40-b8646aa12b31" />
+
+<img width="1911" height="985" alt="Screenshot 2026-03-19 192140" src="https://github.com/user-attachments/assets/53d62cf7-dc19-4e1d-8802-03cee3bac793" />
 
 #### Vendredi
 
@@ -325,10 +331,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1919" height="1017" alt="Screenshot 2026-03-19 155351" src="https://github.com/user-attachments/assets/070a3a05-dc36-408b-b9cd-696440bdd06f" />
 
+<img width="1919" height="1018" alt="Screenshot 2026-03-19 192750" src="https://github.com/user-attachments/assets/f658858b-3696-4675-8894-b94452eb8218" />
+
 #### Vendredi
 
 - Correction des bugs sonores
-- Leveling sonore du projet
+- « Leveling » sonore du projet
 - Qualibration des caméras chez « Quand les yeux se croisent » (suite)
 - Design du background finale
 
@@ -351,6 +359,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Presentation du projet
 - Montage de la documentation finale
+
+<img width="1911" height="985" alt="image" src="https://github.com/user-attachments/assets/a814e199-dfbd-4d60-acd0-96a5c6526cb6" />
 
 #### Jeudi
 
