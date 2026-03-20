@@ -131,12 +131,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 -Aujourd'hui, j'ai avancé sur le GitHub, tout en travaillant sur la réception des données Lidar dans TouchDesigner via OSC pour les intégrer et les traiter en temps réel.
-![oscin_lidar](https://github.com/user-attachments/assets/01e12618-973c-4460-95bf-c840c4ec778b)
+![OSC in du lidar dans touch designer](https://github.com/user-attachments/assets/01e12618-973c-4460-95bf-c840c4ec778b)
 
 #### Mardi
 
 - J'ai séparé les données reçues en 2 tableaux, un pour les données X et un autre pour les données Y. J'ai ensuite mis les différents L-systems dans TouchDesigner et attribué une position à chaque arbre selon leur emplacement sur la toile. J'ai aussi établi une connexion dans le code entre les données du Lidar et les positions des arbres, puis mis en place une détection de collision entre les données X du Lidar et la position de chaque arbre.
-- ![separer-X_Y](https://github.com/user-attachments/assets/39cd6cd0-dcbf-42a2-98cc-680e4a79bb60)
+- ![separer X et Y](https://github.com/user-attachments/assets/39cd6cd0-dcbf-42a2-98cc-680e4a79bb60)
 - ![position des arbres](https://github.com/user-attachments/assets/7536ca5b-cf84-474d-a6a9-2c99d3a62c85)
 
 #### Mercredi
@@ -222,7 +222,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Intégration du nouveau système des arbres permettant un déplacement plus facile et une modification rapide des données, configuration du lancement automatique du projet au démarrage de Windows ainsi que de l’activation du projecteur à l’ouverture de TouchDesigner, amélioration du système de capture des interacteurs par ajustement de la luminosité des images, et ajout d’un système de calibration suivant en temps réel les mouvements sur la toile
 - ![ouverture et fermeture du projecteur](https://github.com/user-attachments/assets/01609980-cb95-4cac-b6d6-226ac3ffcd19)
-- ![Systême pour modifier les arbres](https://github.com/user-attachments/assets/eee94912-ef10-4956-9491-a347c1563582) -<img width="708" height="232" alt="{165A2618-CDE4-4636-B938-A7ED7862A787}" src="https://github.com/user-attachments/assets/2743b314-156c-4ece-8e05-290f622e1f4e" />
+- ![Systême pour modifier les arbres](https://github.com/user-attachments/assets/eee94912-ef10-4956-9491-a347c1563582) -<img width="708" height="232" alt="fichier" src="https://github.com/user-attachments/assets/2743b314-156c-4ece-8e05-290f622e1f4e" />
 
 #### Mercredi
 
@@ -245,17 +245,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Préparation pour la journée pour la visite des étudiants ansi que faire sortir le son via osc
-- ![note_midi-OSC](https://github.com/user-attachments/assets/2e93ad1a-63e8-40ef-8d0d-84d71b12aaba)
+- ![note midi-OSC](https://github.com/user-attachments/assets/2e93ad1a-63e8-40ef-8d0d-84d71b12aaba)
 
 #### Mercredi!
 
 - Ajout d’un système affichant le titre de l’œuvre lorsqu’aucun participant n’est présent
-- ![titre](https://github.com/user-attachments/assets/3fe3fb73-b07c-4a7f-99a0-2507a4f10d1f)
+- ![titre dans l'oeuvre](https://github.com/user-attachments/assets/3fe3fb73-b07c-4a7f-99a0-2507a4f10d1f)
 
 #### Jeudi
 
 - Mise en place d’un système permettant aux arbres de pousser n’importe où sur la toile
-- ![arbre_importe-ou](https://github.com/user-attachments/assets/ed5c27b9-553f-4f43-b6f7-d3178ac04ebe)
+- ![arbre pousse n'importe-ou](https://github.com/user-attachments/assets/ed5c27b9-553f-4f43-b6f7-d3178ac04ebe)
 
 #### Vendredi
 
@@ -293,13 +293,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - J'ai séparé tous les arbres dans différents TouchDesigner. Ils se parlent entre eux avec des TouchIn/TouchOut et se transmettent le rendu de chacun avec des SpoutIn/SpoutOut. Les arbres sont séparés pour maximiser la performance du projet en utilisant plusieurs cœurs de l'ordinateur, ayant chacun son propre Touch. Par la suite, un TouchDesigner final prend chacun des rendus et les ajoute par-dessus le fond, pour ensuite être projeté sur la toile
-  ![out_finale](https://github.com/user-attachments/assets/dad417c1-7c37-4ede-829d-be68930e1480)
-  ![arbre_separe](https://github.com/user-attachments/assets/8491e8fe-d463-4a60-a09f-129756222e36)
+  ![out finale](https://github.com/user-attachments/assets/dad417c1-7c37-4ede-829d-be68930e1480)
+  ![arbre separe en Touch](https://github.com/user-attachments/assets/8491e8fe-d463-4a60-a09f-129756222e36)
 
 #### Mercredi
 
 - Transfert des données sur tous les TouchDesigner afin de recalibrer en cas de déplacement du projecteur
-- ![valeur_max](https://github.com/user-attachments/assets/c48cd636-1612-4751-aabb-36620bb2b05a)
+- ![valeur max du lidar](https://github.com/user-attachments/assets/c48cd636-1612-4751-aabb-36620bb2b05a)
 
 #### Jeudi
 
