@@ -365,6 +365,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Presentation du projet
 - Montage de la documentation finale
 
+![Image (3)](https://github.com/user-attachments/assets/e90f6336-3f87-4e21-9c63-cba9a5feffdb)
 
 #### Jeudi
 
