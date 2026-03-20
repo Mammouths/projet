@@ -72,7 +72,7 @@ Chaque composante de l’installation est détaillée ci-dessous avec :
 -->
 
 ## Documentation vidéo finale
-<br>
+
 [![Description de la vidéo](https://github.com/user-attachments/assets/e0118d1a-be5c-4887-963e-50fc414113d2)](https://youtu.be/HetZlon20LQ)
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
