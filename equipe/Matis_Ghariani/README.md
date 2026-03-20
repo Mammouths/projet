@@ -311,9 +311,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modelisation 3d du background (troisième design)
 - Design et mixage de sons
    - Éclaire
-- Design affiche comité design
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
+
+- Design affiche comité design
 
 <img width="1918" height="1019" alt="Screenshot 2026-03-10 175520" src="https://github.com/user-attachments/assets/19d4607b-5442-4916-9b6a-b14cf7b2ad2a" />
 
@@ -325,14 +326,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
-- Animation arc-en-ciel
+- Animation arc-en-ciel (suite)
 - Modelisation du terrain du background (troisième design)
   - Sol 2
+
+<img width="1919" height="1017" alt="Screenshot 2026-03-19 155351" src="https://github.com/user-attachments/assets/070a3a05-dc36-408b-b9cd-696440bdd06f" />
+
 - Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
    - arc-en-ciel
-
-<img width="1919" height="1017" alt="Screenshot 2026-03-19 155351" src="https://github.com/user-attachments/assets/070a3a05-dc36-408b-b9cd-696440bdd06f" />
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 192750" src="https://github.com/user-attachments/assets/f658858b-3696-4675-8894-b94452eb8218" />
 
