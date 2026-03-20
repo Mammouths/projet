@@ -156,6 +156,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1489" height="913" alt="Screenshot 2026-03-19 145113" src="https://github.com/user-attachments/assets/cb1a1641-836f-46e6-aa75-014ea24d1f72" />
 
+[eau_coule_normale.wav](https://github.com/user-attachments/files/26131623/eau_coule_normale.wav)
+
+[eau_coule_eau.wav](https://github.com/user-attachments/files/26131621/eau_coule_eau.wav)
+
+[baloune.wav](https://github.com/user-attachments/files/26131624/baloune.wav)
+
+[plante_boit.wav](https://github.com/user-attachments/files/26131630/plante_boit.wav)
+
 #### Mercredi
 
 - Preparation pour les portes ouvertes
