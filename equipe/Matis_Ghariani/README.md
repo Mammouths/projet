@@ -61,7 +61,8 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 6.5
 
-- Semaine de rattrapage
+- Qualibration du background
+- Mixage et addaptation des sons enregistrer
 
 ### Semaine 7
 
@@ -321,6 +322,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 #### Mardi
+
+- Qualibration du background
+- Ajustement des sons
 
 #### Mercredi
 
