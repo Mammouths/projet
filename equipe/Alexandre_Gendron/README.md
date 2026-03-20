@@ -179,6 +179,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 * Création de fleurs pour les plantes
 * Recherche commenent séparer les différentes parties des plantes pour leur mettre des textures uniques
 
+![plante1](https://github.com/user-attachments/assets/f5271fe7-b461-4f43-871c-f0b7f752acb4)
+
+
 #### Vendredi
 
 * Ajout du facteur aléatoire dans la création de plantes pour un aspect plus naturel
@@ -194,6 +197,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 * Amélioration des plantes
 * Tests de performances
+![FPS](https://github.com/user-attachments/assets/4c286fc8-48bd-4a8d-b7f3-9e61974991ba)
+
 
 #### Mercredi
 
@@ -205,11 +210,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 * Préparation des portes ouvertes
 * Portes ouvertes
 
+![portesOuvertes](https://github.com/user-attachments/assets/9b5532a6-9a36-4cf4-9ad7-633882ef7f10)
+
+
 #### Vendredi
 
 * Travail sur le logo de l'expo
   
-![plancheLogo]("https://github.com/user-attachments/assets/9004038b-97c2-4646-8205-c22087b51e21")
+![plancheLogo](https://github.com/user-attachments/assets/9004038b-97c2-4646-8205-c22087b51e21)
 
 
 ### Semaine 4
@@ -254,6 +262,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 * Travail sur la bannière
 * Travail avec le nouveau système d'export de plantes  et implémentation du système dans le projet
+
+  
+![banniereRV](https://github.com/user-attachments/assets/672251ef-e1bb-4cd0-afc5-4a2c2ba7904a)
 
 #### Jeudi
 
@@ -357,6 +368,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 * Journée de présentation
 * Création de la vidéo de documentation
+
+  ![videoDemonstration](https://github.com/user-attachments/assets/5cbd9055-6b89-4a10-946b-7d8bfcff1b5e)
+
 
 #### Vendredi
                                                    
