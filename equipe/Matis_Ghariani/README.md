@@ -98,14 +98,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 - Répartition des tâches
-- Plannification de la session
+- Planification de la session
 
 ![shared image](https://github.com/user-attachments/assets/57483497-f547-4352-b44c-e4ad016c7d2a)
 
 #### Mardi
 
 - Installation pour test de projection
-- Redéfinition de l'estetique sonore et visuelle du projet
+- Redéfinition de l'esthétique sonore et visuelle du projet
 - Moodboard du projet
 
 <img width="1040" height="732" alt="image" src="https://github.com/user-attachments/assets/3e699a6f-2e99-45ad-9f32-177f94a07af2" />
@@ -126,14 +126,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Oiseaux, criquets
   - Balloune
   - Cris
-- Documentation (vidéo)
+- Documentation (Vidéos)
 - Modification complète du scénario
 
 <img width="898" height="830" alt="Screenshot 2026-03-19 143308" src="https://github.com/user-attachments/assets/b411aaf2-5e66-493c-ba6e-d53470e7b9f5" />
 
 #### Vendredi
 
-- Background de la toile (premier design)
+- Background de la toile (Premier design)
 
 <img width="1911" height="918" alt="Screenshot 2026-03-19 143715" src="https://github.com/user-attachments/assets/aef6e88a-6983-4360-866d-0c8d61460f88" />
 
@@ -161,7 +161,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
-- Preparation pour les portes ouvertes
+- Préparation pour les portes ouvertes
 - Ajustement des sons
 - Mixage des sons
   - Cris
@@ -178,7 +178,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - Observation lors des portes ouvertes
-- Documentation du projet (videos)
+- Documentation du projet (Vidéos)
 
 ![Notre équipe aux portes ouvertes](https://github.com/user-attachments/assets/42e375cf-ab41-4c61-99ec-0a99114e6bb9)
 
@@ -192,7 +192,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- Design du logo de l'exposition (suite)
+- Design du logo de l'exposition (Suite)
 
 ![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
 
@@ -218,14 +218,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
-- Design du soleil (suite)
-- Redesign du background (deuxième design)
+- Design du soleil (Suite)
+- Redesign du background (Deuxième design)
 
 <img width="1892" height="915" alt="Screenshot 2026-02-18 121236" src="https://github.com/user-attachments/assets/0ea439fa-e337-4150-b894-0ac2162b50dc" />
 
 #### Jeudi
 
-- Animation du background (deuxième design)
+- Animation du background (Deuxième design)
 
 <img width="1848" height="800" alt="Screenshot 2026-02-18 121446" src="https://github.com/user-attachments/assets/34e1e0aa-18c6-4839-8d72-7dbeee6715cb" />
 
@@ -240,31 +240,31 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Modélisation 3d du background (troisième design)
+- Modélisation 3d du background (Troisième design)
   - Terrain
 
 <img width="1919" height="984" alt="Screenshot 2026-02-17 112820" src="https://github.com/user-attachments/assets/b6b7cf07-510c-47db-93d5-c5d124f4a52b" />
 
 #### Mercredi
 
-- Design de la bannière (comité design)
+- Design de la bannière (Comité design)
 
 <img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
 
-- Test de background sur Touchdesigner (terrain 3d, layers, etc) - (troisième design)
+- Test de background sur Touchdesigner (Terrain 3d, layers, etc) - (Troisième design)
 
 ![C37F8C19-A2B3-4B53-808B-03CEAF1DE4B9](https://github.com/user-attachments/assets/54896481-1617-4e2d-8ec9-a1d147a86296)
 
 #### Jeudi
 
-- Design de la bannière (comité design) - (suite)
+- Design de la bannière (Comité design) - (Suite)
 
 <img width="1919" height="925" alt="Screenshot 2026-03-19 222727" src="https://github.com/user-attachments/assets/d758e9cb-f148-4fe7-b2cd-552fcb1b0343" />
 
-- Modélisation 3d du background (troisième design)
+- Modélisation 3d du background (Troisième design)
   - Nuages
   - Montagnes
-  - terrain 2
+  - Terrain 2
 
 <img width="1919" height="989" alt="Screenshot 2026-03-19 151032" src="https://github.com/user-attachments/assets/046c9ac0-c60a-48d2-a19b-b804b76567bb" />
 
@@ -274,7 +274,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
-- Debut de la création et de l'ambiance de base
+- Début de la création et de l'ambiance de base
 - Mixage de son
   - Son joyeux
 
@@ -306,7 +306,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 
-- Design du background (export 2, masquer, colorisation) - (troisième design)
+- Design du background (Export, masquer, colorisation) - (Troisième design)
 
 <img width="1916" height="966" alt="Screenshot 2026-03-19 153027" src="https://github.com/user-attachments/assets/5508b6fe-4ee1-4d68-8f13-319ad0d87be7" />
 
@@ -334,7 +334,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-- Modelisation 3d du background (troisième design)
+- Modélisation 3d du background (Troisième design)
 - Design et mixage de sons
   - Éclaire
 
@@ -355,14 +355,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - Animation arc-en-ciel (suite)
-- Modelisation du terrain du background (troisième design)
+- Modélisation du terrain du background (troisième design)
   - Sol 2
 
 <img width="1919" height="1017" alt="Screenshot 2026-03-19 155351" src="https://github.com/user-attachments/assets/070a3a05-dc36-408b-b9cd-696440bdd06f" />
 
 - Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
-  - arc-en-ciel
+  - Arc-en-ciel
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 192750" src="https://github.com/user-attachments/assets/f658858b-3696-4675-8894-b94452eb8218" />
 
@@ -381,24 +381,24 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- Presentation du projet
+- Présentation du projet
 
 #### Mardi
 
-- Presentation du projet
+- Présentation du projet
 - Prise de photos et de vidéos pour la documentation finale (vernissage)
 
 ![9983FC81-5B02-403E-B737-F2C062478068](https://github.com/user-attachments/assets/3b341d85-c842-4f24-95a7-a8d81d59b553)
 
 #### Mercredi
 
-- Presentation du projet
+- Présentation du projet
 - Montage de la documentation finale
 
 ![Image (3)](https://github.com/user-attachments/assets/e90f6336-3f87-4e21-9c63-cba9a5feffdb)
 
 #### Jeudi
 
-- Presentation du projet
+- Présentation du projet
 
 #### Vendredi
