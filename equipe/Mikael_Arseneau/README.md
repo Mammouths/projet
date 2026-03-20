@@ -131,7 +131,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 -Aujourd'hui, j'ai avancé sur le GitHub, tout en travaillant sur la réception des données Lidar dans TouchDesigner via OSC pour les intégrer et les traiter en temps réel.
-![OSC in du lidar dans touch designer](https://github.com/user-attachments/assets/01e12618-973c-4460-95bf-c840c4ec778b)
+
+![commencement du projet](https://github.com/user-attachments/assets/80d59f92-fe95-4ac2-ba7a-0780606c6bf9)
 
 #### Mardi
 
