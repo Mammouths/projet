@@ -262,47 +262,96 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
+* Nous avons essayé de travailler mais la panne réseau nous a mis des bâtons dans les roues.
+
 #### Mardi
+
+* Présentation au cours de muséologie
 
 #### Mercredi
 
+* Travail sur la bannière
+* Travail sur le cablage
+
 #### Jeudi
 
+* Installation du cannon de lumière
+* Masquer les nouveaux arrière-plans
+* Implémentation du système permettant de faire pousser les plantes n'importe où
+
 #### Vendredi
+
+![b2e3ff57-3242-4c0a-bac5-e500dd548c42](https://github.com/user-attachments/assets/d6f15726-1ebd-49ec-8735-d624759ec309)
+* Travail sur le design (mettre au propre tous les médias)
 
 ### Semaine 6.5
 
 #### Lundi
 
+
+* Travail sur le design (mettre au propre tous les médias)
+
 #### Mardi
+
+* Installation lumière au plafond
 
 #### Mercredi
 
+* Installation lumière au plafond
+* Retirer la lumière
+
 #### Jeudi
 
+* Commencer affiche Réseau Vivant
+
 #### Vendredi
+
+* Continuer affiche
 
 ### Semaine 7
 
 #### Lundi
 
+* Continuer affiche
+
 #### Mardi
+
+* Optimisation du projet (séparation des arbres en différents projets Touchdesigner)
+* Optimisation arbres
+* Review des affiches
 
 #### Mercredi
 
+* Finalisation de l'affiche
+
 #### Jeudi
 
+* Création de l'affiche pour la présentation sur les télés du cégep
+* Ajout des nuages avec les fleurs
+
 #### Vendredi
+
+* Spatialisation de l'audio
 
 ### Semaine 8
 
 #### Lundi
 
+* Journée de présentation
+
 #### Mardi
+
+* Journée de présentation
+* Vernissage
 
 #### Mercredi
 
+* Journée de présentation
+
 #### Jeudi
+
+* Journée de présentation
+* Création de la vidéo de documentation
 
 #### Vendredi
                                                    
