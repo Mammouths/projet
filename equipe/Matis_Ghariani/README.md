@@ -23,63 +23,59 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 
-- Redéfinir l'identitée du projet (scénario, etc)
-- Trouver des inspirations pour l'ambiance (sons)
+- Redéfinir l'identitée du projet (Scénario, etc)
+- Trouver des inspirations pour l'ambiance (Sons)
+- Installation du projet
 - Enregistrement de sons
 - Faire le background de la toile
-- Documentation du projet (photos, etc...)
-- Commité design
-- Installation du projet
+- Documentation du projet (Photos et vidéos)
 
 ### Semaine 3
 
-- Se preparer pour les portes ouvertes.
-- Commencer le mixage et l'addaptation des sons enregistrer.
-- Documentation du projet (photos, etc...)
-- Commité design (Logo).
+- Se preparer pour les portes ouvertes
+- Mixage et l'addaptation des sons enregistrer
+- Documentation du projet (Photos et vidéos)
+- Commité design (Logo)
 
 ### Semaine 4
 
-- faire le soleil.
-- Redesign du background...
+- Design du soleil
+- Faire le background de la toile
+- Mixage et addaptation des sons enregistrer
 - Animation du background
-- Mixage et addaptation des sons enregistrer.
-- Commité design (Logo).
+- Commité design (Logo)
 
 ### Semaine 5
 
-- Mixage et addaptation des sons enregistrer.
-- Créé l'ambiance sonore.
-- Commité design (bannère, etc)
-- Redesign du background...
-- Faire le background (modelisation 3d)
+- Mixage et addaptation des sons enregistrer
+- Enregistrement des sons
+- Création de l'ambiance sonore
+- Faire le background de la toile (Modélisation 3d, etc)
+- Commité design (Bannière, etc)
 
 ### Semaine 6
 
 - Mixage et addaptation des sons enregistrer
-- Composer l'ambiance sonore
-- Commité design
-- Faire le background
+- Création de l'ambiance sonore
+- Faire le background de la toile (Modélisation 3d, etc)
 
 ### Semaine 6.5
 
-- Mixage et addaptation des sons enregistrer.
-- Composer l'ambiance sonore et le reste des sons.
-- Commité design.
+- Semaine de rattrapage
 
 ### Semaine 7
 
-- Mixage et addaptation des sons enregistrer (finaliser)
-- Leveling des sons
-- Modélisation 3d (background)
+- Mixage et addaptation des sons enregistrer
+- Faire le background de la toile (Modélisation 3d, etc)
 - Animation de l'arc-en-ciel
-- Correction de bugs et qualibrage du projet.
-- Commité design.
+- Correction de bugs et qualibrage du projet
+- Commité design (Affiche)
 
 ### Semaine 8
 
-- correction des bugs.
-- Documentation du projet (photos, etc...)
+- Présentation du projet
+- Documentation (Photos et vidéos)
+- Montage de la documentation finale
 
 ## Journal de bord
 
