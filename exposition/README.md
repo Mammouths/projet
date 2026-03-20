@@ -12,7 +12,7 @@ Ce tableau indique les responsables quotidiens de l’exposition, désignés par
 | Mardi      |    Mikael  |
 | Mercredi   |    Rafael  |
 | Jeudi      |    Mathieu  |
-| Vendredi   |    Matis
+| Vendredi   |    Toute l'équipe
 
 ## Procédure d’ouveture quotidienne
 
