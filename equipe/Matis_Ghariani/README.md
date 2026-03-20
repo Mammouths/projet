@@ -117,11 +117,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
-- Installation pour test de projection (suite)
 - Documentation (photos)
 - Début de l'enregistrement des sons
   - Eau qui coule
   - Bruitages humains
+- Installation pour test de projection (suite)
 
 ![La deuxième version de la structure](https://github.com/user-attachments/assets/8af35fa8-178c-40f1-909e-1d72ebd9d239)
 
@@ -131,8 +131,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Oiseaux, criquets
   - Balloune
   - Cris
-- Modification complète du scénario
 - Documentation (vidéo)
+- Modification complète du scénario
 
 <img width="898" height="830" alt="Screenshot 2026-03-19 143308" src="https://github.com/user-attachments/assets/b411aaf2-5e66-493c-ba6e-d53470e7b9f5" />
 
@@ -158,11 +158,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Preparation pour les portes ouvertes
 - Ajustement des sons
 - Mixage des sons
   - Cris
   - Bruit de réussite
-- Preparation pour les portes ouvertes
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
 
@@ -184,11 +184,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 
 - Design du logo de l'exposition (suite)
+
+![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
+
 - Remixage des sons
    - Eau 2
    - Cris
-
-![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 221221" src="https://github.com/user-attachments/assets/2ee43df8-6eb7-4730-ba86-fcc6251ccd0e" />
 
