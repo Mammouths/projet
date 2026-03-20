@@ -208,6 +208,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 
 * Travail sur le logo de l'expo
+  
+![plancheLogo]("https://github.com/user-attachments/assets/9004038b-97c2-4646-8205-c22087b51e21")
+
 
 ### Semaine 4
 
@@ -244,6 +247,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 * Recherche pour bannière
 * Travail avec le nouveau système d'export de plantes  et implémentation du système dans le projet
+
+  
 
 #### Mercredi
 
