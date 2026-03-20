@@ -164,6 +164,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 [plante_boit.wav](https://github.com/user-attachments/files/26131630/plante_boit.wav)
 
+[Charged Up 163 @2wayjahm seasongocrazy.mp3](https://github.com/user-attachments/files/26131688/Charged.Up.163.%402wayjahm.seasongocrazy.mp3)
+
 #### Mercredi
 
 - Preparation pour les portes ouvertes
