@@ -64,6 +64,7 @@ Quand Reaper s’ouvre, attendre environ 5 secondes avant de fermer le message d
 
 #### 10. Allumer l'appareil photo installé sur le cadre. Vérifier que le focus est bien placé dans le milieu du portique du studio.
 
+
 ### Étapes pour fermer Arbre en Face :
 
 1.	Fermer toutes les pages de Touch Designer.
