@@ -322,19 +322,36 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+* Finalisation de l'affiche
+
 #### Jeudi
 
+* Création de l'affiche pour la présentation sur les télés du cégep
+* Ajout des nuages avec les fleurs
+
 #### Vendredi
+
+* Spatialisation de l'audio
 
 ### Semaine 8
 
 #### Lundi
 
+* Journée de présentation
+
 #### Mardi
+
+* Journée de présentation
+* Vernissage
 
 #### Mercredi
 
+* Journée de présentation
+
 #### Jeudi
+
+* Journée de présentation
+* Création de la vidéo de documentation
 
 #### Vendredi
                                                    
