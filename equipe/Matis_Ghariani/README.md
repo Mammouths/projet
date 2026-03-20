@@ -185,10 +185,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Design du logo de l'exposition (suite)
 - Remixage des sons
-   - Eau (nouveau son)
+   - Eau 2
    - Cris
 
 ![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
+
+<img width="1919" height="1018" alt="Screenshot 2026-03-19 221221" src="https://github.com/user-attachments/assets/2ee43df8-6eb7-4730-ba86-fcc6251ccd0e" />
 
 #### Mardi
 
