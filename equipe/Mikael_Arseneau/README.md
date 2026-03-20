@@ -245,6 +245,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 
 - Préparation pour la journée pour la visite des étudiants ansi que faire sortir le son via osc
+- ![photo d'équipe](https://github.com/user-attachments/assets/6694fe4e-8500-42c5-ac27-981fa96f8c94)
+
 - ![note midi-OSC](https://github.com/user-attachments/assets/2e93ad1a-63e8-40ef-8d0d-84d71b12aaba)
 
 #### Mercredi!
