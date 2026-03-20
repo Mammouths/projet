@@ -342,9 +342,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Design et mixage de sons
   - Éclaire
 
-[eclaire_v2.wav](https://github.com/user-attachments/files/26132041/eclaire_v2.wav)
-
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
+
+[eclaire_v2.wav](https://github.com/user-attachments/files/26132041/eclaire_v2.wav)
 
 - Design affiche comité design
 
