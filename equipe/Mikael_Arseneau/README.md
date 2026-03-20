@@ -240,7 +240,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-- jounée de congé
+- Jounée de congé
 
 #### Mardi
 
@@ -259,17 +259,17 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
-- jounée de congé
+- Jounée de congé
 
 ### Semaine 6.5
 
 #### Lundi
 
-- jounée de congé
+- Jounée de congé
 
 #### Mardi
 
-- resserage de la toile
+- Resserage de la toile en ajustant les pines roses
 
 #### Mercredi
 
@@ -304,6 +304,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 - Ajout de nouveaux nuages contenant des visages et un arc-en-ciel, et configuration pour que chaque arbre émette son son au bon moment lors de sa croissance
+![reaper](https://github.com/user-attachments/assets/28ca512c-912a-4cfd-9811-b8148fb9f6e4)
 
 #### Vendredi
 
