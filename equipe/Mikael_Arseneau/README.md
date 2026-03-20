@@ -197,8 +197,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - ![cable manegement](https://github.com/user-attachments/assets/6236e8dc-87ed-4cdc-bf93-2819d9746eae)
 - ![Nouvelle toile](https://github.com/user-attachments/assets/0826b97a-da84-4247-93b6-dee5bd8c2e8b)
-
--
+- ![nouvelle toile](https://github.com/user-attachments/assets/ba0fb724-d990-4443-93c5-99e3c2c19cb1)
 - ![fichier du projet](https://github.com/user-attachments/assets/9596775c-89fc-4a80-9b77-1f9aaa85cb8b)
 
 #### Jeudi
