@@ -200,7 +200,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
-- Design du soleil
+- Design du soleil (suite)
 - Redesign du background (deuxième design)
 
 <img width="1892" height="915" alt="Screenshot 2026-02-18 121236" src="https://github.com/user-attachments/assets/0ea439fa-e337-4150-b894-0ac2162b50dc" />
@@ -230,15 +230,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 
 - Design de la bannière (comité design)
-- Test de background sur Touchdesigner (terrain 3d, layers, etc) - (troisième design)
 
 <img width="1898" height="971" alt="touch_visuel" src="https://github.com/user-attachments/assets/7144fa3e-7da9-4f05-8122-ab742f0a2ef0" />
+
+- Test de background sur Touchdesigner (terrain 3d, layers, etc) - (troisième design)
 
 ![C37F8C19-A2B3-4B53-808B-03CEAF1DE4B9](https://github.com/user-attachments/assets/54896481-1617-4e2d-8ec9-a1d147a86296)
 
 #### Jeudi
 
-- Design de la bannière (comité design)
+- Design de la bannière (comité design) - (suite)
+
+<img width="1919" height="925" alt="Screenshot 2026-03-19 222727" src="https://github.com/user-attachments/assets/d758e9cb-f148-4fe7-b2cd-552fcb1b0343" />
+
 - Modélisation 3d du background (troisième design)
   - Nuages
   - Montagnes
@@ -252,7 +256,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 
-- Création et mixage de l'ambiance de base
+- Debut de la création et de l'ambiance de base
 - Mixage de son
   - Plante completé
 
