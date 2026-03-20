@@ -159,6 +159,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 4 février: J'ai installé les extensions de métal pour les extrusions d'aluminium. J'ai coupé certaines extrusions pour avoir certaines mesures spécifiques. J'ai ensuite mis l'effet d'eau au toucher de la toile.
 
+![Coupe du métal](https://github.com/user-attachments/assets/31741471-dc97-4398-a511-41e984342aa6)
+
 ![Travail sur GitHub via le Raspberry Pi](https://github.com/user-attachments/assets/07574300-8fb5-409e-88cc-e03d954fcb96)
 
 #### Jeudi
@@ -184,6 +186,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 ![Attache pour la toile](https://github.com/user-attachments/assets/0b6d37dc-2010-4695-bcb2-69de0e2f7ac0)
 
+![La v2 de la structure](https://github.com/user-attachments/assets/e44485f4-de51-4ae0-bfb6-b2af22220fa1)
+
 #### Jeudi
 12 février: J'ai arrangé la calibration du lidar et j'ai travaillé sur une version du face tracking pour capter les visages plus sombres et les rendre plus lumineux.
 
@@ -195,7 +199,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 16 février: On a enlevé le faux mur du studio pour pousser le cadre plus proche du mur. Mikael et moi avons corrigé la projection pour que celle-ci prenne toute la grandeur de la toile. 
 
-![Quand on rebranchait tout](https://github.com/user-attachments/assets/681030e7-b6f0-4cd7-946e-89ea56b5846a)
+![Quand on rebranchait le tout](https://github.com/user-attachments/assets/681030e7-b6f0-4cd7-946e-89ea56b5846a)
 
 #### Mardi
 17 février: On a rajouté d'autres attaches sur le cadre pour tenir la toile. J'ai installé un rideau noir en dessous de la projection pour cacher les fils et le projecteur. J'ai fait une amélioration au face tracking pour que si la photo prise est trop sombre, celle-ci est éclaircie.
@@ -253,16 +257,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mardi
 
-3 mars: J'ai installé la lumière hélicoidale plus loin dans le studio au plafond avec Alex pour éclairer les visages pour prendre de meilleures photos. 
+3 mars: J'ai installé la lumière ellipsoidale plus loin dans le studio au plafond avec Alex pour éclairer les visages pour prendre de meilleures photos. 
 
 ![Alex éclairé par la lumière](https://github.com/user-attachments/assets/ae8df2ae-2f90-4c28-b5ac-a3d67e99f29e)
 
 #### Mercredi
 4 mars: J'ai créé le fichier QLC+ pour gérer la lumière et j'ai commencé un script sur le raspberry pi du lidar pour allumer et éteindre la lumière au démarrage et à la fermeture respectivement de celui-ci. Malheureusement, nous avons remarqué que la lumière aveuglait les gens et que si nous baissions l'intensité de celle-ci, les photos étaient trop sombres. Alex et moi avons donc enlevé la lumière.
 
-![Script d'ouverture](https://github.com/user-attachments/assets/75e5a05a-a303-46c2-b0fb-fbc2a99d9e5e)
-
-![Script de fermeture](https://github.com/user-attachments/assets/96c11312-189b-4195-ae9b-858252458132)
+![Le fichier QLC+](https://github.com/user-attachments/assets/c66f3732-a938-4409-9b44-cb5870167fa2)
 
 #### Jeudi
 5 mars: Je n'ai pas travaillé sur le projet.
@@ -278,14 +280,22 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 10 mars: Guillaume nous a suggéré d'utiliser les caméras de Quand les yeux se croisent pour prendre nos photos puisqu'ils ont déjà le bon éclairage pour filmer des visages. J'ai pris le feed vidéo de leurs caméras par NDI et j'ai installé notre système de face tracking dans cette image. J'ai aussi compléter mon script pour allumer et éteindre la lumière, mais cette fois-ci pour les lumières d'Émersia qui éclairent les visages des participants. Malheureusement, Félix a voulu simplifier comment ses lumières intéragissent avec les canaux de l'univers lumineux, donc nous avons du mettre la gestion de ces lumières avec le même QLC+ du reste du studio par ArtNet. J'ai donc fait un script qui envoie un message on/off par OSC au pi qui s'occupe des lumières du studio pour que ceux-ci s'allument avec le démarrage et la fermeture de mon raspberry pi. J'ai aussi coupé l'extra de métal sur le raidin qui tient le lidar en haut de la toile.
 
+![Script d'ouverture](https://github.com/user-attachments/assets/75e5a05a-a303-46c2-b0fb-fbc2a99d9e5e)
+
+![Script de fermeture](https://github.com/user-attachments/assets/96c11312-189b-4195-ae9b-858252458132)
+
 #### Mercredi
 11 mars: Nous ne sommes pas venus à l'école à cause de la tempête de verglas.
 
 #### Jeudi
 12 mars: J'ai installé des lentilles macro sur les caméras de Quand les yeux se croisent pour prendre des meilleures photos de proche. Nous avons aussi déplacé l'ordinateur dans la salle des matrices.
 
+![Installation des lentilles](https://github.com/user-attachments/assets/04f335c7-46c1-4db8-bda2-40e81058d7ef)
+
 #### Vendredi
 13 mars: Nous avons corrigé les sons, car l'OSC s'envoyait trop souvent, donc il faisait crasher Reaper. J'ai aussi réparé le traquage des yeux de Quand les yeux se croisent pour améliorer notre propre face tracking.
+
+![Correction du code](https://github.com/user-attachments/assets/bb4c8354-e6fe-4907-865a-a6491cd805db)
 
 ### Semaine 8
 
@@ -295,9 +305,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 17 mars: Vernissage
 
+![Le début du vernissage vu sur la caméra de surveillance du studio](https://github.com/user-attachments/assets/23772fdb-8884-4add-916c-7c517338274d)
+
 #### Mercredi
+18 mars: Présentation et début du montage de la vidéo finale.
 
 #### Jeudi
+19 mars: Présentation et fin du montage de la vidéo finale.
+
+![Fin du montage](https://github.com/user-attachments/assets/2f6ca142-3681-4be6-aada-3f5c3aa0ce7b)
 
 #### Vendredi
-                                                   
+20 mars: Démontage et fin du projet.                                   
