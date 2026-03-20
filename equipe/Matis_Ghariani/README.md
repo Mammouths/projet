@@ -155,6 +155,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1489" height="913" alt="Screenshot 2026-03-19 145113" src="https://github.com/user-attachments/assets/cb1a1641-836f-46e6-aa75-014ea24d1f72" />
 
+[eau_coule_eau.wav](https://github.com/user-attachments/files/26131973/eau_coule_eau.wav)
+
+[eau_coule_normale.wav](https://github.com/user-attachments/files/26131975/eau_coule_normale.wav)
+
+[baloune.wav](https://github.com/user-attachments/files/26131992/baloune.wav)
+
+[plante_boit.wav](https://github.com/user-attachments/files/26131994/plante_boit.wav)
+
 #### Mercredi
 
 - Preparation pour les portes ouvertes
@@ -162,6 +170,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Mixage des sons
   - Cris
   - Bruit de réussite
+
+[cris1.wav](https://github.com/user-attachments/files/26131996/cris1.wav)
+
+[cris2.wav](https://github.com/user-attachments/files/26131999/cris2.wav)
+
+[plante_completed.wav](https://github.com/user-attachments/files/26132006/plante_completed.wav)
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
 
@@ -189,6 +203,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remixage des sons
   - Eau 2
   - Cris
+
+[eau_coule_eau_2.wav](https://github.com/user-attachments/files/26132011/eau_coule_eau_2.wav)
+
+[eau_coule_normale_2.wav](https://github.com/user-attachments/files/26132014/eau_coule_normale_2.wav)
+
+[cris3.wav](https://github.com/user-attachments/files/26132000/cris3.wav)
+
+[cris4.wav](https://github.com/user-attachments/files/26132001/cris4.wav)
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 221221" src="https://github.com/user-attachments/assets/2ee43df8-6eb7-4730-ba86-fcc6251ccd0e" />
 
@@ -260,6 +282,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Mixage de son
   - Plante completé
 
+[plante_heureux1.wav](https://github.com/user-attachments/files/26132036/plante_heureux1.wav)
+
+[plante_heureux2.wav](https://github.com/user-attachments/files/26132037/plante_heureux2.wav)
+
+[plante_heureux3.wav](https://github.com/user-attachments/files/26132038/plante_heureux3.wav)
+
 <img width="1919" height="1019" alt="Screenshot 2026-03-19 151321" src="https://github.com/user-attachments/assets/a3dfdcde-8768-4b5b-91ec-6754ce645e48" />
 
 ### Semaine 6
@@ -290,6 +318,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Finalisation de l'ambiance de base
 
+[ambiance_de_base.wav](https://github.com/user-attachments/files/26132040/ambiance_de_base.wav)
+
 ### Semaine 6.5 (semaine de rattrapage)
 
 #### Lundi
@@ -311,6 +341,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modelisation 3d du background (troisième design)
 - Design et mixage de sons
   - Éclaire
+
+[eclaire_v2.wav](https://github.com/user-attachments/files/26132041/eclaire_v2.wav)
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
 
