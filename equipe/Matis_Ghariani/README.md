@@ -155,14 +155,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1489" height="913" alt="Screenshot 2026-03-19 145113" src="https://github.com/user-attachments/assets/cb1a1641-836f-46e6-aa75-014ea24d1f72" />
 
-[Eau](eau_coule_normale.wav)
-
-[Eau](equipe/eau_coule_eau.wav)
-
-[Étirement](equipe/baloune.wav)
-
-[Plante qui boit](equipe/plante_boit.wav)
-
 #### Mercredi
 
 - Preparation pour les portes ouvertes
@@ -172,11 +164,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Bruit de réussite
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
-
-[Cris 1](equipe/cris1.wav)
-[Cris 2](equipe/cris2.wav)
-
-[Bruit de réussite](equipe/plante_completed.wav)
 
 #### Jeudi
 
@@ -202,12 +189,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remixage des sons
   - Eau 2
   - Cris
-
-[Eau 1](equipe/eau_coule_normale_2.wav)
-[Eau 2](equipe/eau_coule_eau_2.wav)
-
-[Cris 3](equipe/cris3.wav)
-[Cris 4](equipe/cris4.wav)
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 221221" src="https://github.com/user-attachments/assets/2ee43df8-6eb7-4730-ba86-fcc6251ccd0e" />
 
