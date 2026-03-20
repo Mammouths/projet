@@ -94,7 +94,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 <img width="3264" height="1836" alt="Image" src="https://github.com/user-attachments/assets/69dda1d1-fa49-4d41-8360-af8af3072c0f" />
 -Création de la liste des sons à produire pour le projet : le bruit de l’eau, les plantes qui boivent, un son de noyade, un son de pousse d’arbre, des cris de plantes, des cris du soleil, un son d’ambiance avec criquets, oiseaux et vent, ainsi qu’un bruit du soleil.
 - Première journée d’enregistrement audio avec le dispositif sonore.
-Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil.
+Sons enregistrés : le bruit de l’eau, les plantes qui boivent, un son de noyade et cri de colère du soleil. exemple pour le Son de plante qui boit : j’ai emprunté un gros pot de plante au TTP, puis j’ai fait couler de l’eau dedans. Pour les plantes qui boivent, j’ai bu dans ma bouteille d’eau.
 - Prise de photos pour documenter l’avancement du projet.
 - Vérification supplémentaire de la toile et de la projection afin de s’assurer que tout fonctionne correctement.
   
@@ -108,7 +108,7 @@ Ajout des nouveaux croquis et textes sur le site dans la section technique.
 Prise de photos pour documenter l’avancement du projet.
 <img width="585" height="687" alt="Image" src="https://github.com/user-attachments/assets/91014133-35d4-4df4-addb-dfa7aad3148c" />
 #### Vendredi
-- Continuer la documentation du projet dans le scénario en faisant des changements pour montrer comment les plantes grandissent. Le système d’inondation a été enlevé et maintenant, si le soleil touche  les plantes mourirs.
+- Continuer la documentation du projet dans le scénario en faisant des changements pour montrer comment les plantes grandissent. Le système d’inondation a été enlevé et maintenant, si le soleil touche  les plantes meurt.
   <img width="1064" height="677" alt="Image" src="https://github.com/user-attachments/assets/a732a217-aed2-4f83-b327-32f8867441a7" /> 
 ### Semaine 3
 #### Lundi
@@ -125,14 +125,14 @@ Prise de photos pour documenter l’avancement du projet.
 
 #### Mercredi
 - Début du tournage pour la bande-annonce, en commençant à nous enregistrer pendant que nous travaillons.
-- testé le projet pour la calibration en touchant la toile
+- testé le projet pour la calibration en touchant la toile quand 
 - Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
 - journée des portes ouverte, présenté le programme au gens et notre projet.
 - prendre en note les actions des gens
   <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c7b353cf-0c0e-4435-9813-733e1e60adfe" />
 #### Vendredi
-journée congés 
+journée congé
 ### Semaine 4
 
 #### Lundi
@@ -165,7 +165,7 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 - Déplacer la structure du projet contre le mur à gauche, ainsi que tous les autres éléments : câbles, projecteur et haut-parleurs.
 - enlevé le faux  mur du studio pour mieux placer le cadre
 -  Prise de photos pour documenter l’avancement du projet.
-- premier rencontre avec le comité de Déambulation pour voir quelle tache nous devont faire j'ai choisi de faire le designe du cartel
+
 #### Mardi
 <img width="1908" height="1067" alt="image" src="https://github.com/user-attachments/assets/3d793440-c4a5-4835-958c-c5d2c267b512" />
 
@@ -174,10 +174,10 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 - Prendre des photos pour documenter l’avancement du projet.
 - Tester le projet.
 #### Mercredi
-<img width="1900" height="1078" alt="image" src="https://github.com/user-attachments/assets/6566a48c-c847-4d9c-83c8-a8dcba52fd46" />
+<img width="1900" height="1009" alt="558200748-6566a48c-c847-4d9c-83c8-a8dcba52fd46" src="https://github.com/user-attachments/assets/b97ffcc2-c1f0-4562-8089-0acb74913f48" />
 
 - continuer le montage du trailer
-- commencer le document de presse 
+- commencer le document de presse ( mettre la descrition le logo, les crédit etc.)
 -  Prise de photos pour documenter l’avancement du projet.
 - tester le projet
 -  Prise de photos pour documenter l’avancement du projet.
@@ -194,7 +194,7 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 
 #### Lundi
 premier réunion avec le comité de Déambulation pour savoir qui fait quoi. 
-je fait le design du cartel
+je fait le design du cartel.
 #### Mardi
 présentation du projet au éléve de premier année et écouter leurs commentaire
  Prise de photos pour documenter l’avancement du projet.
@@ -220,33 +220,34 @@ On a eu une rencontre du comité pour décider quel cartel choisir parmis tous l
 -  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
 <img width="2553" height="451" alt="Image" src="https://github.com/user-attachments/assets/e6bee345-1368-4057-8509-c7aff97d427b" />
-- enregistrer le son pour l'éclaire et le modifier sur Reaper
+- enregistrer le son pour l'éclaire et le modifier sur Reaper (Je suis allé dans le petit studio et j’ai utilisé la grande plaque de métal, et je l’ai fait bouger pour produire le son de l’éclair. )
 - Prise de photos pour documenter l’avancement du projet.
 
 #### Jeudi
-journée de conger
+journée de congé
 #### Vendredi
-journée de conger
+journée de congé
 ### Semaine 7
 
 #### Lundi
-journée de conger
+journée de congé
+
 #### Mardi
 
 commencer le document de rédaction pour faire marcher le projet
 correction du cartel  pour ce qui est de la marge, enlever la surprise des visages, faire que les logo ne touche pas le texte et changer les faute de francais.
 <img width="807" height="564" alt="Image" src="https://github.com/user-attachments/assets/3901d591-bacb-4939-90e9-91982d7493d1" />
 #### Mercredi
-jourmée de tempete
+jourmée de tempête
 #### Jeudi
 
 finir le documment de rédaction pour faire marcher le projet ajouter les photos pour mieux comprendre les étapes.
-mettre l'ordinateur dans la salle des matriste 
+mettre l'ordinateur dans la salle des matrises
 tester le projet
 <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/09db438e-ac76-42ea-ab23-702e66d066ac" />
 #### Vendredi
-faire des test de claibrage pour les nuague sur la toile 
-voir si tous les membres de l'équipe est capable d'ouvire le projet
+Faire des tests de calibrage pour les nuages sur la toile avec Mikael, via un appel Teams, lorsqu’il est dans la salle de matrise
+voir si tous les membres de l'équipe sont capable d'ouvire le projet
 
 ### Semaine 8
 
@@ -254,9 +255,13 @@ voir si tous les membres de l'équipe est capable d'ouvire le projet
 journée de présentation
 #### Mardi
 journée de vernissage 
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/e57ae4ae-9c8c-4425-b112-9405d9bfb4d2" />
+
 #### Mercredi
 journée de présentation 
 Commence la documentation finale en réalisant des vidéos explicatives du projet, par exemple des vidéos montrant comment les plantes grandissent ou comment les photos sont organisées et stockées dans un dossier.
+<img width="3735" height="1631" alt="image" src="https://github.com/user-attachments/assets/b27ff8b6-0fa6-430a-8c6c-62caa55885f0" />
+
 #### Jeudi
 journée de présentation
 Continue à faire la documentation finale en ajoutant une voix par-dessus la vidéo pour expliquer le projet.
