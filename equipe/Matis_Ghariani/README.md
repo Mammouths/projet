@@ -114,7 +114,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1040" height="732" alt="image" src="https://github.com/user-attachments/assets/3e699a6f-2e99-45ad-9f32-177f94a07af2" />
 
-
 #### Mercredi
 
 - Documentation (photos)
@@ -156,6 +155,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1489" height="913" alt="Screenshot 2026-03-19 145113" src="https://github.com/user-attachments/assets/cb1a1641-836f-46e6-aa75-014ea24d1f72" />
 
+[Eau](eau_coule_normale.wav)
+
+[Eau](equipe/eau_coule_eau.wav)
+
+[Étirement](equipe/baloune.wav)
+
+[Plante qui boit](equipe/plante_boit.wav)
+
 #### Mercredi
 
 - Preparation pour les portes ouvertes
@@ -165,6 +172,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
   - Bruit de réussite
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
+
+[Cris 1](equipe/cris1.wav)
+[Cris 2](equipe/cris2.wav)
+
+[Bruit de réussite](equipe/plante_completed.wav)
 
 #### Jeudi
 
@@ -188,8 +200,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Image (2)](https://github.com/user-attachments/assets/52423639-c7dc-4352-ae50-2fa75d21096c)
 
 - Remixage des sons
-   - Eau 2
-   - Cris
+  - Eau 2
+  - Cris
+
+[Eau 1](equipe/eau_coule_normale_2.wav)
+[Eau 2](equipe/eau_coule_eau_2.wav)
+
+[Cris 3](equipe/cris3.wav)
+[Cris 4](equipe/cris4.wav)
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 221221" src="https://github.com/user-attachments/assets/2ee43df8-6eb7-4730-ba86-fcc6251ccd0e" />
 
@@ -311,7 +329,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Modelisation 3d du background (troisième design)
 - Design et mixage de sons
-   - Éclaire
+  - Éclaire
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/012c3ee8-7c22-4637-8798-a5d34a5a7a2e" />
 
@@ -335,7 +353,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Qualibration des caméras chez « Quand les yeux se croisent »
 - Création sonore
-   - arc-en-ciel
+  - arc-en-ciel
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 192750" src="https://github.com/user-attachments/assets/f658858b-3696-4675-8894-b94452eb8218" />
 
