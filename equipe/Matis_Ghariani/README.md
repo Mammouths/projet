@@ -370,6 +370,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-19 192750" src="https://github.com/user-attachments/assets/f658858b-3696-4675-8894-b94452eb8218" />
 
+[arc_en_ciel.wav](https://github.com/user-attachments/files/26132061/arc_en_ciel.wav)
+
 #### Vendredi
 
 - Correction des bugs sonores
