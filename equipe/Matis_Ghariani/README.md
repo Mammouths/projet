@@ -280,7 +280,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 - Debut de la création et de l'ambiance de base
 - Mixage de son
-  - Plante completé
+  - Son joyeux
 
 [plante_heureux1.wav](https://github.com/user-attachments/files/26132036/plante_heureux1.wav)
 
