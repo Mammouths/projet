@@ -158,10 +158,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 
+- Ajustement des sons
 - Mixage des sons
   - Cris
   - Bruit de réussite
-- Ajustement des sons
 - Preparation pour les portes ouvertes
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-19 145336" src="https://github.com/user-attachments/assets/5de31742-0118-4570-87b1-df82a49b9965" />
