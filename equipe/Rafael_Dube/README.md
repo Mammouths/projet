@@ -117,7 +117,7 @@ Prise de photos pour documenter l’avancement du projet.
 - Prise de photos pour documenter l’avancement du projet.
   <img width="2548" height="1440" alt="Image" src="https://github.com/user-attachments/assets/d82148e5-cd3b-4f72-b940-c9f344381e97" />
 #### Mardi
-- ntégration des sons dans TouchDesigner avec l’Audio File In, puis sortie via Audio Device Out pour que le projet puisse être entendu dans les haut-parleurs lors de la maquette 1
+- Intégration des sons dans TouchDesigner avec l’Audio File In, puis sortie via Audio Device Out pour que le projet puisse être entendu dans les haut-parleurs lors de la maquette 1
 - Installation des haut-parleurs à l’arrière de la toile.
 - testé la réaction de la toile au touché.
 - Prise de photos pour documenter l’avancement du projet.
@@ -150,27 +150,29 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 <img width="3264" height="1836" alt="Image" src="https://github.com/user-attachments/assets/63570fa8-8f0c-4222-8f38-9efa2b122afc" />
   
 #### Jeudi
-- enregistrement de nouveau de cris pour quand les plantes meurt et quand les visages apparait 
+- enregistrement de nouveau de cris pour quand les plantes meurt et quand les visages apparait     cris de chaque membres de l'équipe - [plante_heureux1.wav](https://github.com/user-attachments/files/26128957/plante_heureux1.wav)
+[plante_heureux2.wav](https://github.com/user-attachments/files/26128960/plante_heureux2.wav)
+[plante_heureux3.wav](https://github.com/user-attachments/files/26128962/plante_heureux3.wav)
+
 - Prise de photos pour documenter l’avancement du projet.
 #### Vendredi
 - journée de congé
-
 
 ### Semaine 5
 
 #### Lundi
 ![Quand on rebranchait tout](https://github.com/user-attachments/assets/681030e7-b6f0-4cd7-946e-89ea56b5846a)
-- déplacer la strcuture du projet, contre le mur a gauche et tous les autres chose cable projecteur haut- parleur
+- Déplacer la structure du projet contre le mur à gauche, ainsi que tous les autres éléments : câbles, projecteur et haut-parleurs.
 - enlevé le faux  mur du studio pour mieux placer le cadre
 -  Prise de photos pour documenter l’avancement du projet.
 - premier rencontre avec le comité de Déambulation pour voir quelle tache nous devont faire j'ai choisi de faire le designe du cartel
 #### Mardi
 <img width="1908" height="1067" alt="image" src="https://github.com/user-attachments/assets/3d793440-c4a5-4835-958c-c5d2c267b512" />
 
-- trouver des nouvelle scene pour le trailer par exemple plus de scène ou ont vois des gens qui touche la toile de proche
-- continuer le montage
-- Prise de photos pour documenter l’avancement du projet.
-- tester le projet
+- Trouver de nouvelles scènes pour le trailer, par exemple ajouter plus de plans où l’on voit des - gens toucher la toile de près.
+- Continuer le montage.
+- Prendre des photos pour documenter l’avancement du projet.
+- Tester le projet.
 #### Mercredi
 <img width="1900" height="1078" alt="image" src="https://github.com/user-attachments/assets/6566a48c-c847-4d9c-83c8-a8dcba52fd46" />
 
@@ -180,13 +182,13 @@ Par exemple, pour le début de la bande-annonce : mettre un effet de flou et acc
 - tester le projet
 -  Prise de photos pour documenter l’avancement du projet.
 #### Jeudi
-- finir le trailer
+- Finir le trailer en faisant les dernières retouches, comme ajouter le logo des Arbres en face   et vérifier la cohérence visuelle générale.
 - Prise de photos pour documenter l’avancement du projet.
 - L’équipe a changé de décision pour que le trailer ait un style plus TikTok donc faire un nouveau trailer
   <img width="1892" height="1007" alt="Image" src="https://github.com/user-attachments/assets/1b188a44-fc9a-4816-aa25-6ca629b898df" />
   
 #### Vendredi
-- montage et sous-titre
+- Ajouter des sous-titres au trailer en veillant à ce qu’ils soient bien synchronisés avec la narration, lisibles ,taille et couleur.
   <img width="1907" height="1072" alt="image" src="https://github.com/user-attachments/assets/8c884997-a95d-4f3d-b84e-d34d59a3cdf6" />
 ### Semaine 6
 
@@ -214,7 +216,6 @@ On a eu une rencontre du comité pour décider quel cartel choisir parmis tous l
  - journée de congé
 #### Mardi
 <img width="567" height="340" alt="Image" src="https://github.com/user-attachments/assets/87497559-4218-4a29-bbb9-4bf36188aa2b" />
-
 - correction des demande du prof sur le design du cartel qui sont de changer l'emplacement du code qr aligner le logo etc.
 -  Prise de photos pour documenter l’avancement du projet.
 #### Mercredi
@@ -250,12 +251,16 @@ voir si tous les membres de l'équipe est capable d'ouvire le projet
 ### Semaine 8
 
 #### Lundi
-
+journée de présentation
 #### Mardi
-
+journée de vernissage 
 #### Mercredi
-
+journée de présentation 
+Commence la documentation finale en réalisant des vidéos explicatives du projet, par exemple des vidéos montrant comment les plantes grandissent ou comment les photos sont organisées et stockées dans un dossier.
 #### Jeudi
+journée de présentation
+Continue à faire la documentation finale en ajoutant une voix par-dessus la vidéo pour expliquer le projet.
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2645f862-3c53-425b-b77b-5398a405cf06" />
 
 #### Vendredi
                                                    
