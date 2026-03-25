@@ -76,7 +76,7 @@ Quand Reaper s’ouvre, attendre environ 5 secondes avant de fermer le message d
 
 ## Documentation vidéo finale
 
-[![Vidéo finale](https://github.com/user-attachments/assets/e0118d1a-be5c-4887-963e-50fc414113d2)](https://youtu.be/gDCCqVFaZu8)
+[![Vidéo finale](https://github.com/user-attachments/assets/e0118d1a-be5c-4887-963e-50fc414113d2)](https://youtu.be/Qbv81vm1Bek)
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
 <!-- 
